@@ -1,0 +1,101 @@
+[
+  {
+    "id": "osf:yq482",
+    "doi": "",
+    "title": "The Effect of Affect Labeling on Emotional Granularity",
+    "abstract": "High emotional granularity is known to be a protective factor against psychiatric disorders such as depression and anxiety, making it a clinically important construct (Willroth et al., 2020; Seah et al., 2020).\n\nHowever, research on emotional granularity faces two main challenges:\n1.\tIndividual Differences are Undervalued: Conventional quantification methods rely on a single, aggregate estimate (e.g., the Intraclass Correlation Coefficient, ICC), which may underestimate individual differences and the specific relationships between emotions at the person level.\n2.\tEfficacy of Intervention is Unclear: It remains uncertain whether clinical interventions actually improve emotional granularity.\n\nThis study aims to address these limitations by examining the change in emotional granularity following an intervention. Specifically, we will measure emotional granularity and administer an affect labeling task in a laboratory setting to investigate the effects of this brief intervention. Furthermore, we will employ psychological network model to capture individual differences in emotional granularity that traditional aggregate metrics fail to detect.\n\nSpecifically, using the affect labeling task, we will:\n1.\tExamine changes in the conventional emotional granularity index calculated using the Intraclass Correlation Coefficient (ICC).\n2.\tExamine changes in a novel emotional granularity index based on the density of person-specific emotional idiographic networks estimated from individual data.",
+    "year": "2025",
+    "authors": "",
+    "journal": "OSF Registrations",
+    "source_db": "osf_registrations",
+    "source_query": "labeling"
+  },
+  {
+    "id": "osf:ak6ge",
+    "doi": "",
+    "title": "Affect labeling in fear extinction: can use of word labels enhance extinction?",
+    "abstract": "The goal of this study is to examine whether viewing affectively labeled conditioned stimuli during fear extinction results in reduced fear responses during extinction and during a test for return of fear. This study adds to the current literature in that no study has examined affect labeling within the context of a fear conditioning and extinction paradigm. This is an important step because extinction is a well-established model for exposure therapy. Additionally, neutral cues that become threatening after repeated pairings within an unconditioned stimulus during conditioning, may better represent how fear and anxiety responses develop to neutral cues in the natural world in the context of fear-related disorders. The impact of affectively labeling these stimuli may differ from labeling stimuli that are inherently negative in valence (e.g., IAPS pictures) as has been done in past research. The fear conditioning model also allows for examination of the impact of affect labeling at the time of labeling and at a future test of return of fear responses.",
+    "year": "2024",
+    "authors": "",
+    "journal": "OSF Registrations",
+    "source_db": "osf_registrations",
+    "source_query": "labeling"
+  },
+  {
+    "id": "osf:vkxgw",
+    "doi": "",
+    "title": "The neural correlates of implicit emotion regulation through affect labeling as reflected in EEG",
+    "abstract": "Affect labeling, an implicit emotion regulation (ER) strategy, involves using words to label emotions, whether by speaking, writing, or selecting among the provided words (see review, Torre &amp; Lieberman, 2018). Increasing evidence supports its effectiveness in immediately reducing negative affect (Constantinou et al., 2014; Levy-Gigi &amp; Shamay-Tsoory, 2022; Lieberman et al., 2011). Some studies have shown that this regulatory effect persists during reexposure to previously labeled stimuli. Specifically, some studies have found such an effect during immediate or short-interval reexposure but lacked follow-up assessments (Huang et al., 2013, Liang &amp; Lin, 2023). In contrast, others have observed long-interval effects without finding significant results in earlier stages (Kircanski et al., 2012; Niles et al., 2015; Tabibnia et al., 2008). While these findings suggest that affect labeling may produce a lasting down-regulating effect, the precise time course of this regulatory process remains unclear. Our recent study (Chen et al., in prep) has provided preliminary evidence that the effects of affect labeling can persist over different reexposure phases; however, the existing evidence remains limited and warrants further investigation. We plan to replicate and extend on these findings by adding measures of neural activity during the different phases of reexposure. \n\nThere are two cognitive processes relevant to emotion processing that will be analysed in this study. One reflects the emotion processing and expression process (emotion reactivity), which is evident in EEG markers such as the LPP at centroparietal sites and theta oscillations at parieto-occipital regions. The other reflects top-down control processes (like emotion regulation), which we expect in the frontal regulation LPP (Doornweerd et al., 2024) and possibly in frontal theta oscillations (Ertl et al., 2013). Additionally, the alpha asymmetry is also considered a valuable marker of both emotion reactivity (overall activity) and emotion regulation (lateralized patterns) (Parvaz et al., 2012).\n\nEmotional reactivity – LPP\nOnly one recent study has examined neural responses during reexposure to emotion stimuli following affect labeling (Liang &amp; Lin, 2023), by measuring EEG and focusing on the Late Positive Potential (LPP). The LPP is widely marked as reflecting emotional arousal. It begins approximately 400 ms after stimulus onset and peaks at central and parietal sites (see reviews, Hajcak &amp; Foti, 2020; MacNamara et al., 2022). Consistent findings showed that LPP amplitudes are larger for emotional stimuli than for neutral ones, reflecting heightened emotional engagement (Hajcak &amp; Foti, 2020; MacNamara et al., 2022). Importantly, LPP amplitude is sensitive to the perceived significance of stimuli and can be modulated by ER strategies (Chen et al., 2024; Hajcak &amp; Foti, 2020; MacNamara et al., 2022). For example, numerous studies have demonstrated that reappraisal resulted in reduced LPP amplitudes in response to negative stimuli compared to passive viewing (Hajcak &amp; Foti, 2020; MacNamara et al., 2022). \n\nEmotional regulation – LPP\nIn line with this effect, Liang &amp; Lin (2023) observed reduced LPP amplitudes to negative stimuli after affect labeling during both immediate (versus affect matching) and short-interval reexposure (versus passive viewing). However, in this study, they used emotion-category words (e.g., ‘neutral’ or ‘negative’) as labels, rather than the emotion-specific words that are used in other affect labeling research (Constantinou et al., 2014; Kircanski et al., 2012; Levy-Gigi &amp; Shamay-Tsoory, 2022; Niles et al., 2015; Sun et al., 2025; Yue et al., 2024). Although we have evidenced at the behavioral level that affect labeling with emotion-specific words (e.g., ‘fear’ or ‘sad’) can also have lasting effects across different reexposure phases (Chen et al., in prep), it remains unclear whether these effects are still supported by regulatory signals as witnessed in the LPP at the neural level. \n\nEmotional reactivity – theta oscillations \nLike the LPP, theta-band activity is sensitive to emotional valence. Previous research has demonstrated that theta power increases in response to negative stimuli compared to neutral stimuli, particularly over parietal–temporal–occipital regions during the first second after stimulus onset (Aftanas et al., 2001, 2004, 2005; Sulpizio et al., 2021). To date, no study has investigated oscillatory activity during reexposure after affect labeling. Due to the nature of emotional stimuli, the processing of negative emotional valence can be expected to evoke theta oscillatory activity also during reexposure.\n\nEmotional regulation – theta oscillations\nAffect labeling and reappraisal share overlapping neural mechanisms, including engagement of prefrontal regulatory regions and reductions in amygdala activity (Burklund et al., 2014). Reappraisal has been linked to increased frontal theta power when comparing ‘decrease’ versus ‘maintain’ conditions (Ertl et al., 2013). Based on the shared neural mechanisms, it is plausible that affect labeling, because of its regulatory function, may also be associated with increased frontal theta power. However, it is unknown whether this regulation-related theta would also still be present during reexposure.\n\nEmotional reactivity and regulation – alpha oscillations \nFurthermore, ER involves inhibitory control to suppress the emotional response. Given its role in engaging executive functions, including inhibitory control, the PFC may therefore act as a mediator during ER. Inhibitory processing in the PFC has been associated with a decrease in alpha oscillations. Indeed, a previous study on reappraisal found that while processing of negative emotional stimuli relative to neutral stimuli was associated with increased frontal alpha power (8–13 Hz) across both hemispheres, alpha power decreased with reappraisal (Parvaz et al., 2012). Notably, this regulatory effect of reappraisal was evident primarily in the left hemisphere, where alpha power decreased following reappraisal (Parvaz et al., 2012). This alpha asymmetry is consistent with findings from fMRI studies on reappraisal, which show greater activation in the left PFC (Johnstone et al., 2007; Ochsner et al., 2002). Given that affect labeling appears to engage a similar left-lateralized cluster of prefrontal brain areas (Burklund et al., 2014), a similar pattern of alpha asymmetry might be expected during affect labeling. However, it is unclear whether this regulation-related alpha would also still be present during reexposure.\n\nSumming up, few studies have investigated the lasting effects of affect labeling and the associated neural activity. To address this gap, our study investigates the lasting effects of affect labeling. We assess emotional responses (arousal and valence ratings) at three reexposure time points: immediately after labeling, after a short-interval delay (~15 minutes), and after a long-interval delay (one week). EEG data are recorded during immediate and short-interval reexposure to examine the underlying neural mechanisms.\n\nAdditionally, given the variation in word types used in previous studies, it remains unclear whether the regulatory effects are driven by the labeling process itself, the emotional content of the words, or both. To clarify this, we will use emotion-specific words in the affect labeling condition to reflect participants' subjective feelings. A content labeling condition will be included, using perception-specific words (e.g., ‘colorful’, ‘wide-view’) to describe image features. This will allow us to test whether the effect of affect labeling is specific to the emotional content of the labels. An affect matching condition, requiring participants to choose between emotional images to best reflect their subjective feelings, will serve as a control for the processing of emotional content without a linguistic component. This will help determine whether the down-regulation of negative affect arises specifically from linguistic processing, and to tease apart perceptual, linguistic and emotional contributions in the EEG. \t\n\t\nGenerally, due to its greater engagement of linguistic emotional processing, we hypothesize that affect labeling will reduce negative emotions more effectively than content labeling or affect matching. We will use subjective arousal and valence ratings as behavioral indices to measure perceived emotional intensity and unpleasantness. At the neural level, we will use event-related potentials (specifically the midline LPP and frontal regulation LPP) and EEG oscillatory activity (power in the theta and alpha frequency bands) as indices to reflect changes in emotional processing and stimulus significance associated with the different regulation strategies, particularly during the reexposure phases (for more specific hypotheses see Study Infromation_Hypotheses).",
+    "year": "2025",
+    "authors": "",
+    "journal": "OSF Registrations",
+    "source_db": "osf_registrations",
+    "source_query": "labeling"
+  },
+  {
+    "id": "osf:zkbcj",
+    "doi": "",
+    "title": "SAP - Altered neural activation and functional connectivity in treatment non-responders during affect labeling",
+    "abstract": "This Statistical Analysis Plan is part of two student theses. For detailed information on the larger study and overarching analysis plan, please see the associated SAP: osf.io/8ug9x.\nThis SAP details the anaylses of differences in neural activation and functional connectivity between responders and non-responders to virtual reality exposure therapy (and healthy controls) during an affect labeling fMRI paradigm. The investigation includes cross-sectional differences as well as longitudinal effects of an additional exposure session focusing on inhibitory learning.",
+    "year": "2024",
+    "authors": "",
+    "journal": "OSF Registrations",
+    "source_db": "osf_registrations",
+    "source_query": "labeling"
+  },
+  {
+    "id": "osf:pkxd4",
+    "doi": "",
+    "title": "Efficacy of affect labeling in distress reduction during recall of negative autobiographical memories",
+    "abstract": "The proposed study has two objectives: to examine the efficacy of affect labeling – an emotion regulation technique – on the mitigation of distress caused by the recall of negative autobiographical memories; and to explore the possible positive appraisals of said memories as a consequence of the utilization of affect labeling.",
+    "year": "2024",
+    "authors": "",
+    "journal": "OSF Registrations",
+    "source_db": "osf_registrations",
+    "source_query": "labeling"
+  },
+  {
+    "id": "osf:pufyg",
+    "doi": "",
+    "title": "the Effect of Affect Labeling in Children’s Emotion Regulation",
+    "abstract": "To investigate the impact of affect labeling on the neural mechanisms underlying the regulation of negative emotions in preschoolers, this experiment adapted paradigms from Grabell (2018) frustration game paradigm and Niles (2015) affect labeling paradigm, creating a paradigm suitable for children to regulate their emotions using affect labels. Additionally, functional near-infrared spectroscopy (fNIRS) was employed to examine the neural basis of negative emotion regulation in preschoolers under two different conditions (emotion vocabulary labeling; shape-matching).\nThe experiment employed a within-subject design, with the control condition involving shape-matching and the experimental condition involving affect labels. For the experiment, 30 different cartoon characters were selected as customers purchasing cakes, and participants were tasked with selecting cakes for these customers. Negative emotions in children were induced through the participant’s negative feedback (facial expressions and sound). The entire experiment comprised 2 runs, each containing 5 blocks, and each block included 6 trials. To elicit frustration emotions in children, each block included only 1-2 trials with positive feedback.",
+    "year": "2023",
+    "authors": "",
+    "journal": "OSF Registrations",
+    "source_db": "osf_registrations",
+    "source_query": "labeling"
+  },
+  {
+    "id": "osf:htxca",
+    "doi": "",
+    "title": "The role of affect labeling or expectancy violation in disgust",
+    "abstract": "",
+    "year": "2019",
+    "authors": "",
+    "journal": "OSF Registrations",
+    "source_db": "osf_registrations",
+    "source_query": "labeling"
+  },
+  {
+    "id": "osf:4wuce",
+    "doi": "",
+    "title": "Affect Labeling and Ethical Decision Making",
+    "abstract": "The central objective of my research is to investigate how participants that label their affect in order to regulate/attenuate their emotional experiences in response to an affect (disgust) eliciting stimulus influences: \n\n(1) their subsequent decision making in an ethical dilemma called Ticking Time Bomb Scenario: (approving or dismissing torture given that torturing the terrorist that planted a bomb in a crowded space has a high probability of making the terrorist provide the information where and how to defuse the bomb in time), \n\n(2) their subsequent behaviour by providing a link to further information regarding the British \"Overseas Operations Bill', a much discussed piece of legislation, that could make it even harder to prosecute cases of torture committed by British soldiers more than five years ago and measuring whether people actually take action and click on the provided link or not. \n\nMy research could provide further evidence on how professionals in various disciplines (paramedics, judges, police etc.) could attenuate their emotional experiences in emotionally charged situations and contribute to more rational and ethical decision making (EDM) and behaviour. Moreover, in general, teaching people affect labeling can help them regulate their emotions and their behaviour better without much prior training and at very low (cognitive) costs.",
+    "year": "2021",
+    "authors": "",
+    "journal": "OSF Registrations",
+    "source_db": "osf_registrations",
+    "source_query": "labeling"
+  },
+  {
+    "id": "osf:syqct",
+    "doi": "",
+    "title": "Affect Labeling &amp; Emotional Spreading",
+    "abstract": "",
+    "year": "2017",
+    "authors": "",
+    "journal": "OSF Registrations",
+    "source_db": "osf_registrations",
+    "source_query": "labeling"
+  }
+]

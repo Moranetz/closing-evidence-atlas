@@ -1,0 +1,902 @@
+[
+ {
+  "i": 0,
+  "id": "doi:10.1093/oso/9780198749967.003.0002",
+  "year": "2020",
+  "title": "Modernist Close Reading",
+  "abstract": "Close reading, as it gained prestige from the 1920s in Cambridge Practical Criticism and then the American New Criticism, was not only a product of the modernist period but a product of modernism. Whatever else modernism involved, it advocated what we might call ‘close writing’: a minute attention to the words being used, the word choices being justified by the effects they produced. When I. A. Richards distributed anonymized poems to his students and colleagues for them to analyse, and then analysed their responses in turn, he wrote up his findings in the book that effectively launched close ",
+  "journal": "Modernism and Close Reading",
+  "techs": "assumptive;summary-close;trial-close"
+ },
+ {
+  "i": 1,
+  "id": "doi:10.4324/9781003446132-8",
+  "year": "2023",
+  "title": "Anchor Partnerships and Community Impact",
+  "abstract": "",
+  "journal": "Neighborhood Democracy",
+  "techs": "anchor-with-range;extreme-anchor"
+ },
+ {
+  "i": 2,
+  "id": "nct:NCT03284359",
+  "year": "2018",
+  "title": "A Randomized Trial of Nudges To Enhance Enrollment in Critical Care Research",
+  "abstract": "Difficulties enrolling patients in randomized clinical trials (RCTs) have long been recognized as a major barrier to successful evaluation of medical interventions. This is particularly problematic among intensive care unit (ICU) trials, of which more than one-third do not reach target enrollment. Under-enrollment and selective enrollment reduce RCTs' abilities to answer the research questions, thereby degrading the trials' scientific value and ethics.\n\nCurrent evidence suggests that financial incentives can ethically increase study enrollment, but this approach can pose large up-front costs t",
+  "journal": "ClinicalTrials.gov",
+  "techs": "fitd;reciprocity"
+ },
+ {
+  "i": 3,
+  "id": "openalex:W1819601271",
+  "year": "2015",
+  "title": "Pushing Too Hard: Using Door-in-the-Face to Get Voters out the Door",
+  "abstract": "Get-out-the-vote campaigns have utilized a variety of tools and techniques to encourage registered voters to participate on election day. This paper reports the results of a study that uses two randomized field experiments to test the viability of the door-in-the-face (DITF) technique developed by Cialdini et al. (1975 Cialdini, R. B., J. E. Vincent, S. K. Lewis, J. Catalan, D. Wheeler, and B. L. Darby. 1975. “Reciprocal Concessions Procedure for Inducing Compliance: The Door-in-the-face Technique.” Journal of Personality and Social Psychology 31:206–15. doi:10.1037/h0076284[Crossref], [Web of",
+  "journal": "Journal of Political Marketing",
+  "techs": "ditf"
+ },
+ {
+  "i": 4,
+  "id": "openalex:W2109630906",
+  "year": "1981",
+  "title": "The low-ball compliance technique: Task or person commitment?",
+  "abstract": "Three experiments were conducted to examine the mediating process involved in the low-ball procedure for increasing compliance. In Experiment 1, subjects who agreed to but were not allowed to perform an initial request complied with a more costly version of the same request to a greater extent than did controls only when the second request came from the same person as did the first request and not when it came from a different person. In Experiment 2, subjects who agreed to but were not allowed to carry out an initial low-cost request complied with a larger request from the same person to the ",
+  "journal": "Journal of Personality and Social Psychology",
+  "techs": "lowball"
+ },
+ {
+  "i": 5,
+  "id": "arxiv:2604.16247v1",
+  "year": "2026",
+  "title": "Joint-Centric Dual Contrastive Alignment with Structure-Preserving and Information-Balanced Regularization",
+  "abstract": "We propose HILBERT (HIerarchical Long-sequence Balanced Embedding with Reciprocal contrastive Training), a cross-attentive multimodal framework for learning document-level audio-text representations from long, segmented sequences in low-resource data settings. HILBERT leverages frozen pre-trained speech and language encoders to extract segment-level features, which are aggregated via cross-modal attention and self-attentive pooling to form modality-specific document representations and a joint cross-attentive embedding. To align modalities while preserving modality-specific structure under sev",
+  "journal": "arXiv",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 6,
+  "id": "openalex:W7160692622",
+  "year": "2026",
+  "title": "Digital Transformation and Athlete Human Capital Configuration: A Configurational Perspective on Value Creation",
+  "abstract": "README Dataset for: \"Digital Transformation and Athlete Human Capital Configuration: A Configurational Perspective on Value Creation in Elite Sport\" ============================================================= 1. CASE SELECTION ============================================================= This study examines Chinese track and field athletes across three competitive tiers based on the human capital development stage theory: formation stage (early-career), accumulation stage (national-level), and maturity stage (international elite). Screening Procedure: - Initial pool: 622 athlete cases identi",
+  "journal": "Zenodo (CERN European Organization for Nuclear Research)",
+  "techs": "anchor-with-range"
+ },
+ {
+  "i": 7,
+  "id": "openalex:W7154631742",
+  "year": "2026",
+  "title": "Algorithmic Guidance and Psychological Susceptibility in AI Systems",
+  "abstract": "Conversational artificial intelligence (AI) systems are increasingly used as advisory agents in domains involving career planning, financial decisions, emotional regulation, and productivity enhancement. While existing research primarily evaluates technical performance and accuracy, comparatively little attention has been devoted to the psychological architecture of AI-generated advice. The present study conducted a qualitative comparative discourse analysis of advisory responses generated by three widely used conversational AI systems across eight vulnerability-oriented prompts. Responses wer",
+  "journal": "Advanced International Journal for Research",
+  "techs": "authority"
+ },
+ {
+  "i": 8,
+  "id": "openalex:W7134291344",
+  "year": "2026",
+  "title": "Reasoning Models Struggle to Control their Chains of Thought",
+  "abstract": "Chain-of-thought (CoT) monitoring is a promising tool for detecting misbehaviors and understanding the motivations of modern reasoning models. However, if models can control what they verbalize in their CoT, it could undermine CoT monitorability. To measure this undesirable capability -- CoT controllability -- we introduce the CoT-Control evaluation suite, which includes tasks that require models to solve problems while adhering to CoT instructions, e.g., reasoning about a genetics question without using the word 'chromosome'. We show that reasoning models possess significantly lower CoT contr",
+  "journal": "arXiv (Cornell University)",
+  "techs": "authority"
+ },
+ {
+  "i": 9,
+  "id": "openalex:W7134860043",
+  "year": "2026",
+  "title": "The Third Ambition: Artificial Intelligence and the Science of Human Behavior",
+  "abstract": "Contemporary artificial intelligence research has been organized around two dominant ambitions: productivity, which treats AI systems as tools for accelerating work and economic output, and alignment, which focuses on ensuring that increasingly capable systems behave safely and in accordance with human values. This paper articulates and develops a third, emerging ambition: the use of large language models (LLMs) as scientific instruments for studying human behavior, culture, and moral reasoning. Trained on unprecedented volumes of human-produced text, LLMs encode large-scale regularities in ho",
+  "journal": "arXiv (Cornell University)",
+  "techs": "authority"
+ },
+ {
+  "i": 10,
+  "id": "pmid:41632096",
+  "year": "2026",
+  "title": "Reciprocal Adaptation in Postpartum Fathers: A Mid-Range Theory of Role Negotiation, Relational Reciprocity, and Family Adjustment.",
+  "abstract": "",
+  "journal": "ANS. Advances in nursing science",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 11,
+  "id": "arxiv:2512.09892v1",
+  "year": "2025",
+  "title": "Provably Learning from Modern Language Models via Low Logit Rank",
+  "abstract": "While modern language models and their inner workings are incredibly complex, recent work (Golowich, Liu &amp; Shetty; 2025) has proposed a simple and potentially tractable abstraction for them through the observation that empirically, these language models all seem to have approximately low logit rank. Roughly, this means that a matrix formed by the model's log probabilities of various tokens conditioned on certain sequences of tokens is well approximated by a low rank matrix. In this paper, our focus is on understanding how this structure can be exploited algorithmically for obtaining provab",
+  "journal": "arXiv",
+  "techs": "assumptive"
+ },
+ {
+  "i": 12,
+  "id": "arxiv:2511.06195v1",
+  "year": "2025",
+  "title": "AI as intermediary in modern-day ritual: An immersive, interactive production of the roller disco musical Xanadu at UCLA",
+  "abstract": "Interfaces for contemporary large language, generative media, and perception AI models are often engineered for single user interaction. We investigate ritual as a design scaffold for developing collaborative, multi-user human-AI engagement. We consider the specific case of an immersive staging of the musical Xanadu performed at UCLA in Spring 2025. During a two-week run, over five hundred audience members contributed sketches and jazzercise moves that vision language models translated to virtual scenery elements and from choreographic prompts. This paper discusses four facets of interaction-a",
+  "journal": "arXiv",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 13,
+  "id": "nct:NCT07036744",
+  "year": "2025",
+  "title": "When The Mirror Is Wrong: A Multi-Method Efficacy Study Of An Acceptance And Compassion-Based Group Intervention For Body Dysmorphia",
+  "abstract": "Body Dysmorphic Disorder (BDD) is a severe psychiatric condition characterized by persistent and intrusive preoccupations with perceived flaws in physical appearance, which are typically unnoticeable or appear minor to others. BDD is associated with significant psychological distress, functional impairment, and reduced quality of life. Despite its prevalence and clinical severity, BDD remains frequently underdiagnosed and misdiagnosed. While Cognitive Behavioural Therapy (CBT) and Selective Serotonin Reuptake Inhibitors (SSRIs) are currently considered standard treatments, emerging evidence su",
+  "journal": "ClinicalTrials.gov",
+  "techs": "commitment-consistency"
+ },
+ {
+  "i": 14,
+  "id": "nct:NCT07045051",
+  "year": "2025",
+  "title": "Effects of Fresh Mango as a Sugar Substitute Within High and Low Glycemic Breakfasts on Postprandial Glucose and Insulin",
+  "abstract": "Large blood sugar and insulin increases after meals high in table sugar are related to risk for diabetes and heart disease. Additionally, large increases in blood sugar may also negatively impact vascular health. Previous research suggests that mango consumed in small quantities has blood sugar-lowering properties, but the evidence of this within larger, more realistic meals is limited. The investigators want to understand if replacing table sugar (sucrose) with sugar from fresh mango (which also contains fiber and plant bioactives) will lead to more favorable blood sugar, insulin, and vascula",
+  "journal": "ClinicalTrials.gov",
+  "techs": "lowball"
+ },
+ {
+  "i": 15,
+  "id": "nct:NCT06936111",
+  "year": "2025",
+  "title": "Effect of Residual Lipid and Inflammation Risk on Atherosclerotic Plaque Progression Under Intensive Lipid-lowering Therapy in Coronary Heart Disease",
+  "abstract": "Intensive lipid-lowering therapy is a cornerstone treatment for coronary heart disease (CHD). However, coronary plaque progression persists in a subset of patients even under intensive lipid-lowering therapy, which may be associated with residual lipid and inflammatory risks. Current research in this area remains largely confined to post hoc analyses of randomized controlled trials , with a notable scarcity of prospective follow-up cohorts. The investigators propose that establishing a prospective cohort will provide more authentic insights into the associations between residual risk factors a",
+  "journal": "ClinicalTrials.gov",
+  "techs": "scarcity"
+ },
+ {
+  "i": 16,
+  "id": "doi:10.1093/9780197786567.003.0004",
+  "year": "2025",
+  "title": "Defusing Arguments in Favour of Conscientious Objection",
+  "abstract": "Abstract\n               Chapter 3 examines the main arguments put forward in the literature and public discourse for a right to conscientious objection, arguing that they do not succeed. These include arguments from reasonability, compromise, human rights, toleration, diversity, integrity, and equality of opportunity. For each of them the chapter not only highlights their strength in supporting a right of freedom of conscience in society at large but also shows their limitations in supporting the same right within a specific professional context like health care. The focus in particular is on ",
+  "journal": "Rethinking Conscientious Objection in Health Care",
+  "techs": "isolate-and-conquer"
+ },
+ {
+  "i": 17,
+  "id": "doi:10.5220/0014151200004942",
+  "year": "2025",
+  "title": "Relation Between Loss Aversion and Human Behavior",
+  "abstract": "",
+  "journal": "Proceedings of the 2nd International Conference on Applied P",
+  "techs": "loss-framing"
+ },
+ {
+  "i": 18,
+  "id": "doi:10.1002/1878-0261.70192/v3/review1",
+  "year": "2025",
+  "title": "Review for \"Crucial parameters for precise copy number variation detection in formalin-fixed paraffin-embedded solid cancer samples\"",
+  "abstract": "",
+  "journal": "",
+  "techs": "precise-anchor"
+ },
+ {
+  "i": 19,
+  "id": "nct:NCT06269146",
+  "year": "2024",
+  "title": "Targeting Dopamine-Mediated Social Reward Sensitivity to Remediate Social Disconnection",
+  "abstract": "This study seeks to understand if the medication pramipexole improves social connectedness and functioning in adults (ages 18-50) who experience anxiety or depression. The study plans to enroll 108 participants total across two sites (University of California San Diego and New York State Psychiatric Institute). Pramipexole will be given in a 6-week randomized, double-blind, placebo-controlled trial. Social reward processing will be assessed using measures of brain function (fMRI), behavior, and self-report at baseline and week 6. Knowledge gained from this study will help determine the therape",
+  "journal": "ClinicalTrials.gov",
+  "techs": "extreme-anchor"
+ },
+ {
+  "i": 20,
+  "id": "nct:NCT06567145",
+  "year": "2024",
+  "title": "Assessing the Effectiveness and Feasibility of Group-based Treatment for Self-stigma in People With Mental Disorders: a Pragmatic Multisite Randomized Controlled Trial in Routine Mental Health Service",
+  "abstract": "Self-stigma refers to the internalization of negative stereotypes by individuals with mental disorders, leading to beliefs that they are dangerous, aggressive, or incapable of working. This phenomenon has harmful effects on various aspects of life, such as adherence to treatment, self-esteem, quality of life, and can increase feelings of despair and suicide risk. To address these issues, the Narrative Enhancement and Cognitive Therapy (NECT) was developed. NECT is a group-based intervention consisting of 20 sessions designed to reduce self-stigma in individuals with mental disorders.\n\nThis stu",
+  "journal": "ClinicalTrials.gov",
+  "techs": "trial-close"
+ },
+ {
+  "i": 21,
+  "id": "doi:10.2307/jj.23338166.6",
+  "year": "2024",
+  "title": "Summary",
+  "abstract": "",
+  "journal": "Close to the Edge: Excavations of Five Cornish Coastal Barro",
+  "techs": "summary-close"
+ },
+ {
+  "i": 22,
+  "id": "arxiv:2303.13683v1",
+  "year": "2023",
+  "title": "OFA$^2$: A Multi-Objective Perspective for the Once-for-All Neural Architecture Search",
+  "abstract": "Once-for-All (OFA) is a Neural Architecture Search (NAS) framework designed to address the problem of searching efficient architectures for devices with different resources constraints by decoupling the training and the searching stages. The computationally expensive process of training the OFA neural network is done only once, and then it is possible to perform multiple searches for subnetworks extracted from this trained network according to each deployment scenario. In this work we aim to give one step further in the search for efficiency by explicitly conceiving the search stage as a multi",
+  "journal": "arXiv",
+  "techs": "tna"
+ },
+ {
+  "i": 23,
+  "id": "nct:NCT05739565",
+  "year": "2023",
+  "title": "Title Impact of a Physical Activity Intervention With Motivational Support From Peers for Prostate Cancer Patients - ACTI-PAIR 2 Multicenter, Randomized Stepped-wedge Study",
+  "abstract": "Despite the recognized benefits of physical activity in tertiary prevention, 60-70% of prostate cancer patients are insufficiently active.\n\nYet 150 minutes of brisk walking per week (new WHO recommendations) is associated with a 29% reduction in cancer mortality and a 57% reduction in recurrence.\n\nIncreasing patients' adherence to regular physical activity appears to be a new challenge for personalized cancer care.\n\nPersonalized physical activity programmes (1) at home, (2) supported by health professionals, or (3) by peers have shown the effectiveness of regular physical activity.\n\nHowever, t",
+  "journal": "ClinicalTrials.gov",
+  "techs": "anchor-with-range"
+ },
+ {
+  "i": 24,
+  "id": "nct:NCT05814822",
+  "year": "2023",
+  "title": "Targeting Insomnia to Improve Outcomes in Adults With Problematic Cannabis Use",
+  "abstract": "This study will compare the efficacy of telemedicine-delivered cognitive behavioral therapy for insomnia tailored for people using cannabis for sleep (CBTi-CB-TM) to telemedicine-delivered sleep hygiene education (SHE-TM) on sleep, cannabis use, and daytime functioning. We will also evaluate the effects of CBTi-CB-TM on fundamental sleep regulatory system - homeostatic sleep drive - and its association with clinical outcomes.",
+  "journal": "ClinicalTrials.gov",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 25,
+  "id": "openalex:W4386689369",
+  "year": "2023",
+  "title": "Crisis Management skills For International Medical Graduates",
+  "abstract": "Crisis management is based on clarity, commitment, consistency and confidence. Strategy of Crisis intervention involves awareness, promoting compassion and implementing orders. The assessment crisis Intervention trauma model consists of assessing the affected person, establishing a relationship, understanding the problem, providing emotional support, exploring coping strategies, implementing a plan, and following up. The most common personal crisis can be a failure in exam , switching from one profession to the other, financial crisis, changing your native city or country, loss of a loved one,",
+  "journal": "Journal For International Medical Graduates",
+  "techs": "commitment-consistency"
+ },
+ {
+  "i": 26,
+  "id": "openalex:W4387628486",
+  "year": "2023",
+  "title": "Analysing the Influence of Loss-Gain Framing on Data Disclosure Behaviour: A Study on the Use Case of App Permission Requests",
+  "abstract": "This paper examines the effect of the dark pattern strategy “loss-gain framing” on users’ data disclosure behaviour in mobile settings. Understanding whether framing influences users’ willingness to disclose personal information is important to (i) determine if and how this technique can subvert consent and other privacy decisions, (ii) prevent abuse with appropriate policies and sanctions, and (iii) provide clear evidence-based guidelines for app privacy engineering. We conducted an online user study (N=848), in which we varied the framing of app permission requests (i.e., positive, negative,",
+  "journal": "",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 27,
+  "id": "doi:10.1201/9781003305156-9",
+  "year": "2022",
+  "title": "Turid's case studies",
+  "abstract": "",
+  "journal": "How to Raise a Puppy",
+  "techs": "puppy-dog"
+ },
+ {
+  "i": 28,
+  "id": "openalex:W4210343276",
+  "year": "2022",
+  "title": "Breast Cancers Are Immunogenic: Immunologic Analyses and a Phase II Pilot Clinical Trial Using Mutation-Reactive Autologous Lymphocytes",
+  "abstract": "PURPOSE: Metastatic breast cancer (mBrCa) is most often an incurable disease with only modest responses to available immunotherapies. This study investigates the immunogenicity of somatic mutations in breast cancer and explores the therapeutic efficacy in a pilot trial of mutation-reactive tumor-infiltrating lymphocytes (TILs) in patients with metastatic disease. PATIENTS AND METHODS: Forty-two patients with mBrCa refractory to previous lines of treatment underwent surgical resection of a metastatic lesion(s), isolation of TIL cultures, identification of exomic nonsynonymous tumor mutations, a",
+  "journal": "Journal of Clinical Oncology",
+  "techs": "puppy-dog"
+ },
+ {
+  "i": 29,
+  "id": "doi:10.4324/9781003183815-5",
+  "year": "2021",
+  "title": "A foot in the door",
+  "abstract": "",
+  "journal": "School Principal Development",
+  "techs": "fitd"
+ },
+ {
+  "i": 30,
+  "id": "doi:10.1007/978-3-319-52677-5_41-1",
+  "year": "2021",
+  "title": "End of Trial and Close Out of Data Collection",
+  "abstract": "",
+  "journal": "Principles and Practice of Clinical Trials",
+  "techs": "trial-close"
+ },
+ {
+  "i": 31,
+  "id": "openalex:W4283271761",
+  "year": "2021",
+  "title": "Partial budgeting for acquiring and operating a ground-based optical crop sensor for variable rate nitrogen application",
+  "abstract": "Summary Optical crop sensors for variable rate nitrogen application (VRNA) are described as an optimal solution to increase yield while minimizing fertilizer costs, although their operation and acquisition costs could be high. In this study, a partial budgeting approach was used to assess the net income of buying and operating a crop sensor for VRNA for optimizing fertilizer application to winter wheat. Two VRNA scenarios – stimulus, where crops with lower yield expectations received more fertilizer, and compensatory, where crops with higher yield expectations received less fertilizer – were a",
+  "journal": "Die Bodenkultur Journal of Land Management Food and Environm",
+  "techs": "assumptive"
+ },
+ {
+  "i": 32,
+  "id": "doi:10.5771/1611-5821-2020-6-34",
+  "year": "2020",
+  "title": "Organspende in Deutschland: Höhere Spenderzahlen mithilfe der Disrupt-Then-Reframe-Technik?",
+  "abstract": "Um dem Organspendermangel in Deutschland zu begegnen, wurde zuletzt die Einführung der Widerspruchslösung diskutiert. Die zuständigen Behörden nehmen an, dass ein Mensch zur postmortalen Organspende bereit ist, wenn er zu Lebzeiten nicht ausdrücklich widersprochen hat. Die in Deutschland normierte Entscheidungslösung setzt auf eine bewusste, informierte Entscheidung jedes Einzelnen. Anhand der präsentierten Studie wird gezeigt, dass es mithilfe der sozialpsychologischen Disrupt-Then-Reframe-Technik möglich sein könnte, die Entscheidungslösung beizubehalten und dennoch deutlich höhere Spenderza",
+  "journal": "Gesundheits- und Sozialpolitik",
+  "techs": "disrupt-then-reframe"
+ },
+ {
+  "i": 33,
+  "id": "openalex:W2543036029",
+  "year": "2020",
+  "title": "Regulatory Fit: Impact on Anxiety, Arousal, and Performance in College-Level Soccer Players",
+  "abstract": "Sport performance may be facilitated using regulatory fit, which is a match between individuals' situational strategy and their chronic self-regulatory strategy. However, researchers have not examined the impact of regulatory fit on psychological and physiological components of sport performance, such as anxiety and arousal. Therefore, the purpose of this study was to evaluate the psychophysiological reactions to regulatory fit by examining anxiety, arousal, and sport performance. Female college-level soccer players (n = 25) were randomly assigned to the regulatory match or regulatory mismatch",
+  "journal": "International journal of exercise science",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 34,
+  "id": "nct:NCT04201379",
+  "year": "2019",
+  "title": "Nonspecific Neck Patients's Quality of Life and Their Predictors",
+  "abstract": "Pain, muscle spasm, loss of muscle strength and impaired posture adversely affect the daily life activities and quality of life of neck pain patients.However, the quality of life; It is a multifaceted concept that includes not only the age, sex, marital status, educational status and duration of pain, but also the number of children, BMI, depression, sleep quality, pain-related inadequacy and fatigue. Therefore, considering all these; quality of life; The aim of our study was to determine the factors affecting the quality of life in nonspesific neck patients with the effect that the determinan",
+  "journal": "ClinicalTrials.gov",
+  "techs": "extreme-anchor"
+ },
+ {
+  "i": 35,
+  "id": "doi:10.2307/j.ctvc77m52.40",
+  "year": "2019",
+  "title": "Social Media",
+  "abstract": "",
+  "journal": "99 Variations on a Proof",
+  "techs": "social-proof"
+ },
+ {
+  "i": 36,
+  "id": "openalex:W2995146689",
+  "year": "2019",
+  "title": "Effect of transverse faults on fracture characteristics and borehole instability in the Asmari reservoir of Zagros folded belt zone, Iran",
+  "abstract": "",
+  "journal": "Journal of Petroleum Science and Engineering",
+  "techs": "ditf"
+ },
+ {
+  "i": 37,
+  "id": "openalex:W2942839563",
+  "year": "2019",
+  "title": "Loss-Framed Arguments Can Stifle Political Activism",
+  "abstract": "Abstract Research commonly finds that citizens are loss averse: they dislike losses far more than similarly sized gains. One implication is that arguments for policy change framed in terms of losses to be avoided often have a larger impact on public opinion than arguments framed in terms of gains to be enjoyed. Although several scholars have observed this pattern with respect to public opinion, we know far less about the effect of loss- and gain-framed arguments on political activism. This is a critical omission given the disproportionate impact of political activists on the policymaking proce",
+  "journal": "Journal of Experimental Political Science",
+  "techs": "loss-framing"
+ },
+ {
+  "i": 38,
+  "id": "s2:356bff6b1b4db12f3fa64121885fca43cc01b344",
+  "year": "2019",
+  "title": "Synthesis of g-C3N4/NiO p–n heterojunction materials with ball-flower morphology and enhanced photocatalytic performance for the removal of tetracycline and Cr6+",
+  "abstract": "",
+  "journal": "Journal of Materials Science",
+  "techs": "lowball"
+ },
+ {
+  "i": 39,
+  "id": "doi:10.1177/2041419617732353",
+  "year": "2018",
+  "title": "A concentric tube anchor system for fiber-reinforced polymer retrofit of reinforced concrete structural walls under extreme loads",
+  "abstract": "In reinforced concrete elements strengthened with fiber-reinforced polymer sheets, premature debonding of the fiber-reinforced polymer from the concrete substrate occurs due to lack of anchorage, which reduces the efficiency of the retrofitting system. This article reviews several common anchor systems and describes the development, optimization, and testing of a steel tube anchor in retrofit of reinforced concrete structural elements using externally bonded fiber-reinforced polymer sheets suitable for application to improve resistance against extreme load conditions (e.g. blast, impact, or an",
+  "journal": "International Journal of Protective Structures",
+  "techs": "extreme-anchor"
+ },
+ {
+  "i": 40,
+  "id": "doi:10.15640/ijgws.v6n1a2",
+  "year": "2018",
+  "title": "‘I found that joking back actually made me not on edge, and I didn’t feel threatened’: Women’s embodied experiences of sexist humour (banter) in a UK gym.",
+  "abstract": "",
+  "journal": "International Journal of Gender and Women's Studies",
+  "techs": "feel-felt-found"
+ },
+ {
+  "i": 41,
+  "id": "nct:NCT04216498",
+  "year": "2017",
+  "title": "Describing Relationships Between Psychosocial Outcomes and Readiness for Transition in Adolescent and Young Adult Patients With Juvenile Idiopathic Arthritis - a Pilot Study",
+  "abstract": "It is widely acknowledged that the transition from paediatric to adult health services should be a multidimensional and multidisciplinary process that addresses the medical, psychosocial, and educational needs of adolescents and young adults (AYA). Despite this, there is currently a scarcity of research examining the relationships between psychosocial factors (e.g., anxiety, social support) and transition readiness in AYA with juvenile idiopathic arthritis (JIA). This study therefore aimed to examine the relationships between psychosocial factors and transition readiness in pre-transfer adoles",
+  "journal": "ClinicalTrials.gov",
+  "techs": "scarcity"
+ },
+ {
+  "i": 42,
+  "id": "nct:NCT03349060",
+  "year": "2017",
+  "title": "A PHASE 3 RANDOMIZED, DOUBLE-BLIND, PLACEBO-CONTROLLED, PARALLEL GROUP, MULTI-CENTER STUDY TO EVALUATE THE EFFICACY AND SAFETY OF PF-04965842 MONOTHERAPY IN SUBJECTS AGED 12 YEARS AND OLDER, WITH MODE",
+  "abstract": "B7451012 is a Phase 3 study to evaluate PF-04965842 in patients aged 12 years and older with a minimum body weight of 40 kg who have moderate to severe atopic dermatitis. The efficacy and safety of two dosage strengths of PF-04965842, 100 mg and 200 mg taken orally once daily, will be evaluated relative to placebo over 12 weeks of study participation. Eligible patients will have an option to enter a long-term extension study after completing 12 weeks of treatment.",
+  "journal": "ClinicalTrials.gov",
+  "techs": "summary-close"
+ },
+ {
+  "i": 43,
+  "id": "doi:10.4324/9780203701898-6",
+  "year": "2017",
+  "title": "Cultural grammars of accusation",
+  "abstract": "",
+  "journal": "Criminal Accusation",
+  "techs": "accusation-audit"
+ },
+ {
+  "i": 44,
+  "id": "openalex:W2582246745",
+  "year": "2017",
+  "title": "A linguistic signature of psychological distancing in emotion regulation.",
+  "abstract": "Effective emotion regulation is critical for mental health and well-being, rendering insight into underlying mechanisms that facilitate this crucial skill invaluable. We combined principles of cognitive linguistics and basic affective science to test whether shifting components of one's language might foster effective emotion regulation. In particular, we explored bidirectional relations between emotion regulation and linguistic signatures of psychological distancing. In Study 1, we assessed whether people spontaneously distance their language (i.e., shift their word use to be less socially an",
+  "journal": "Journal of Experimental Psychology General",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 45,
+  "id": "openalex:W2761099331",
+  "year": "2017",
+  "title": "Quality matters for water scarcity",
+  "abstract": "",
+  "journal": "Nature Geoscience",
+  "techs": "scarcity"
+ },
+ {
+  "i": 46,
+  "id": "arxiv:1609.00081v1",
+  "year": "2016",
+  "title": "All Fingers are not Equal: Intensity of References in Scientific Articles",
+  "abstract": "Research accomplishment is usually measured by considering all citations with equal importance, thus ignoring the wide variety of purposes an article is being cited for. Here, we posit that measuring the intensity of a reference is crucial not only to perceive better understanding of research endeavor, but also to improve the quality of citation-based applications. To this end, we collect a rich annotated dataset with references labeled by the intensity, and propose a novel graph-based semi-supervised model, GraLap to label the intensity of references. Experiments with AAN datasets show a sign",
+  "journal": "arXiv",
+  "techs": "tna"
+ },
+ {
+  "i": 47,
+  "id": "nct:NCT02711930",
+  "year": "2016",
+  "title": "Effect of Prone Positioning on Intra-ocular Pressure in Patients With Acute Respiratory Distress Syndrome (ARDS)",
+  "abstract": "Acute respiratory distress syndrome (ARDS) commonly complicates acute illness in intensive care units (ICU). This syndrome is associated with high morbidity and mortality. In management of ARDS patients, lung protective ventilation and prone ventilation are key strategies which have shown survival benefits in recent years and now become standard part of care in these patient. Prone positioning used for surgeries in operation room has been reported with ocular complications, of which vision loss is one of the devastating complications. There is scarcity of literature on effect of prone position",
+  "journal": "ClinicalTrials.gov",
+  "techs": "scarcity"
+ },
+ {
+  "i": 48,
+  "id": "doi:10.4324/9781315230078-32",
+  "year": "2016",
+  "title": "TAKEAWAY",
+  "abstract": "",
+  "journal": "Q-Loop",
+  "techs": "takeaway"
+ },
+ {
+  "i": 49,
+  "id": "openalex:W2512938872",
+  "year": "2016",
+  "title": "I can see where you would be: Patterns of fMRI activity reveal imagined landmarks",
+  "abstract": "",
+  "journal": "NeuroImage",
+  "techs": "sharp-angle"
+ },
+ {
+  "i": 50,
+  "id": "doi:10.14696/jcs.2015.12.15.4.271",
+  "year": "2015",
+  "title": "A Study on Framing Effect focusing on Empathy as the Mediator : How to influence the relationship between framing on the problem of the aged and the perceived generation gap, the perceived threat and ",
+  "abstract": "",
+  "journal": "Journal of Communication Science",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 51,
+  "id": "doi:10.5040/9798765146361",
+  "year": "2015",
+  "title": "Sherlock Holmes Faq",
+  "abstract": "Sherlock Holmes FAQis a one-stop guide to more than a century's worth of mystery, mayhem, and most of all, deduction. Dave Thompson digs deep inside the manifold worlds of Sherlock Holmes, offering a dramatic and detailed digest of the Baker Street sleuth in all of his many guises, as TV and radio star, movie phenomenon, and, of course, literary giant.",
+  "journal": "",
+  "techs": "tna"
+ },
+ {
+  "i": 52,
+  "id": "doi:10.51644/9781554589302",
+  "year": "2014",
+  "title": "Blocking Public Participation",
+  "abstract": "",
+  "journal": "",
+  "techs": "silence"
+ },
+ {
+  "i": 53,
+  "id": "doi:10.1136/bmj.g1817",
+  "year": "2014",
+  "title": "Takeaway food and health",
+  "abstract": "",
+  "journal": "BMJ",
+  "techs": "takeaway"
+ },
+ {
+  "i": 54,
+  "id": "openalex:W2262963916",
+  "year": "2014",
+  "title": "Resource Utilization of Salespeople and Prospecting Performance",
+  "abstract": "Every day, salespeople span boundaries, coordinate internal and external expertise, leverage social capital, mobilize the tangible and intangible resources of their firm, and try to create value for all stakeholders. Recognizing the important roles of salespeople, Evans et al. (2012) and Lassk et al. (2012) call for more research on the usage of skills, knowledge, people, strategies, expertise, and other resources of salespeople to produce the desired outcomes. Responding to their calls, this study specifically focuses on how salespeople utilize their available and finite resources across four",
+  "journal": "",
+  "techs": "feel-felt-found"
+ },
+ {
+  "i": 55,
+  "id": "openalex:W2078245103",
+  "year": "2014",
+  "title": "Effectiveness of Cigarette Warning Labels: Examining the Impact of Graphics, Message Framing, and Temporal Framing",
+  "abstract": "This study examines the effectiveness of cigarette warning labels, with a specific focus on the impact of graphics, message framing (gain vs. loss), and temporal framing (present-oriented vs. future-oriented) among nonsmokers in the United States. A controlled experiment (N = 253) revealed that graphic warning labels were perceived as more effective, stronger in argument strength, and were generally liked more compared to text-only labels. In addition, loss-framed labels, compared to their gain-framed counterparts, were rated higher in perceived effectiveness, argument strength, and liking. No",
+  "journal": "Health Communication",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 56,
+  "id": "doi:10.1037/e505772014-253",
+  "year": "2013",
+  "title": "The Organization of Concrete and Abstract Concepts: Categorical vs. Associative Relationships",
+  "abstract": "",
+  "journal": "PsycEXTRA Dataset",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 57,
+  "id": "doi:10.30875/a4b928a3-fr",
+  "year": "2013",
+  "title": "Panorama 2012",
+  "abstract": "",
+  "journal": "Rapport Annuel Rapport Annuel 2013",
+  "techs": "liking"
+ },
+ {
+  "i": 58,
+  "id": "openalex:W2012486712",
+  "year": "2013",
+  "title": "Global climate change: Impact of diurnal temperature range on mortality in Guangzhou, China",
+  "abstract": "",
+  "journal": "Environmental Pollution",
+  "techs": "disrupt-then-reframe"
+ },
+ {
+  "i": 59,
+  "id": "openalex:W834214454",
+  "year": "2013",
+  "title": "Synthesis, Characterization, and Application of High Surface Area, Mesoporous, Stabilized Anatase TiO2 Catalyst Supports",
+  "abstract": "Nanomaterials have attracted substantial attention in the area of catalysis due to the unique properties they exhibit such as high surface areas, intricate pore networks and unique morphologies. TiO2 has attracted attention as a catalyst since the discovery of its high photocatalytic activity by Fuishima and Honda in 1972. Given its high thermal stability, low cost, low environmental impact, and versatility, TiO2 is a widely used commercial catalyst and catalyst support. TiO2 is used in many applications such as photocatalysis is also an excellent support material for noble metals in a number ",
+  "journal": "ScholarsArchive  (Brigham Young University)",
+  "techs": "trial-close"
+ },
+ {
+  "i": 60,
+  "id": "nct:NCT05913076",
+  "year": "2012",
+  "title": "Evaluation of the Effects of Alternating Rapid Maxillary Expansion and Facemask Use in Cases of Class III Malocclusion Caused by Maxillary Retrognathia- A Prospective, Randomized Clinical Trial",
+  "abstract": "Diverse viewpoints exist regarding the correlation between the conventional rapid maxillary expansion (RME) and facemask approach and the alternative RME and facemask hybrid technique (Alt-RAMEC) in terms of the degree of maxillary protraction. The findings of the study may offer a novel approach to protocol selection based on the anomaly's degree of severity. The objective of this investigation is to assess and contrast the skeletal and dentoalveolar outcomes of three distinct Alt-RAMEC techniques.",
+  "journal": "ClinicalTrials.gov",
+  "techs": "alternative-choice"
+ },
+ {
+  "i": 61,
+  "id": "openalex:W2061068657",
+  "year": "2012",
+  "title": "On the relations between distinct aspects of psychological distance: An ecological basis of construal-level theory",
+  "abstract": "",
+  "journal": "Journal of Experimental Social Psychology",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 62,
+  "id": "pmid:22639705",
+  "year": "2012",
+  "title": "Substance Abuse Treatment Stage and Personal Networks of Women in Substance Abuse Treatment.",
+  "abstract": "",
+  "journal": "Journal of the Society for Social Work and Research",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 63,
+  "id": "nct:NCT01431963",
+  "year": "2011",
+  "title": "A Multi-center, Uncontrolled, Open-label, Evaluation of Lamotrigine Monotherapy in Newly Diagnosed Epilepsy or Recurrent Epilepsy (Currently Untreated)",
+  "abstract": "This is a multi-center, uncontrolled, open-label study conducted in Japan and South Korea to evaluate the efficacy and safety of lamotrigine monotherapy in subjects with newly diagnosed epilepsy and those with recurrent epilepsy (currently untreated).\n\nThe study is composed of baseline, escalation phase, maintenance phase, taper phase and post study examination. During the escalation phase, the investigational product is administered orally at 25 mg/day for 2 weeks, then 50 mg/day for 2 weeks and finally 100 mg/day for 2 weeks. During the maintenance phase, 200 mg/day is administered orally fo",
+  "journal": "ClinicalTrials.gov",
+  "techs": "labeling"
+ },
+ {
+  "i": 64,
+  "id": "nct:NCT02463903",
+  "year": "2011",
+  "title": "Coping Effectiveness Training in Patients With Chronic Heart Failure - a Randomized Controlled Trial",
+  "abstract": "The purpose of the present study is to develop, implement and evaluate a stress management program aiming to improve emotional well-being, health-related quality of life and to reduce readmission to hospital in patients with chronic heart failure (CHF).\n\nMethod: A randomized controlled study design will be employed in which the intervention consists of Coping Effectiveness Training (CET), a manual-based group intervention based on a cognitive transactional theory of stress and coping. The purpose of CET is to improve skills to appraise stress, teach a number of techniques to cope with stress, ",
+  "journal": "ClinicalTrials.gov",
+  "techs": "summary-close"
+ },
+ {
+  "i": 65,
+  "id": "doi:10.5040/9781350088733.0030",
+  "year": "2010",
+  "title": "Bracketing",
+  "abstract": "",
+  "journal": "The Visual Dictionary of Photography",
+  "techs": "bracketing"
+ },
+ {
+  "i": 66,
+  "id": "doi:10.1109/greencomp.2010.5598301",
+  "year": "2010",
+  "title": "An analysis of the energy efficiency of multi-threading on multi-core machines",
+  "abstract": "",
+  "journal": "International Conference on Green Computing",
+  "techs": "multi-threading"
+ },
+ {
+  "i": 67,
+  "id": "openalex:W2001889299",
+  "year": "2010",
+  "title": "An open-ended question: Alzheimer’s disease and involuntary weight loss: which comes first?",
+  "abstract": "",
+  "journal": "Aging Clinical and Experimental Research",
+  "techs": "calibrated-question"
+ },
+ {
+  "i": 68,
+  "id": "openalex:W2115641920",
+  "year": "2010",
+  "title": "Main Principles and Practices of Auditing Independence in China: A Multifaceted Discussion",
+  "abstract": "This paper attempts through a review of the associated literature to describe and critically evaluate the audit market in China by exploring the main factors that affect auditor independence. The study identifies that non-audit service and low-balling/price-cutting are not parameters affecting auditor independence. Regulation can effectively help to maintain audit independence, but the enforcement of those regulations is very poor. Audit firm reputation is established and maintained by fulfilling the obligations of guanxi (personal relationship), rather than by reporting modified opinions fair",
+  "journal": "Asian Social Science",
+  "techs": "lowball"
+ },
+ {
+  "i": 69,
+  "id": "openalex:W1572607609",
+  "year": "2010",
+  "title": "Beyond scarcity: citizen science programmes as useful tools for conservation biogeography",
+  "abstract": "Abstract Aim We assess whether and how datasets collected by the general public, so‐called citizen science programmes, can improve biogeographical studies and contribute to large‐scale conservation target‐setting. Location Worldwide. Methods We first set a general framework highlighting the prerequisites of a relevant dataset for conservation biogeography. We then illustrate how many different citizen science programmes currently running in different countries can be placed within this framework. Results We highlight that citizen science is particularly useful to address issues spanning large ",
+  "journal": "Diversity and Distributions",
+  "techs": "scarcity"
+ },
+ {
+  "i": 70,
+  "id": "openalex:W3146121806",
+  "year": "2010",
+  "title": "A Midsummer Night's Dream: Social proof in HRI",
+  "abstract": "The introduction of two types of unmanned aerial vehicles into a production of A Midsummer Night's Dream suggests that social proof informs untrained human groups. We describe the metaphors used in instructing actors, who were otherwise untrained and inexperienced with robots, in order to shape their expectations. Audience response to a robot crash depended on whether the audience had seen how the actors interacted with the robot ¿baby fairies.¿ If they had not seen the actors treating a robot gently, an audience member would likely throw the robot expecting it to fly or handle it roughly. If ",
+  "journal": "",
+  "techs": "social-proof"
+ },
+ {
+  "i": 71,
+  "id": "openalex:W2154768827",
+  "year": "2009",
+  "title": "Willingness to pay for a hearing aid: comparing the payment scale and open‐ended question",
+  "abstract": "Abstract Rationale &amp; objectives Different question formats elicit different willingness‐to‐pay (WTP) results, but there is no consensus on which method elicits the most valid WTP. In spite of the methodological controversies, WTP is a potentially valuable tool in health economics to value health services. Our general objective was to provide additional evidence on the validity of two WTP elicitation formats: the open‐ended question and the payment scale. Methods We elicited WTP for a hearing aid among hearing aid users ( n = 108), using both a payment scale and an open‐ended question. We c",
+  "journal": "Journal of Evaluation in Clinical Practice",
+  "techs": "calibrated-question"
+ },
+ {
+  "i": 72,
+  "id": "openalex:W2130072921",
+  "year": "2009",
+  "title": "Impaired Emotional Facial Expression Decoding in Alcoholism is Also Present for Emotional Prosody and Body Postures",
+  "abstract": "AIMS: Emotional facial expression (EFE) decoding impairment has been repeatedly reported in alcoholism (e.g. Philippot et al., 1999). Nevertheless, several questions are still under debate concerning this alteration, notably its generalization to other emotional stimuli and its variation according to the emotional valence of stimuli. METHODS: Eighteen recently detoxified alcoholic subjects and 18 matched controls performed a decoding test consisting in emotional intensity ratings on various stimuli (faces, voices, body postures and written scenarios) depicting different emotions (anger, fear, ",
+  "journal": "Alcohol and Alcoholism",
+  "techs": "labeling"
+ },
+ {
+  "i": 73,
+  "id": "openalex:W2106690259",
+  "year": "2009",
+  "title": "No Benefit from Chronic Lithium Dosing in a Sibling-Matched, Gender Balanced, Investigator-Blinded Trial Using a Standard Mouse Model of Familial ALS",
+  "abstract": "BACKGROUND: In any animal model of human disease a positive control therapy that demonstrates efficacy in both the animal model and the human disease can validate the application of that animal model to the discovery of new therapeutics. Such a therapy has recently been reported by Fornai et al. using chronic lithium carbonate treatment and showing therapeutic efficacy in both the high-copy SOD1G93A mouse model of familial amyotrophic lateral sclerosis (ALS), and in human ALS patients. METHODOLOGY/PRINCIPAL FINDINGS: Seeking to verify this positive control therapy, we tested chronic lithium do",
+  "journal": "PLoS ONE",
+  "techs": "puppy-dog"
+ },
+ {
+  "i": 74,
+  "id": "openalex:W1522470776",
+  "year": "2009",
+  "title": "Social Proof: A Tool for Determining Authority",
+  "abstract": "In the Library with the Lead Pipe is pleased to welcome another guest author, Steve McCann! Steve is a Digital Projects Librarian specializing in information architecture, usability studies, and data analysis. In 2008, when I was visiting Anaheim, CA, for the ALA Annual Conference, I had a rather unpleasant experience renting a car. I had [...]",
+  "journal": "DOAJ (DOAJ: Directory of Open Access Journals)",
+  "techs": "social-proof"
+ },
+ {
+  "i": 75,
+  "id": "doi:10.1017/cbo9780511492334.015",
+  "year": "2008",
+  "title": "Reciprocity in trust, and intrinsic values",
+  "abstract": "",
+  "journal": "Reciprocity",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 76,
+  "id": "openalex:W2091765382",
+  "year": "2008",
+  "title": "External apical root resorption in patients treated with conventional and self-ligating brackets",
+  "abstract": "",
+  "journal": "American Journal of Orthodontics and Dentofacial Orthopedics",
+  "techs": "bracketing"
+ },
+ {
+  "i": 77,
+  "id": "openalex:W47418396",
+  "year": "2008",
+  "title": "Turning Persuasion from an Art into a Science",
+  "abstract": "",
+  "journal": "Knowledge and space",
+  "techs": "commitment-consistency"
+ },
+ {
+  "i": 78,
+  "id": "openalex:W2141730776",
+  "year": "2006",
+  "title": "Counterfactual thinking and regulatory fit",
+  "abstract": "Abstract According to regulatory fit theory (Higgins, 2000), when people make decisions with strategies that sustain their regulatory focus orientation, they “feel right” about what they are doing, and this “feeling-right” experience then transfers to subsequent choices, decisions, and evaluations. The present research was designed to link the concept of regulatory fit to functional accounts of counterfactual thinking. In the present study, participants generated counterfactuals about their anagram performance, after which persistence on a second set of anagrams was measured. Under promotion f",
+  "journal": "Judgment and Decision Making",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 79,
+  "id": "arxiv:cs/0411035v1",
+  "year": "2004",
+  "title": "A FP-Tree Based Approach for Mining All Strongly Correlated Pairs without Candidate Generation",
+  "abstract": "Given a user-specified minimum correlation threshold and a transaction database, the problem of mining all-strong correlated pairs is to find all item pairs with Pearson's correlation coefficients above the threshold . Despite the use of upper bound based pruning technique in the Taper algorithm [1], when the number of items and transactions are very large, candidate pair generation and test is still costly. To avoid the costly test of a large number of candidate pairs, in this paper, we propose an efficient algorithm, called Tcp, based on the well-known FP-tree data structure, for mining the ",
+  "journal": "arXiv",
+  "techs": "tna"
+ },
+ {
+  "i": 80,
+  "id": "openalex:W88961918",
+  "year": "2004",
+  "title": "A real-world way to manage real options.",
+  "abstract": "Each corporate growth project is an option, in the sense that managers face choices--push ahead or pull back--along the way. Yet many companies hesitate to apply options theory to initiatives such as R&D and geographic expansion, partly because these \"real\" options are highly complex. In this article, the authors make the case that the complexity of real options can be eased through the use of a binomial valuation model. Many of the problems with real-options analysis stem from the use of the Black-Scholes-Merton model, which isn't suited to real options. Binomial models, by contrast, are simp",
+  "journal": "PubMed",
+  "techs": "takeaway"
+ },
+ {
+  "i": 81,
+  "id": "doi:10.5860/choice.41-1378",
+  "year": "2003",
+  "title": "Close reading: the reader",
+  "abstract": "",
+  "journal": "Choice Reviews Online",
+  "techs": "alternative-choice"
+ },
+ {
+  "i": 82,
+  "id": "openalex:W2050478590",
+  "year": "2002",
+  "title": "Base-Pairing Systems Related to TNA:  α-Threofuranosyl Oligonucleotides Containing Phosphoramidate Linkages<sup>1</sup>",
+  "abstract": "(3'NH)- and (2'NH)-TNA, two isomeric phosphoramidate analogues of TNA (alpha-threofuranosyl-(3'-->2') oligonucleotides), are shown to be efficient Watson-Crick base-pairing systems and to undergo intersystem cross-pairing with TNA, RNA, and DNA. [reaction: see text]",
+  "journal": "Organic Letters",
+  "techs": "tna"
+ },
+ {
+  "i": 83,
+  "id": "openalex:W3123899576",
+  "year": "2001",
+  "title": "Market Liquidity and Trading Activity",
+  "abstract": "ABSTRACT Previous studies of liquidity span short time periods and focus on the individual security. In contrast, we study aggregate market spreads, depths, and trading activity for U.S. equities over an extended time sample. Daily changes in market averages of liquidity and trading activity are highly volatile and negatively serially dependent. Liquidity plummets significantly in down markets. Recent market volatility induces a decrease in trading activity and spreads. There are strong day‐of‐the‐week effects; Fridays accompany a significant decrease in trading activity and liquidity, while T",
+  "journal": "The Journal of Finance",
+  "techs": "alternative-choice"
+ },
+ {
+  "i": 84,
+  "id": "openalex:W2167565328",
+  "year": "1995",
+  "title": "Reciprocity Reconsidered: Gouldner's `Moral Norm of Reciprocity' and Social Support",
+  "abstract": "In a classic statement three decades ago, Gouldner (1960) made an important analytic distinction between reciprocity as a pattern of social exchange and reciprocity as a general moral belief. Gouldner argued that the moral norm of reciprocity constitutes an important `causal force' in social life. The reciprocity norm dictates that Ego should not end up gaining at the expense of Alter's beneficial acts towards him or her. In contrast to equity theory, which suggests that people will react equally negatively to under- and overbenefiting, the reciprocity norm suggests that people will, above all",
+  "journal": "Journal of Social and Personal Relationships",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 85,
+  "id": "doi:10.5040/9798216977322.0009",
+  "year": "1990",
+  "title": "6 \nU.S. Marshall Plan Revival: \nPrograms to Boost Manufacturers' \nExports and Close Gaps with Third \nWorld Nations \nCHALLENGES AND OPPORTUNITIES OF A \nMARSHALL PLAN REVIVAL",
+  "abstract": "",
+  "journal": "Manufacturing for the Security of the United States",
+  "techs": "mutual-close-plan"
+ },
+ {
+  "i": 86,
+  "id": "openalex:W2079705596",
+  "year": "1990",
+  "title": "Bond strength of ceramic brackets under shear stress: An in vitro report",
+  "abstract": "",
+  "journal": "American Journal of Orthodontics and Dentofacial Orthopedics",
+  "techs": "bracketing"
+ },
+ {
+  "i": 87,
+  "id": "doi:10.1016/0921-5093(89)90298-0",
+  "year": "1989",
+  "title": "Dislocation structures in large-angle grain boundaries in hexagonal close-packed materials",
+  "abstract": "",
+  "journal": "Materials Science and Engineering: A",
+  "techs": "sharp-angle"
+ },
+ {
+  "i": 88,
+  "id": "openalex:W2107885904",
+  "year": "1989",
+  "title": "Consistency-based Compliance in Children: When and Why Do Consistency Procedures Have Immediate Effects?",
+  "abstract": "The purpose of this study was to examine the nature and development of behavioural consistency pressures in children. Specifically, the effectiveness of the foot-in-the-door procedure on subsequent verbally reported prosocial intentions and enacted intentions was examined with preschoolers/kindergarters, second, and fifth graders. Children were either induced to comply with a request to share prize coupons or were not given this initial prosocial experience. Those who were induced to comply either were or were not labelled as helpful by an adult. Immediately, after, children were asked to indi",
+  "journal": "International Journal of Behavioral Development",
+  "techs": "fitd"
+ },
+ {
+  "i": 89,
+  "id": "openalex:W1568238390",
+  "year": "1989",
+  "title": "Introduction to the human sciences",
+  "abstract": "Introduction to the Human Sciences carries forward a projected six-volume translation series of the major writings of Wilhelm Dilthey (1833-1911)--a philosopher and historian of culture who has had a strong and continuing influence on twentieth-century Continental philosophy as well as a broad range of other scholarly disciplines. In addition to his landmark works on the theories of history and the human sciences, Dilthey made important contributions to hermeneutics and phenomenology, aesthetics, psychology, and the methodology of the social sciences. The Selected Works will make accessible to",
+  "journal": "Princeton University Press eBooks",
+  "techs": "silence"
+ },
+ {
+  "i": 90,
+  "id": "openalex:W2757271117",
+  "year": "1987",
+  "title": "Monuments of Empire: Allegory/Counter-Discourse/ Post-Colonial Writing",
+  "abstract": "On Tuesday, 22 June 1897, Britain's loyal subjects — at Home, in the Dominions, and in the Colonies — celebrated in song and spectacle the Diamond Jubilee of Victoria's reign. It was not only the Queen's longevity they were celebrating, not only the remarkable progress of Western technology and science over the past sixty years, but also, and most importantly, the spread of the British Empire itself to the point where it now subsumed one quarter of the world's entire population. 'From my heart,' ran the Queen's message, telegraphed across the globe, 'I thank my beloved people. May God bless th",
+  "journal": "Research Online (University of Wollongong)",
+  "techs": "alternative-choice"
+ },
+ {
+  "i": 91,
+  "id": "doi:10.1021/bi00370a071",
+  "year": "1986",
+  "title": "Interaction of fully liganded valency hybrid hemoglobin with inositol hexaphosphate. Implication of the IHP-induced T state of human adult methemoglobin in the low-spin state",
+  "abstract": "",
+  "journal": "Biochemistry",
+  "techs": "spin-implication"
+ },
+ {
+  "i": 92,
+  "id": "openalex:W2154428853",
+  "year": "1984",
+  "title": "A comparison of two behavioral influence techniques for improving blood donor recruitment",
+  "abstract": "This study was designed to test the viability of two multiple request techniques of behavioral influence for recruiting blood donors by telephone. The first technique utilizes a small antecedent request to encourage behavioral involvement and favorable disposition toward the target activity of the critical request to donate. The second approach frames the critical request as a concession following refusal of a very large request. The two techniques, dubbed the foot-in-the-door (FID) and door-in-the-face (DIF), respectively, were tested against a control condition on three donor groups: active ",
+  "journal": "Transfusion",
+  "techs": "ditf"
+ },
+ {
+  "i": 93,
+  "id": "doi:10.1016/s0022-5371(82)90445-5",
+  "year": "1982",
+  "title": "Context and repetition effects in lexical decision and recognition memory",
+  "abstract": "",
+  "journal": "Journal of Verbal Learning and Verbal Behavior",
+  "techs": "mirroring"
+ },
+ {
+  "i": 94,
+  "id": "openalex:W2322324549",
+  "year": "1962",
+  "title": "Power-Dependence Relations",
+  "abstract": "Judging from the frequent occurrence of such words as power, influence, dominance and submission, status and authority, the importance of power is widely recognized, yet considerable confusion exists concerning these concepts. The process of cost reduction in power-dependence relations shows itself in many varied forms. Cost reduction is a process involving change in values which reduces the pains incurred in meeting the demands of a powerful other. The costs associated with alternatives must be included in any assessment of dependency. The chapter aims to construct a simple theory of the powe",
+  "journal": "American Sociological Review",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 95,
+  "id": "doi:10.1049/iet-tv.50.964",
+  "year": "",
+  "title": "",
+  "abstract": "",
+  "journal": "",
+  "techs": "ben-franklin"
+ },
+ {
+  "i": 96,
+  "id": "doi:10.7717/peerj.16693/supp-10",
+  "year": "",
+  "title": "Supplemental Information 10: Species level Time-Calibrated phylogeny of Arvicolinae",
+  "abstract": "",
+  "journal": "",
+  "techs": "calibrated-question"
+ },
+ {
+  "i": 97,
+  "id": "doi:10.31003/uspnf_m4908_13_01",
+  "year": "",
+  "title": "〈7〉 Labeling",
+  "abstract": "",
+  "journal": "",
+  "techs": "labeling"
+ },
+ {
+  "i": 98,
+  "id": "doi:10.17816/2311-2905-17645-151485",
+  "year": "",
+  "title": "Figure 3. Regression analysis results reflecting the relationship between the indicators that characterize the anatomical structure of the acetabulum and the femoral head extrusion index: a — between ",
+  "abstract": "",
+  "journal": "",
+  "techs": "sharp-angle"
+ },
+ {
+  "i": 99,
+  "id": "doi:10.2139/ssrn.5907634",
+  "year": "",
+  "title": "Strategic Silence in the Age of AI:Algorithmic Gatekeeping and the Public Relations of Absence",
+  "abstract": "",
+  "journal": "",
+  "techs": "silence"
+ }
+]

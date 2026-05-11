@@ -1,0 +1,2 @@
+id,doi,year,title,authors,journal,abstract,provenance_techniques,provenance_count,decision,decision_reason,screener
+doi:10.1016/j.jesp.2016.11.001,10.1016/j.jesp.2016.11.001,2017,How and why precise anchors distinctly affect anchor recipients and senders,"David D. Loschelder, Malte Friese, Roman Trötschel",Journal of Experimental Social Psychology,,precise-anchor,1,include,"JESP 2017 on precise anchors × sender/recipient effects; eligible (experimental, anchoring, judgment outcome).",llm-claude-opus-4-7

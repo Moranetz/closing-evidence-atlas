@@ -1,0 +1,101 @@
+[
+  {
+    "id": "osf:e4pvw",
+    "doi": "",
+    "title": "Choice Bracketing and Random Incentive System under Risk and Uncertainty",
+    "abstract": "Are participants’ tendency to hedge their choices under uncertainty induced by the use of a random incentive system (RIS) correlated with their tendency to broadly or narrowly bracket risky choices? \nNamely, we investigate the following two questions.\n1\t[Tendency to fail utility maximization over final alternatives under risk and uncertainty] If a participant fails to hedge her/his ambiguity choices under RIS, then the participant’s choices are inconsistent with maximizing an increasing utility function over a set of feasible final alternatives under uncertainty. We investigate whether such participants’ choices also tend to be inconsistent with maximizing an increasing utility function over a set of feasible final alternatives under risk. More specifically, we investigate participants who fail to hedge their ambiguity choices under RIS are less likely to bracket risky choices broadly than other participants.\n2\t[Tendency to bracket choices narrowly under risk and uncertainty] We investigate that participants who fail to hedge ambiguity choices under RIS are more likely to bracket risky choices narrowly than other participants.",
+    "year": "2025",
+    "authors": "",
+    "journal": "OSF Registrations",
+    "source_db": "osf_registrations",
+    "source_query": "bracketing"
+  },
+  {
+    "id": "osf:9tz6h",
+    "doi": "",
+    "title": "Choice Bracketing revisited: Replication and extensions Registered Report of seven experiments reviewed in Read et al. (1999)",
+    "abstract": "Please see \"Stage 1\" for preprint, Qualtircs survey, and simulated data and code",
+    "year": "2024",
+    "authors": "",
+    "journal": "OSF Registrations",
+    "source_db": "osf_registrations",
+    "source_query": "bracketing"
+  },
+  {
+    "id": "osf:gq86s",
+    "doi": "",
+    "title": "Malleable Choice Bracketing and the Dictator Game",
+    "abstract": "1 Introduction\nThis research project is based on a pilot experiment which was conducted in the experimental economic laboratory of the University of Kiel, Germany, in June 2022. The first aim of the project is to categorize participants as broad or narrow bracketing decision makers (using the method of Andrew Ellis, LSE, and David J. Freeman, Simon Fraser University, 2021, working paper) and to investigate whether a broad-bracketing priming treatment has an influence on this characterization. \nThe second aim is to investigate whether broad bracketing decision makers give less in a standard dictator game. \nConsider the situation in which an individual needs to make several choices in a set for which the outcomes have consequences for similar ends – for the incomes of two other, anonymous individuals in our case. Narrow bracketing means that the individual considers one sub-choice at a time, while broad bracketing implies that, while deciding, the individual considers the entire set of sub-choices at the same time to optimize the outcome consequences.\nThe idea of the connection between broad bracketing and the dictator game is that a broad bracketing dictator might keep the money in the game, but use it for an altruistic purpose afterwards. This thought is not expected to arise in a narrow bracketing dictator’s mind, since she does not think about her future decisions simultaneously. Therefore, the only altruistic option that the narrow bracketing individual faces is to share money with the recipient in the dictator game.\nOur pilot experiment was conducted as a lab experiment with 74 participants divided in two treatments. In the Broad treatment participants were primed to think in a broader way, whereas no such priming took place in the Control treatment. Afterwards all participants had to make distributional decisions, which revealed their preferences and allowed us to test for broad and narrow bracketing for each individual. We used the task provided by Andrew Ellis and David J. Freeman (2021, working paper). This method then allows to compare the share of narrow and broad bracketing individuals between Broad and Control.\nThe priming to become a broad bracketing decision maker was done via two simple questions in Broad. The questions were about hypothetical monetary choices and therefore should stimulate the thinking about past and future decisions. 44 participants had to answer these questions in Broad before starting with the Ellis-Freeman task. The other 30 participants were in Control and answered two questions which are unrelated to choice bracketing.\nAfter the Ellis-Freeman task, all individuals participated in a standard dictator game in which 6 Euros had to be distributed between oneself and another randomly chosen, anonymous par-ticipant. Finally, the participants took a brief seven-item cognitive reflection test (CRT) (origi-nally: Frederick, S., 2005, “Cognitive reflection and decision making”. Journal of Economic Per-spectives, 19(4), 25-42). We use the 7-item CRT of Toplak et al. (2014) (see Toplak, M. E., West, R. F., &amp; Stanovich, K. E., 2014, “Assessing miserly information processing: An expan-sion of the Cognitive Reflection Test”, Thinking &amp; Reasoning, 20(2), 147-168) as well as an-swered basic socio-economic questions.\nThe results of this pilot experiment show some interesting significant differences between Broad and Control. When we used a specific choice bracketing categorization method (NB-WARP), more narrow bracketing preferences were revealed in Control than in Broad. Since the number of participants was not high, there were only tendencies observable regarding other choice bracketing categorization methods/tests and the giving in the dictator game which would be statistically significant with a reasonable number of observations (if the means and standard deviations persist). That is the reason why we will collect more data online. This pre-analysis plan aims to specify and document our procedure, our experimental design and our hypotheses. \n\n2 Procedure\nWe plan to run the online experiment in April 2023. Participants’ choices will be collected via Qualtrics and we will recruit participants via the platform Prolific. Participants will only be able to participate in the study using a (laptop or conventional) computer. Qualtrics will check the electronic device of the participants and we will disable smartphone and tablet participation, so that the displayed stages look the same for all users. We will inform all invited Prolific users of this fact before they can click on the Qualtrics link to participate. The invitation message in Prolific will also already include the informed consent clause.\nApproximately half of the participants will be randomly assigned to Broad and the other half to Control in a between-subjects design. The only difference between these treatments will be the two broad-bracketing priming questions at the beginning. Thereafter all parts will be equivalent for the two treatments.\n\n\nPlease see the pre-registration pdf for details.",
+    "year": "2023",
+    "authors": "",
+    "journal": "OSF Registrations",
+    "source_db": "osf_registrations",
+    "source_query": "bracketing"
+  },
+  {
+    "id": "osf:jfrzs",
+    "doi": "",
+    "title": "Malleable Choice Bracketing and the Dictator Game",
+    "abstract": "We will add two more treatments to our experiment and the details are described in the attached second pre-registration plan.",
+    "year": "2023",
+    "authors": "",
+    "journal": "OSF Registrations",
+    "source_db": "osf_registrations",
+    "source_query": "bracketing"
+  },
+  {
+    "id": "osf:5wzrg",
+    "doi": "",
+    "title": "Revealing Choice Bracketing",
+    "abstract": "",
+    "year": "2020",
+    "authors": "",
+    "journal": "OSF Registrations",
+    "source_db": "osf_registrations",
+    "source_query": "bracketing"
+  },
+  {
+    "id": "osf:8mraq",
+    "doi": "",
+    "title": "Revealing Choice Bracketing",
+    "abstract": "",
+    "year": "2019",
+    "authors": "",
+    "journal": "OSF Registrations",
+    "source_db": "osf_registrations",
+    "source_query": "bracketing"
+  },
+  {
+    "id": "osf:362py",
+    "doi": "",
+    "title": "Revealing Choice Bracketing",
+    "abstract": "",
+    "year": "2019",
+    "authors": "",
+    "journal": "OSF Registrations",
+    "source_db": "osf_registrations",
+    "source_query": "bracketing"
+  },
+  {
+    "id": "osf:pn43w",
+    "doi": "",
+    "title": "Revealing Choice Bracketing",
+    "abstract": "",
+    "year": "2019",
+    "authors": "",
+    "journal": "OSF Registrations",
+    "source_db": "osf_registrations",
+    "source_query": "bracketing"
+  },
+  {
+    "id": "osf:63guj",
+    "doi": "",
+    "title": "Bracketing versus Chunking Strategies in Visual Statistical Learning",
+    "abstract": "There are two main theories to explain the mechanisms through which statistical learning occurs:  bracketing and chunking.  The bracketing approach (e.g., Cairns, Shillcock, Chater, &amp; Levy, 1997; Christiansen, Allen, &amp; Seidenberg, 1998; Saffrin, Aslin, &amp; Newport, 1996) suggests that statistical learning occurs through the transitional probabilities between successive items in a sequence.  This is thought to include both forward and backward transitional probabilities as well as long-distance dependencies.  There are several different models of the chunking approach, but the most empirically validated is PARSER (Perruchet, 2019; Perruchet &amp; Vintner, 1998).  PARSER suggests that statistical learning occurs through the extraction of units from the sequence initially at random.  If the unit is encountered again, the representation of that unit is strengthened in memory.  But as time progresses in between activations of that representation, it weakens through decay.  Furthermore, encountering other units with similar constituent features results in interference, further weakening the representation for that unit.  The strength of the representation of that unit continues to be adjusted and a stable representation for true units (i.e., ones that actually exist within the sequence) are formed and false units (i.e., mis-parsings of the sequence) become weaker.  \n\nThese two approaches to statistical learning vary in important ways.  In the bracketing approach, transitional probabilities are computed between all co-occurring units.  These calculations are thought to be continuously updated with each additional exposure, and the mental representations for both the full unit (e.g., abc) and the sub-units that it is comprised of (e.g., ab and bc) are reinforced as training continues.  In contrast, the PARSER approach to chunking suggests that the increasing strength of units will interfere with representations of the sub-unit resulting in decay of representations of the sub-unit.  Giroux &amp; Rey (2009) directly compared the representation of units and sub-units using both a computation model and human participants during an auditory task with nonsense syllables.  During the test phase, both simulated and human participants were asked to choose between a partial unit (i.e., a unit that spanned a boundary between units; e.g., CD from abC and Def) with either a true unit or a sub-unit.  After 10 minutes of exposure, both the simulated and human participants showed higher accuracy for choosing units than for choosing sub-units.  This suggests that, in line with the chunking approach to statistical learning, participants had learned the full units better than their constituent components.  \n\nWhile the Giroux &amp; Rey (2009) study provided strong support for the chunking approach, it, as well as most statistical learning studies to date, focused on testing learning using explicit methods where participants must make a decision about how likely it was that a unit came from a training sequence.  This is in stark contrast with the nature of the learning itself that is often described as an implicit rather than explicit process (e.g., Conway, 2020).  Recently, however, tasks based on reaction times have been devised to examine more implicit learning of statistical structure (e.g., Batterink, Reber, Neville, &amp; Paller, 2015; Siegelman, Bogaerts, Kronenfeld, &amp; Frost, 2018).  In one such task (Siegelman et al., 2018), participants are asked to view a series of stimuli sequentially that are covertly arranged into triplets.  Unlike tradition statistical learning paradigms in which the stimuli are presented at a fixed rate, participants choose their own rate of progression by pressing a button following the presentation of each stimulus.  Siegelman and colleagues found that, after controlling for between-subject variability, participants typically took longer to press a button after the presentation of a triplet in the first position than in either the second or third position with no difference in the duration of the latter two stimuli.  Notably, the second and third stimuli in a sequence are always predictable based on the preceding stimulus.  However, stimuli in the first position are less predictable because they can follow any of the other triplets in the stimulus set.  As such, quicker reaction times for stimuli in the second and third position suggest that participants were able to extract the statistical structure of the sequence and were anticipating these latter two stimuli in the triplets.  \n\nThe present experiment proposes to use this self-paced statistical learning paradigm (Siegelman et al., 2018) to examine the implicit learning of units compared to sub-units in a visual statistical learning task.  In particular, it examines how reaction time to stimuli embedded within learned triplets changes when the triplet is rearranged such that the first stimulus in a triplet is moved to the end of the triplet instead (e.g., Abc is changed to bcA).",
+    "year": "2020",
+    "authors": "",
+    "journal": "OSF Registrations",
+    "source_db": "osf_registrations",
+    "source_query": "bracketing"
+  }
+]

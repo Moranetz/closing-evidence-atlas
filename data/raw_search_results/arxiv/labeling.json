@@ -1,0 +1,222 @@
+[
+  {
+    "id": "arxiv:1808.00388v1",
+    "doi": "",
+    "title": "How Does Tweet Difficulty Affect Labeling Performance of Annotators?",
+    "abstract": "Crowdsourcing is a popular means to obtain labeled data at moderate costs, for example for tweets, which can then be used in text mining tasks. To alleviate the problem of low-quality labels in this context, multiple human factors have been analyzed to identify and deal with workers who provide such labels. However, one aspect that has been rarely considered is the inherent difficulty of tweets to be labeled and how this affects the reliability of the labels that annotators assign to such tweets. Therefore, we investigate in this preliminary study this connection using a hierarchical sentiment labeling task on Twitter. We find that there is indeed a relationship between both factors, assuming that annotators have labeled some tweets before: labels assigned to easy tweets are more reliable than those assigned to difficult tweets. Therefore, training predictors on easy tweets enhances the performance by up to 6% in our experiment. This implies potential improvements for active learning techniques and crowdsourcing.",
+    "year": "2018",
+    "authors": "Stefan Räbiger, Yücel Saygın, Myra Spiliopoulou",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "labeling"
+  },
+  {
+    "id": "arxiv:2505.15772v1",
+    "doi": "10.21437/Interspeech.2025-648",
+    "title": "MIKU-PAL: An Automated and Standardized Multi-Modal Method for Speech Paralinguistic and Affect Labeling",
+    "abstract": "Acquiring large-scale emotional speech data with strong consistency remains a challenge for speech synthesis. This paper presents MIKU-PAL, a fully automated multimodal pipeline for extracting high-consistency emotional speech from unlabeled video data. Leveraging face detection and tracking algorithms, we developed an automatic emotion analysis system using a multimodal large language model (MLLM). Our results demonstrate that MIKU-PAL can achieve human-level accuracy (68.5% on MELD) and superior consistency (0.93 Fleiss kappa score) while being much cheaper and faster than human annotation. With the high-quality, flexible, and consistent annotation from MIKU-PAL, we can annotate fine-grained speech emotion categories of up to 26 types, validated by human annotators with 83% rationality ratings. Based on our proposed system, we further released a fine-grained emotional speech dataset MIKU-EmoBench(131.2 hours) as a new benchmark for emotional text-to-speech and visual voice cloning.",
+    "year": "2025",
+    "authors": "Yifan Cheng, Ruoyi Zhang, Jiatong Shi",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "labeling"
+  },
+  {
+    "id": "arxiv:2506.08593v1",
+    "doi": "",
+    "title": "Hateful Person or Hateful Model? Investigating the Role of Personas in Hate Speech Detection by Large Language Models",
+    "abstract": "Hate speech detection is a socially sensitive and inherently subjective task, with judgments often varying based on personal traits. While prior work has examined how socio-demographic factors influence annotation, the impact of personality traits on Large Language Models (LLMs) remains largely unexplored. In this paper, we present the first comprehensive study on the role of persona prompts in hate speech classification, focusing on MBTI-based traits. A human annotation survey confirms that MBTI dimensions significantly affect labeling behavior. Extending this to LLMs, we prompt four open-source models with MBTI personas and evaluate their outputs across three hate speech datasets. Our analysis uncovers substantial persona-driven variation, including inconsistencies with ground truth, inter-persona disagreement, and logit-level biases. These findings highlight the need to carefully define persona prompts in LLM-based annotation workflows, with implications for fairness and alignment with human values.",
+    "year": "2025",
+    "authors": "Shuzhou Yuan, Ercong Nie, Mario Tawfelis, Helmut Schmid, Hinrich Schütze, Michael Färber",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "labeling"
+  },
+  {
+    "id": "arxiv:2007.04626v3",
+    "doi": "10.1007/s10579-021-09557-1",
+    "title": "DISCO PAL: Diachronic Spanish Sonnet Corpus with Psychological and Affective Labels",
+    "abstract": "Nowadays, there are many applications of text mining over corpora from different languages. However, most of them are based on texts in prose, lacking applications that work with poetry texts. An example of an application of text mining in poetry is the usage of features derived from their individual words in order to capture the lexical, sublexical and interlexical meaning, and infer the General Affective Meaning (GAM) of the text. However, even though this proposal has been proved as useful for poetry in some languages, there is a lack of studies for both Spanish poetry and for highly-structured poetic compositions such as sonnets. This article presents a study over an annotated corpus of Spanish sonnets, in order to analyse if it is possible to build features from their individual words for predicting their GAM. The purpose of this is to model sonnets at an affective level. The article also analyses the relationship between the GAM of the sonnets and the content itself. For this, we consider the content from a psychological perspective, identifying with tags when a sonnet is related to a specific term. Then, we study how GAM changes according to each of those psychological terms. The corpus used contains 274 Spanish sonnets from authors of different centuries, from 15th to 19th. This corpus was annotated by different domain experts. The experts annotated the poems with affective and lexico-semantic features, as well as with domain concepts that belong to psychology. Thanks to this, the corpus of sonnets can be used in different applications, such as poetry recommender systems, personality text mining studies of the authors, or the usage of poetry for therapeutic purposes.",
+    "year": "2020",
+    "authors": "Alberto Barbado, Víctor Fresno, Ángeles Manjarrés Riesco, Salvador Ros",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "labeling"
+  },
+  {
+    "id": "arxiv:2103.02854v2",
+    "doi": "10.1109/ICIP42928.2021.9506566",
+    "title": "Morphset:Augmenting categorical emotion datasets with dimensional affect labels using face morphing",
+    "abstract": "Emotion recognition and understanding is a vital component in human-machine interaction. Dimensional models of affect such as those using valence and arousal have advantages over traditional categorical ones due to the complexity of emotional states in humans. However, dimensional emotion annotations are difficult and expensive to collect, therefore they are not as prevalent in the affective computing community. To address these issues, we propose a method to generate synthetic images from existing categorical emotion datasets using face morphing as well as dimensional labels in the circumplex space with full control over the resulting sample distribution, while achieving augmentation factors of at least 20x or more.",
+    "year": "2021",
+    "authors": "Vassilios Vonikakis, Dexter Neo, Stefan Winkler",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "labeling"
+  },
+  {
+    "id": "arxiv:2103.03755v1",
+    "doi": "10.1109/IJCNN.2019.8851875",
+    "title": "Leveraging Recursive Processing for Neural-Symbolic Affect-Target Associations",
+    "abstract": "Explaining the outcome of deep learning decisions based on affect is challenging but necessary if we expect social companion robots to interact with users on an emotional level. In this paper, we present a commonsense approach that utilizes an interpretable hybrid neural-symbolic system to associate extracted targets, noun chunks determined to be associated with the expressed emotion, with affective labels from a natural language expression. We leverage a pre-trained neural network that is well adapted to tree and sub-tree processing, the Dependency Tree-LSTM, to learn the affect labels of dynamic targets, determined through symbolic rules, in natural language. We find that making use of the unique properties of the recursive network provides higher accuracy and interpretability when compared to other unstructured and sequential methods for determining target-affect associations in an aspect-based sentiment analysis task.",
+    "year": "2021",
+    "authors": "A. Sutherland, S. Magg, S. Wermter",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "labeling"
+  },
+  {
+    "id": "arxiv:2208.12238v1",
+    "doi": "10.1145/3536221.3556584",
+    "title": "Supervised Contrastive Learning for Affect Modelling",
+    "abstract": "Affect modeling is viewed, traditionally, as the process of mapping measurable affect manifestations from multiple modalities of user input to affect labels. That mapping is usually inferred through end-to-end (manifestation-to-affect) machine learning processes. What if, instead, one trains general, subject-invariant representations that consider affect information and then uses such representations to model affect? In this paper we assume that affect labels form an integral part, and not just the training signal, of an affect representation and we explore how the recent paradigm of contrastive learning can be employed to discover general high-level affect-infused representations for the purpose of modeling affect. We introduce three different supervised contrastive learning approaches for training representations that consider affect information. In this initial study we test the proposed methods for arousal prediction in the RECOLA dataset based on user information from multiple modalities. Results demonstrate the representation capacity of contrastive learning and its efficiency in boosting the accuracy of affect models. Beyond their evidenced higher performance compared to end-to-end arousal classification, the resulting representations are general-purpose and subject-agnostic, as training is guided though general affect information available in any multimodal corpus.",
+    "year": "2022",
+    "authors": "Kosmas Pinitas, Konstantinos Makantasis, Antonios Liapis, Georgios N. Yannakakis",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "labeling"
+  },
+  {
+    "id": "arxiv:2004.06883v1",
+    "doi": "10.1145/3374920.3375293",
+    "title": "Mirror Ritual: Human-Machine Co-Construction of Emotion",
+    "abstract": "Mirror Ritual is an interactive installation that challenges the existing paradigms in our understanding of human emotion and machine perception. In contrast to prescriptive interfaces, the work's real-time affective interface engages the audience in the iterative conceptualisation of their emotional state through the use of affectively-charged machine generated poetry. The audience are encouraged to make sense of the mirror's poetry by framing it with respect to their recent life experiences, effectively `putting into words' their felt emotion. This process of affect labelling and contextualisation works to not only regulate emotion, but helps to construct the rich personal narratives that constitute human identity.",
+    "year": "2020",
+    "authors": "Nina Rajcic, Jon McCormack",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "labeling"
+  },
+  {
+    "id": "arxiv:2407.18316v1",
+    "doi": "",
+    "title": "Affectively Framework: Towards Human-like Affect-Based Agents",
+    "abstract": "Game environments offer a unique opportunity for training virtual agents due to their interactive nature, which provides diverse play traces and affect labels. Despite their potential, no reinforcement learning framework incorporates human affect models as part of their observation space or reward mechanism. To address this, we present the \\emph{Affectively Framework}, a set of Open-AI Gym environments that integrate affect as part of the observation space. This paper introduces the framework and its three game environments and provides baseline experiments to validate its effectiveness and potential.",
+    "year": "2024",
+    "authors": "Matthew Barthet, Roberto Gallotta, Ahmed Khalifa, Antonios Liapis, Georgios N. Yannakakis",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "labeling"
+  },
+  {
+    "id": "arxiv:1403.5802v1",
+    "doi": "",
+    "title": "Examining Perceptions of Astronomy Images Across Mobile Platforms",
+    "abstract": "Modern society has led many people to become consumers of data unlike previous generations. How this shift in the way information is communicated and received - including in areas of science - and affects perception and comprehension is still an open question. This study examined one aspect of this digital age: perceptions of astronomical images and their labels, on mobile platforms. Participants were n = 2183 respondents to an online survey, and two focus groups (n = 12 astrophysicists; n = 11 lay public). Online participants were randomly assigned to 1 of 12 images, and compared two label formats. Focus groups compared mobile devices and label formats. Results indicated that the size and quality of the images on the mobile devices affected label comprehension and engagement. The question label format was significantly preferred to the fun fact. Results are discussed in terms of effective science communication using technology.",
+    "year": "2014",
+    "authors": "Lisa F. Smith, Kimberly K. Arcand, Jeffrey K. Smith, Randall K. Smith, Jay Bookbinder, Megan Watzke",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "labeling"
+  },
+  {
+    "id": "arxiv:1907.01008v1",
+    "doi": "",
+    "title": "PAGAN: Video Affect Annotation Made Easy",
+    "abstract": "How could we gather affect annotations in a rapid, unobtrusive, and accessible fashion? How could we still make sure that these annotations are reliable enough for data-hungry affect modelling methods? This paper addresses these questions by introducing PAGAN, an accessible, general-purpose, online platform for crowdsourcing affect labels in videos. The design of PAGAN overcomes the accessibility limitations of existing annotation tools, which often require advanced technical skills or even the on-site involvement of the researcher. Such limitations often yield affective corpora that are restricted in size, scope and use, as the applicability of modern data-demanding machine learning methods is rather limited. The description of PAGAN is accompanied by an exploratory study which compares the reliability of three continuous annotation tools currently supported by the platform. Our key results reveal higher inter-rater agreement when annotation traces are processed in a relative manner and collected via unbounded labelling.",
+    "year": "2019",
+    "authors": "David Melhart, Antonios Liapis, Georgios N. Yannakakis",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "labeling"
+  },
+  {
+    "id": "arxiv:2405.06728v2",
+    "doi": "",
+    "title": "THERADIA WoZ: An Ecological Corpus for Appraisal-based Affect Research in Healthcare",
+    "abstract": "We present THERADIA WoZ, an ecological corpus designed for audiovisual research on affect in healthcare. Two groups of senior individuals, consisting of 52 healthy participants and 9 individuals with Mild Cognitive Impairment (MCI), performed Computerised Cognitive Training (CCT) exercises while receiving support from a virtual assistant, tele-operated by a human in the role of a Wizard-of-Oz (WoZ). The audiovisual expressions produced by the participants were fully transcribed, and partially annotated based on dimensions derived from recent models of the appraisal theories, including novelty, intrinsic pleasantness, goal conduciveness, and coping. Additionally, the annotations included 23 affective labels drew from the literature of achievement affects. We present the protocols used for the data collection, transcription, and annotation, along with a detailed analysis of the annotated dimensions and labels. Baseline methods and results for their automatic prediction are also presented. The corpus aims to serve as a valuable resource for researchers in affective computing, and is made available to both industry and academia.",
+    "year": "2024",
+    "authors": "Hippolyte Fournier, Sina Alisamir, Safaa Azzakhnini, Hanna Chainay, Olivier Koenig, Isabella Zsoldos, Eléeonore Trân, Gérard Bailly, Frédéeric Elisei, Béatrice Bouchot, Brice Varini, Patrick Constant, Joan Fruitet, Franck Tarpin-Bernard, Solange Rossato, François Portet, Fabien Ringeval",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "labeling"
+  },
+  {
+    "id": "arxiv:2308.16029v1",
+    "doi": "",
+    "title": "Knowing Your Annotator: Rapidly Testing the Reliability of Affect Annotation",
+    "abstract": "The laborious and costly nature of affect annotation is a key detrimental factor for obtaining large scale corpora with valid and reliable affect labels. Motivated by the lack of tools that can effectively determine an annotator's reliability, this paper proposes general quality assurance (QA) tests for real-time continuous annotation tasks. Assuming that the annotation tasks rely on stimuli with audiovisual components, such as videos, we propose and evaluate two QA tests: a visual and an auditory QA test. We validate the QA tool across 20 annotators that are asked to go through the test followed by a lengthy task of annotating the engagement of gameplay videos. Our findings suggest that the proposed QA tool reveals, unsurprisingly, that trained annotators are more reliable than the best of untrained crowdworkers we could employ. Importantly, the QA tool introduced can predict effectively the reliability of an affect annotator with 80% accuracy, thereby, saving on resources, effort and cost, and maximizing the reliability of labels solicited in affective corpora. The introduced QA tool is available and accessible through the PAGAN annotation platform.",
+    "year": "2023",
+    "authors": "Matthew Barthet, Chintan Trivedi, Kosmas Pinitas, Emmanouil Xylakis, Konstantinos Makantasis, Antonios Liapis, Georgios N. Yannakakis",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "labeling"
+  },
+  {
+    "id": "arxiv:1911.01158v2",
+    "doi": "",
+    "title": "An Affective Situation Labeling System from Psychological Behaviors in Emotion Recognition",
+    "abstract": "This paper presents a computational framework for providing affective labels to real-life situations, called A-Situ. We first define an affective situation, as a specific arrangement of affective entities relevant to emotion elicitation in a situation. Then, the affective situation is represented as a set of labels in the valence-arousal emotion space. Based on physiological behaviors in response to a situation, the proposed framework quantifies the expected emotion evoked by the interaction with a stimulus event. The accumulated result in a spatiotemporal situation is represented as a polynomial curve called the affective curve, which bridges the semantic gap between cognitive and affective perception in real-world situations. We show the efficacy of the curve for reliable emotion labeling in real-world experiments, respectively concerning 1) a comparison between the results from our system and existing explicit assessments for measuring emotion, 2) physiological distinctiveness in emotional states, and 3) physiological characteristics correlated to continuous labels. The efficiency of affective curves to discriminate emotional states is evaluated through subject-dependent classification performance using bicoherence features to represent discrete affective states in the valence-arousal space. Furthermore, electroencephalography-based statistical analysis revealed the physiological correlates of the affective curves.",
+    "year": "2019",
+    "authors": "Byung Hyung Kim, Sungho Jo",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "labeling"
+  },
+  {
+    "id": "arxiv:2511.13545v1",
+    "doi": "",
+    "title": "Robust Defense Strategies for Multimodal Contrastive Learning: Efficient Fine-tuning Against Backdoor Attacks",
+    "abstract": "The advent of multimodal deep learning models, such as CLIP, has unlocked new frontiers in a wide range of applications, from image-text understanding to classification tasks. However, these models are not safe for adversarial attacks, particularly backdoor attacks, which can subtly manipulate model behavior. Moreover, existing defense methods typically involve training from scratch or fine-tuning using a large dataset without pinpointing the specific labels that are affected. In this study, we introduce an innovative strategy to enhance the robustness of multimodal contrastive learning models against such attacks. In particular, given a poisoned CLIP model, our approach can identify the backdoor trigger and pinpoint the victim samples and labels in an efficient manner. To that end, an image segmentation ``oracle'' is introduced as the supervisor for the output of the poisoned CLIP. We develop two algorithms to rectify the poisoned model: (1) differentiating between CLIP and Oracle's knowledge to identify potential triggers; (2) pinpointing affected labels and victim samples, and curating a compact fine-tuning dataset. With this knowledge, we are allowed to rectify the poisoned CLIP model to negate backdoor effects. Extensive experiments on visual recognition benchmarks demonstrate our strategy is effective in CLIP-based backdoor defense.",
+    "year": "2025",
+    "authors": "Md. Iqbal Hossain, Afia Sajeeda, Neeresh Kumar Perla, Ming Shao",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "labeling"
+  },
+  {
+    "id": "arxiv:2512.01033v1",
+    "doi": "",
+    "title": "Associative Syntax and Maximal Repetitions reveal context-dependent complexity in fruit bat communication",
+    "abstract": "This study presents an unsupervised method to infer discreteness, syntax and temporal structures of fruit-bats vocalizations, as a case study of graded vocal systems, and evaluates the complexity of communication patterns in relation with behavioral context. The method improved the baseline for unsupervised labeling of vocal units (i.e. syllables) through manifold learning, by investigating how dimensionality reduction on mel-spectrograms affects labeling, and comparing it with unsupervised labels based on acoustic similarity. We then encoded vocalizations as syllabic sequences to analyze the type of syntax, and extracted the Maximal Repetitions (MRs) to evaluate syntactical structures. We found evidence for: i) associative syntax, rather than combinatorial (context classification is unaffected by permutation of sequences, F 1 &gt; 0.9); ii) context-dependent use of syllables (Wilcoxon rank-sum tests, p-value &lt; 0.05); iii) heavy-tail distribution of MRs (truncated power-law, exponent α &lt; 2), indicative of mechanism encoding combinatorial complexity. Analysis of MRs and syllabic transition networks revealed that mother-pupil interactions were characterized by repetitions, while communication in conflict-contexts exhibited higher complexity (longer MRs and more interconnected vocal sequences) than non-agonistic contexts. We propose that communicative complexity is higher in scenarios of disagreement, reflecting lower compressibility of information.",
+    "year": "2025",
+    "authors": "Luigi Assom",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "labeling"
+  },
+  {
+    "id": "arxiv:2410.07094v2",
+    "doi": "",
+    "title": "An Approach for Auto Generation of Labeling Functions for Software Engineering Chatbots",
+    "abstract": "Software engineering (SE) chatbots are increasingly gaining attention for their role in enhancing development processes. At the core of chatbots are Natural Language Understanding platforms (NLUs), which enable them to comprehend user queries but require labeled data for training. However, acquiring such labeled data for SE chatbots is challenging due to the scarcity of high-quality datasets, as training requires specialized vocabulary and phrases not found in typical language datasets. Consequently, developers often resort to manually annotating user queries -- a time-consuming and resource-intensive process. Previous approaches require human intervention to generate rules, called labeling functions (LFs), that categorize queries based on specific patterns. To address this issue, we propose an approach to automatically generate LFs by extracting patterns from labeled user queries. We evaluate our approach on four SE datasets and measure performance improvement from training NLUs on queries labeled by the generated LFs. The generated LFs effectively label data with AUC scores up to 85.3% and NLU performance improvements up to 27.2%. Furthermore, our results show that the number of LFs affects labeling performance. We believe that our approach can save time and resources in labeling users' queries, allowing practitioners to focus on core chatbot functionalities rather than manually labeling queries.",
+    "year": "2024",
+    "authors": "Ebube Alor, Ahmad Abdellatif, SayedHassan Khatoonabadi, Emad Shihab",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "labeling"
+  },
+  {
+    "id": "arxiv:2202.06382v3",
+    "doi": "",
+    "title": "Training with More Confidence: Mitigating Injected and Natural Backdoors During Training",
+    "abstract": "The backdoor or Trojan attack is a severe threat to deep neural networks (DNNs). Researchers find that DNNs trained on benign data and settings can also learn backdoor behaviors, which is known as the natural backdoor. Existing works on anti-backdoor learning are based on weak observations that the backdoor and benign behaviors can differentiate during training. An adaptive attack with slow poisoning can bypass such defenses. Moreover, these methods cannot defend natural backdoors. We found the fundamental differences between backdoor-related neurons and benign neurons: backdoor-related neurons form a hyperplane as the classification surface across input domains of all affected labels. By further analyzing the training process and model architectures, we found that piece-wise linear functions cause this hyperplane surface. In this paper, we design a novel training method that forces the training to avoid generating such hyperplanes and thus remove the injected backdoors. Our extensive experiments on five datasets against five state-of-the-art attacks and also benign training show that our method can outperform existing state-of-the-art defenses. On average, the ASR (attack success rate) of the models trained with NONE is 54.83 times lower than undefended models under standard poisoning backdoor attack and 1.75 times lower under the natural backdoor attack. Our code is available at https://github.com/RU-System-Software-and-Security/NONE.",
+    "year": "2022",
+    "authors": "Zhenting Wang, Hailun Ding, Juan Zhai, Shiqing Ma",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "labeling"
+  },
+  {
+    "id": "arxiv:1701.01096v2",
+    "doi": "",
+    "title": "Probabilistic Multigraph Modeling for Improving the Quality of Crowdsourced Affective Data",
+    "abstract": "We proposed a probabilistic approach to joint modeling of participants' reliability and humans' regularity in crowdsourced affective studies. Reliability measures how likely a subject will respond to a question seriously; and regularity measures how often a human will agree with other seriously-entered responses coming from a targeted population. Crowdsourcing-based studies or experiments, which rely on human self-reported affect, pose additional challenges as compared with typical crowdsourcing studies that attempt to acquire concrete non-affective labels of objects. The reliability of participants has been massively pursued for typical non-affective crowdsourcing studies, whereas the regularity of humans in an affective experiment in its own right has not been thoroughly considered. It has been often observed that different individuals exhibit different feelings on the same test question, which does not have a sole correct response in the first place. High reliability of responses from one individual thus cannot conclusively result in high consensus across individuals. Instead, globally testing consensus of a population is of interest to investigators. Built upon the agreement multigraph among tasks and workers, our probabilistic model differentiates subject regularity from population reliability. We demonstrate the method's effectiveness for in-depth robust analysis of large-scale crowdsourced affective data, including emotion and aesthetic assessments collected by presenting visual stimuli to human subjects.",
+    "year": "2017",
+    "authors": "Jianbo Ye, Jia Li, Michelle G. Newman, Reginald B. Adams, James Z. Wang",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "labeling"
+  },
+  {
+    "id": "arxiv:2210.07630v1",
+    "doi": "",
+    "title": "The Invariant Ground Truth of Affect",
+    "abstract": "Affective computing strives to unveil the unknown relationship between affect elicitation, manifestation of affect and affect annotations. The ground truth of affect, however, is predominately attributed to the affect labels which inadvertently include biases inherent to the subjective nature of emotion and its labeling. The response to such limitations is usually augmenting the dataset with more annotations per data point; however, this is not possible when we are interested in self-reports via first-person annotation. Moreover, outlier detection methods based on inter-annotator agreement only consider the annotations themselves and ignore the context and the corresponding affect manifestation. This paper reframes the ways one may obtain a reliable ground truth of affect by transferring aspects of causation theory to affective computing. In particular, we assume that the ground truth of affect can be found in the causal relationships between elicitation, manifestation and annotation that remain \\emph{invariant} across tasks and participants. To test our assumption we employ causation inspired methods for detecting outliers in affective corpora and building affect models that are robust across participants and tasks. We validate our methodology within the domain of digital games, with experimental results showing that it can successfully detect outliers and boost the accuracy of affect models. To the best of our knowledge, this study presents the first attempt to integrate causation tools in affective computing, making a crucial and decisive step towards general affect modeling.",
+    "year": "2022",
+    "authors": "Konstantinos Makantasis, Kosmas Pinitas, Antonios Liapis, Georgios N. Yannakakis",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "labeling"
+  }
+]

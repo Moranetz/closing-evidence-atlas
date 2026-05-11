@@ -1,0 +1,123 @@
+[
+  {
+    "id": "arxiv:2509.18440v1",
+    "doi": "",
+    "title": "The Ranking Effect: How Algorithmic Rank Influences Attention on Social Media",
+    "abstract": "Social media feeds have become central to the Internet. Among the most visible are trending feeds, which rank content deemed timely and relevant. To examine how feed signals influence behaviors and perceptions, we conducted a randomized experiment (n = 585) simulating Reddit's r/popular feed. By having participants view identical sets of posts in different orders, we isolate the effects of rank and social proof on engagement and perceived relevance, trustworthiness, and quality. We found that lower-ranked posts received about 40% less engagement, despite participants rarely reporting rank as a factor in their choices. In contrast, neither rank nor social proof shifted perceptions across the three dimensions. We also observed demographic patterns: older participants were more skeptical of trending content, while those with less formal education expressed greater trust. Overall, our findings show that algorithmic curation implicitly steers attention, with implications for platform design, research on algorithmic influence, and policy.",
+    "year": "2025",
+    "authors": "Jackie Chan, Fred Choi, Koustuv Saha, Eshwar Chandrasekharan",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "social-proof"
+  },
+  {
+    "id": "arxiv:2502.01349v4",
+    "doi": "",
+    "title": "Bias Beware: The Impact of Cognitive Biases on LLM-Driven Product Recommendations",
+    "abstract": "The advent of Large Language Models (LLMs) has revolutionized product recommenders, yet their susceptibility to adversarial manipulation poses critical challenges, particularly in real-world commercial applications. Our approach is the first one to tap into human psychological principles, seamlessly modifying product descriptions, making such manipulations hard to detect. In this work, we investigate cognitive biases as black-box adversarial strategies, drawing parallels between their effects on LLMs and human purchasing behavior. Through extensive evaluation across models of varying scale, we find that certain biases, such as social proof, consistently boost product recommendation rate and ranking, while others, like scarcity and exclusivity, surprisingly reduce visibility. Our results demonstrate that cognitive biases are deeply embedded in state-of-the-art LLMs, leading to highly unpredictable behavior in product recommendations and posing significant challenges for effective mitigation.",
+    "year": "2025",
+    "authors": "Giorgos Filandrianos, Angeliki Dimitriou, Maria Lymperaiou, Konstantinos Thomas, Giorgos Stamou",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "social-proof"
+  },
+  {
+    "id": "arxiv:2404.15485v3",
+    "doi": "",
+    "title": "Evaluating the Efficacy of Large Language Models in Identifying Phishing Attempts",
+    "abstract": "Phishing, a prevalent cybercrime tactic for decades, remains a significant threat in today's digital world. By leveraging clever social engineering elements and modern technology, cybercrime targets many individuals, businesses, and organizations to exploit trust and security. These cyber-attackers are often disguised in many trustworthy forms to appear as legitimate sources. By cleverly using psychological elements like urgency, fear, social proof, and other manipulative strategies, phishers can lure individuals into revealing sensitive and personalized information. Building on this pervasive issue within modern technology, this paper aims to analyze the effectiveness of 15 Large Language Models (LLMs) in detecting phishing attempts, specifically focusing on a randomized set of \"419 Scam\" emails. The objective is to determine which LLMs can accurately detect phishing emails by analyzing a text file containing email metadata based on predefined criteria. The experiment concluded that the following models, ChatGPT 3.5, GPT-3.5-Turbo-Instruct, and ChatGPT, were the most effective in detecting phishing emails.",
+    "year": "2024",
+    "authors": "Het Patel, Umair Rehman, Farkhund Iqbal",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "social-proof"
+  },
+  {
+    "id": "arxiv:2604.22277v1",
+    "doi": "",
+    "title": "Multi-Agent Consensus as a Cognitive Bias Trigger in Human-AI Interaction",
+    "abstract": "As multi-agent AI systems become more common, users increasingly encounter not a single AI voice but a collective one. This shift introduces social dynamics, such as consensus, dissent, and gradual convergence, that can trigger cognitive biases and distort human judgment. We present findings from a controlled experiment (N = 127) comparing three multi-agent configurations: Majority, Minority, and Diffusion. Quantitative results show that majority consensus accelerates opinion change and inflates confidence, consistent with social proof and bandwagon heuristics. Minority dissent slows this process and promotes more deliberative engagement. Qualitative analysis identifies three interpretive trajectories: reinforcing, aligning, and oscillating, shaped by how users interpret agent independence and group dynamics over time. These findings suggest that agent agreement structure, independent of content, functions as a bias-relevant signal in LLM interactions. We hope this work contributes to the Bias4Trust agenda by grounding multi-agent social influence as a concrete and designable source of bias in human-AI interaction.",
+    "year": "2026",
+    "authors": "Soohwan Lee, Kyungho Lee",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "social-proof"
+  },
+  {
+    "id": "arxiv:2503.04293v1",
+    "doi": "10.1145/3706598.3713931",
+    "title": "No Silver Bullet: Towards Demonstrating Secure Software Development for Danish Small and Medium Enterprises in a Business-to-Business Model",
+    "abstract": "Software developing small and medium enterprises (SMEs) play a crucial role as suppliers to larger corporations and public administration. It is therefore necessary for them to be able to demonstrate that their products meet certain security criteria, both to gain trust of their customers and to comply to standards that demand such a demonstration. In this study we have investigated ways for SMEs to demonstrate their security when operating in a business-to-business model, conducting semi-structured interviews (N=16) with practitioners from different SMEs in Denmark and validating our findings in a follow-up workshop (N=6). Our findings indicate five distinctive security demonstration approaches, namely: Certifications, Reports, Questionnaires, Interactive Sessions and Social Proof. We discuss the challenges, benefits, and recommendations related to these approaches, concluding that none of them is a one-size-fits all solution and that more research into relative advantages of these approaches and their combinations is needed.",
+    "year": "2025",
+    "authors": "Raha Asadi, Bodil Biering, Vincent van Dijk, Oksana Kulyk, Elda Paja",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "social-proof"
+  },
+  {
+    "id": "arxiv:2604.22606v1",
+    "doi": "",
+    "title": "Dharma, Data and Deception: An LLM-Powered Rhetorical Analysis of Cow-Urine Health Claims on YouTube",
+    "abstract": "Health misinformation remains one of the most pressing challenges on social media, particularly when cultural traditions intersect with scientific-sounding claims. These dynamics are not only global but also deeply local, manifesting in culturally specific controversies that require careful analysis. Motivated by this, we examine 100 YouTube transcripts that promote or debunk cow urine (gomutra) as a health remedy, focusing on rhetorical strategies such as appeals to authority, efficacy appeals, and conspiracy framing. We employ large language models (LLMs) including GPT-4, GPT-4o, GPT-4.1, GPT-5, Gemini 2.5 Pro, and Mistral Medium 3 to annotate transcripts using a 14-category taxonomy of persuasive tactics. Our analysis reveals that promoters predominantly rely on efficacy appeals and social proof, while debunkers emphasize authority and rebuttal. Human evaluation of a subset of annotations yielded 90.1\\% inter-annotator agreement, confirming the reliability of our taxonomy and validation process. This work advances computational methods for misinformation analysis and demonstrates how LLMs can support large-scale studies of cultural discourse online.",
+    "year": "2026",
+    "authors": "Sheza Munir, Ratna Kandala, Anamta Khan,  Deepti, Joyojeet Pal",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "social-proof"
+  },
+  {
+    "id": "arxiv:2602.11412v1",
+    "doi": "",
+    "title": "When Visibility Outpaces Verification: Delayed Verification and Narrative Lock-in in Agentic AI Discourse",
+    "abstract": "Agentic AI systems-autonomous entities capable of independent planning and execution-reshape the landscape of human-AI trust. Long before direct system exposure, user expectations are mediated through high-stakes public discourse on social platforms. However, platform-mediated engagement signals (e.g., upvotes) may inadvertently function as a ``credibility proxy,'' potentially stifling critical evaluation. This paper investigates the interplay between social proof and verification timing in online discussions of agentic AI. Analyzing a longitudinal dataset from two distinct Reddit communities with contrasting interaction cultures-r/OpenClaw and r/Moltbook-we operationalize verification cues via reproducible lexical rules and model the ``time-to-first-verification'' using a right-censored survival analysis framework. Our findings reveal a systemic ``Popularity Paradox'': high-visibility discussions in both subreddits experience significantly delayed or entirely absent verification cues compared to low-visibility threads. This temporal lag creates a critical window for ``Narrative Lock-in,'' where early, unverified claims crystallize into collective cognitive biases before evidence-seeking behaviors emerge. We discuss the implications of this ``credibility-by-visibility'' effect for AI safety and propose ``epistemic friction'' as a design intervention to rebalance engagement-driven platforms.",
+    "year": "2026",
+    "authors": "Hanjing Shi, Dominic DiFranzo",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "social-proof"
+  },
+  {
+    "id": "arxiv:2412.18488v1",
+    "doi": "10.1109/TrustCom60117.2023.00222.",
+    "title": "A Survey on the Principles of Persuasion as a Social Engineering Strategy in Phishing",
+    "abstract": "Research shows that phishing emails often utilize persuasion techniques, such as social proof, liking, consistency, authority, scarcity, and reciprocity to gain trust to obtain sensitive information or maliciously infect devices. The link between principles of persuasion and social engineering attacks, particularly in phishing email attacks, is an important topic in cyber security as they are the common and effective method used by cybercriminals to obtain sensitive information or access computer systems. This survey paper concluded that spear phishing, a targeted form of phishing, has been found to be specifically effective as attackers can tailor their messages to the specific characteristics, interests, and vulnerabilities of their targets. Understanding the uses of the principles of persuasion in spear phishing is key to the effective defence against it and eventually its elimination. This survey paper systematically summarizes and presents the current state of the art in understanding the use of principles of persuasion in phishing. Through a systematic review of the existing literature, this survey paper identifies a significant gap in the understanding of the impact of principles of persuasion as a social engineering strategy in phishing attacks and highlights the need for further research in this area.",
+    "year": "2024",
+    "authors": "Kalam Khadka, Abu Barkat Ullah, Wanli Ma, Elisa Martinez Marroquin",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "social-proof"
+  },
+  {
+    "id": "arxiv:2307.14298v1",
+    "doi": "",
+    "title": "ChatGPT and Persuasive Technologies for the Management and Delivery of Personalized Recommendations in Hotel Hospitality",
+    "abstract": "Recommender systems have become indispensable tools in the hotel hospitality industry, enabling personalized and tailored experiences for guests. Recent advancements in large language models (LLMs), such as ChatGPT, and persuasive technologies, have opened new avenues for enhancing the effectiveness of those systems. This paper explores the potential of integrating ChatGPT and persuasive technologies for automating and improving hotel hospitality recommender systems. First, we delve into the capabilities of ChatGPT, which can understand and generate human-like text, enabling more accurate and context-aware recommendations. We discuss the integration of ChatGPT into recommender systems, highlighting the ability to analyze user preferences, extract valuable insights from online reviews, and generate personalized recommendations based on guest profiles. Second, we investigate the role of persuasive technology in influencing user behavior and enhancing the persuasive impact of hotel recommendations. By incorporating persuasive techniques, such as social proof, scarcity and personalization, recommender systems can effectively influence user decision-making and encourage desired actions, such as booking a specific hotel or upgrading their room. To investigate the efficacy of ChatGPT and persuasive technologies, we present a pilot experi-ment with a case study involving a hotel recommender system. We aim to study the impact of integrating ChatGPT and persua-sive techniques on user engagement, satisfaction, and conversion rates. The preliminary results demonstrate the potential of these technologies in enhancing the overall guest experience and business performance. Overall, this paper contributes to the field of hotel hospitality by exploring the synergistic relationship between LLMs and persuasive technology in recommender systems, ultimately influencing guest satisfaction and hotel revenue.",
+    "year": "2023",
+    "authors": "Manolis Remountakis, Konstantinos Kotis, Babis Kourtzis, George E. Tsekouras",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "social-proof"
+  },
+  {
+    "id": "arxiv:2603.05651v1",
+    "doi": "",
+    "title": "The Fragility Of Moral Judgment In Large Language Models",
+    "abstract": "People increasingly use large language models (LLMs) for everyday moral and interpersonal guidance, yet these systems cannot interrogate missing context and judge dilemmas as presented. We introduce a perturbation framework for testing the stability and manipulability of LLM moral judgments while holding the underlying moral conflict constant. Using 2,939 dilemmas from r/AmItheAsshole (January-March 2025), we generate three families of content perturbations: surface edits (lexical/structural noise), point-of-view shifts (voice and stance neutralization), and persuasion cues (self-positioning, social proof, pattern admissions, victim framing). We also vary the evaluation protocol (output ordering, instruction placement, and unstructured prompting). We evaluated all variants with four models (GPT-4.1, Claude 3.7 Sonnet, DeepSeek V3, Qwen2.5-72B) (N=129,156 judgments). Surface perturbations produce low flip rates (7.5%), largely within the self-consistency noise floor (4-13%), whereas point-of-view shifts induce substantially higher instability (24.3%). A large subset of dilemmas (37.9%) is robust to surface noise yet flips under perspective changes, indicating that models condition on narrative voice as a pragmatic cue. Instability concentrates in morally ambiguous cases; scenarios where no party is assigned blame are most susceptible. Persuasion perturbations yield systematic directional shifts. Protocol choices dominate all other factors: agreement between structured protocols is only 67.6% (kappa=0.55), and only 35.7% of model-scenario units match across all three protocols. These results show that LLM moral judgments are co-produced by narrative form and task scaffolding, raising reproducibility and equity concerns when outcomes depend on presentation skill rather than moral substance.",
+    "year": "2026",
+    "authors": "Tom van Nuenen, Pratik S. Sachdeva",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "social-proof"
+  },
+  {
+    "id": "arxiv:2405.08831v1",
+    "doi": "10.1145/3613905.3651099",
+    "title": "Deceptive, Disruptive, No Big Deal: Japanese People React to Simulated Dark Commercial Patterns",
+    "abstract": "Dark patterns and deceptive designs (DPs) are user interface elements that trick people into taking actions that benefit the purveyor. Such designs are widely deployed, with special varieties found in certain nations like Japan that can be traced to global power hierarchies and the local socio-linguistic context of use. In this breaking work, we report on the first user study involving Japanese people (n=30) experiencing a mock shopping website injected with simulated DPs. We found that Alphabet Soup and Misleading Reference Pricing were the most deceptive and least noticeable. Social Proofs, Sneaking in Items, and Untranslation were the least deceptive but Untranslation prevented most from cancelling their account. Mood significantly worsened after experiencing the website. We contribute the first empirical findings on a Japanese consumer base alongside a scalable approach to evaluating user attitudes, perceptions, and behaviours towards DPs in an interactive context. We urge for more human participant research and ideally collaborations with industry to assess real designs in the wild.",
+    "year": "2024",
+    "authors": "Katie Seaborn, Tatsuya Itagaki, Mizuki Watanabe, Yijia Wang, Ping Geng, Takao Fujii, Yuto Mandai, Miu Kojima, Suzuka Yoshida",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "social-proof"
+  }
+]

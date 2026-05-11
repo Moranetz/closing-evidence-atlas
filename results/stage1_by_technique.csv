@@ -1,0 +1,40 @@
+taxonomy_id,canonical,cluster,prior_status,n_include,n_uncertain,n_exclude,n_total_screened,include_rate_pct,stage1_survivor,survivor_status
+gain-framing,Gain framing,framing,partially-studied; effect heterogeneous by domain.,138,15,65,218,63.3,yes,DOMINANT LITERATURE
+loss-framing,Loss-aversion framing,framing,well-studied (broad framing literature),112,19,65,196,57.1,yes,DOMINANT LITERATURE
+fitd,Foot-in-the-door,compliance,well-studied (Burger 1999 meta-analysis; Pascual & Guéguen 2005),105,3,158,266,39.5,yes,DOMINANT LITERATURE
+ditf,Door-in-the-face,compliance,partially-studied (O'Keefe & Hale 1998 meta-analysis; replication concerns),70,2,201,273,25.6,yes,DOMINANT LITERATURE
+regulatory-fit,Regulatory fit,framing,well-studied,47,30,127,204,23.0,yes,STRONG EVIDENCE
+social-proof,Social proof,social-cue,well-studied,47,11,186,244,19.3,yes,STRONG EVIDENCE
+concrete-construal,Concrete-vs-abstract framing,framing,well-studied,25,18,181,224,11.2,yes,STRONG EVIDENCE
+extreme-anchor,Extreme anchor,negotiation-anchor,well-studied,22,4,309,335,6.6,yes,STRONG EVIDENCE
+lowball,Low-ball,compliance,partially-studied (Cialdini et al. 1978; Burger & Petty 1981),21,1,351,373,5.6,yes,STRONG EVIDENCE
+commitment-consistency,Commitment & consistency,compliance,partially-studied,18,8,232,258,7.0,yes,MODEST EVIDENCE
+authority,Authority cues,social-cue,"partially-studied; central effect well-replicated, but commercial-context studies thinner.",17,6,190,213,8.0,yes,MODEST EVIDENCE
+reciprocity,Reciprocity,social-cue,well-studied,14,19,556,589,2.4,yes,MODEST EVIDENCE
+scarcity,Scarcity,framing,well-studied,13,0,462,475,2.7,yes,MODEST EVIDENCE
+disrupt-then-reframe,Disrupt-then-reframe,compliance,well-studied for original effect; replication concerns (Carpenter 2013),6,0,252,258,2.3,yes,MODEST EVIDENCE
+anchor-with-range,Range anchor,negotiation-anchor,partially-studied,4,3,222,229,1.7,no,FRAGILE (< 5 studies)
+labeling,Affect labeling,question-form,well-studied (Lieberman 2007 fMRI + replications),4,4,273,281,1.4,no,FRAGILE (< 5 studies)
+liking,Liking / similarity / rapport,social-cue,partially-studied,4,3,73,80,5.0,no,FRAGILE (< 5 studies)
+tna,That's-not-all,compliance,partially-studied (Burger 1986; Pollock et al. 1998),4,0,442,446,0.9,no,FRAGILE (< 5 studies)
+calibrated-question,Calibrated question,question-form,well-studied (MI/OARS literature: 1500+ RCTs).,3,0,297,300,1.0,no,FRAGILE (< 5 studies)
+takeaway,Takeaway close,structural-close,untested-in-database under this label; scarcity-overlap evidence exists.,2,0,278,280,0.7,no,FRAGILE (< 5 studies)
+assumptive,Assumptive close,structural-close,untested-in-database (best guess; verification at Phase 1),1,0,263,264,0.4,no,FRAGILE (< 5 studies)
+feel-felt-found,Feel-felt-found,post-objection,untested-in-database,1,2,136,139,0.7,no,FRAGILE (< 5 studies)
+precise-anchor,Precise number anchor,negotiation-anchor,well-studied (Mason et al. 2013),1,0,87,88,1.1,no,FRAGILE (< 5 studies)
+silence,Strategic silence after offer,closing-environment,untested-in-database,1,1,269,271,0.4,no,FRAGILE (< 5 studies)
+accusation-audit,Accusation audit,question-form,untested-in-database,0,1,98,99,0.0,no,DESERT (no eligible studies)
+alternative-choice,Alternative-choice close,structural-close,untested-in-database,0,0,355,355,0.0,no,DESERT (no eligible studies)
+ben-franklin,Ben Franklin / pros-and-cons close,structural-close,untested-in-database,0,1,156,157,0.0,no,DESERT (no eligible studies)
+bracketing,Bracketing,negotiation-anchor,untested-in-database,0,0,359,359,0.0,no,DESERT (no eligible studies)
+isolate-and-conquer,Isolate-the-objection,post-objection,untested-in-database,0,0,106,106,0.0,no,DESERT (no eligible studies)
+mirroring,Mirroring (verbal repetition),question-form,partially-studied,0,0,90,90,0.0,no,DESERT (no eligible studies)
+multi-threading,Multi-threading / champion-development,closing-environment,untested-in-database,0,0,97,97,0.0,no,DESERT (no eligible studies)
+mutual-close-plan,Mutual close plan,closing-environment,untested-in-database under this label; commercial-data evidence (Gong / SBI) exists but not academic.,0,0,88,88,0.0,no,DESERT (no eligible studies)
+puppy-dog,Puppy-dog close,structural-close,partially-studied (endowment literature),0,0,192,192,0.0,no,DESERT (no eligible studies)
+reverse-objection,Boomerang / reverse objection,post-objection,untested-in-database,0,0,98,98,0.0,no,DESERT (no eligible studies)
+sharp-angle,Sharp-angle close,structural-close,untested-in-database,0,1,254,255,0.0,no,DESERT (no eligible studies)
+spin-implication,SPIN implication question,question-form,partially-studied (Rackham's IBM data; minimal replication),0,0,97,97,0.0,no,DESERT (no eligible studies)
+spin-need-payoff,SPIN need-payoff question,question-form,partially-studied,0,0,98,98,0.0,no,DESERT (no eligible studies)
+summary-close,Summary close,structural-close,partially-studied (SPIN summary-of-need-payoff line evidence),0,0,305,305,0.0,no,DESERT (no eligible studies)
+trial-close,Trial close,structural-close,partially-studied,0,0,239,239,0.0,no,DESERT (no eligible studies)

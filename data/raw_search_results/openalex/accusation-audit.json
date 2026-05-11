@@ -1,0 +1,24 @@
+[
+  {
+    "id": "openalex:W4410311359",
+    "doi": "10.35629/8028-14048087",
+    "title": "Ethical Digital Marketing in Practice: Consumer Trust, Privacy, and Responsible AI",
+    "abstract": "As digital commerce evolves, consumers have become more conscious and connected, demanding greater accountability from brands at every digital touchpoint. This paper explores the challenges and best practices of ethical digital marketing, offering actionable insights for marketing, branding, and digital media professionals. Through a synthesis of academic and industry literature, complemented by case studies, it illustrates how ethical principles can be translated into effective digital strategies. The study defines ethical digital marketing as the integration of transparency, honesty, data integrity, inclusivity, and fair AI use into online practices. Key challenges that undermine consumer trust and brand credibility are examined, including invasive data collection, privacy breaches, intrusive targeting, lack of influencer transparency, misleading advertising, and concerns over the environmental and social impact of digital campaigns. Case examples highlight how valuedriven messaging, transparency in sourcing, data privacy measures, and clear disclosure practices contribute to sustained brand credibility and consumer loyalty. The findings suggest that ethical conduct—particularly consent-based personalization, accurate claims, and inclusive communication—enhances engagement, mitigates risks, and helps differentiate brands in competitive digital markets. Moreover, younger, socially aware audiences are shown to prioritize brands that embed ethics in AI-driven personalization and digital interactions. Ethical digital marketing emerges not as a compliance burden but as a strategic asset that drives long-term advocacy and market resilience. The paper concludes by recommending that organizations institutionalize ethics through cross-functional review boards, leadership-driven policies, regular scenario planning, and continuous ethics training. With tightening regulations and rising consumer expectations, embedding ethics in all aspects of digital marketing—data management, AI deployment, influencer partnerships, and content creation—is essential for maintaining brand integrity and securing a sustainable competitive advantage.",
+    "year": "2025",
+    "authors": "Krishna C. Joshi",
+    "journal": "International journal of business and management invention.",
+    "source_db": "openalex",
+    "source_query": "accusation-audit"
+  },
+  {
+    "id": "openalex:W7124765660",
+    "doi": "10.1007/s00134-025-08287-0",
+    "title": "ICU toolbox: negotiation skills for family conversations in the ICU",
+    "abstract": "",
+    "year": "2026",
+    "authors": "Pieter R. Tuinman, Victoria Metaxa",
+    "journal": "Intensive Care Medicine",
+    "source_db": "openalex",
+    "source_query": "accusation-audit"
+  }
+]

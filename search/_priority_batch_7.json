@@ -1,0 +1,1002 @@
+[
+ {
+  "i": 600,
+  "id": "pmid:36059740",
+  "score": "0.4500",
+  "year": "2022",
+  "title": "Risk perception, but also political orientation, modulate behavioral response to COVID-19: A randomized survey experiment.",
+  "abstract": "",
+  "journal": "Frontiers in psychology",
+  "techs": "extreme-anchor"
+ },
+ {
+  "i": 601,
+  "id": "openalex:W3132496749",
+  "score": "0.4500",
+  "year": "2021",
+  "title": "The Influence of Affective State on Subjective-Report Measurements: Evidence From Experimental Manipulations of Mood",
+  "abstract": "= 67, abstaining from stimulants and activities that may influence emotional and physiological state) were subjected to mood-induction procedures in the laboratory. Neutral, positive, and negative moods were induced by combinations of pictures from the international affective picture set (IAPS) and music. The subjects responded to questions on visu",
+  "journal": "Frontiers in Psychology",
+  "techs": "anchor-with-range"
+ },
+ {
+  "i": 602,
+  "id": "doi:10.1177/0190272519855954",
+  "score": "0.4500",
+  "year": "2019",
+  "title": "Does (Dis)Similarity Information about a New Acquaintance Lead to Liking or Repulsion? An Experimental Test of a Classic Social Psychology Issue",
+  "abstract": "Decades of social psychology research has established the importance of similarity in leading to attraction. However, in response to early social psychology experiments demonstrating the similarity effect, Rosenbaum proposed the repulsion hypothesis, arguing that similarity does not lead to liking, but rather, dissimilarity leads to repulsion. Rese",
+  "journal": "Social Psychology Quarterly",
+  "techs": "liking"
+ },
+ {
+  "i": 603,
+  "id": "doi:10.1177/0265407518790411",
+  "score": "0.4500",
+  "year": "2019",
+  "title": "You’re like me and I like you: Mediators of the similarity–liking link assessed before and after a getting-acquainted social interaction",
+  "abstract": "Several mediators of the similarity–liking link were examined in a laboratory study that involved previously unacquainted individuals interacting to become acquainted and that also included a preinteraction manipulation of bogus similarity. In addition to replicating the robust finding of a positive association between similarity and liking in both",
+  "journal": "Journal of Social and Personal Relationships",
+  "techs": "liking"
+ },
+ {
+  "i": 604,
+  "id": "openalex:W2921699791",
+  "score": "0.4500",
+  "year": "2019",
+  "title": "Gain-Framed Messaging for Promoting Adult Sport: Examining the Effects of Efficacy-Enhancing Information",
+  "abstract": "= 232; 62.5% female) completed baseline measures for intentions, barrier and scheduling self-efficacy, outcomes expectancies (OEs), sport behavior and moderate-to-vigorous physical activity, received their condition 1-week later, reported measures immediately after, and 1-month later. Results showed no differences between the experimental condition",
+  "journal": "Frontiers in Psychology",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 605,
+  "id": "openalex:W2893481239",
+  "score": "0.4500",
+  "year": "2018",
+  "title": "Violated Expectations in the Cyberball Paradigm: Testing the Expectancy Account of Social Participation With ERP",
+  "abstract": "Previous social exclusion experiments identified two factors affecting the participants' evaluation of participation in a virtual ball tossing game (cyberball): ball reception probability and vertical position of the participant's avatar on the screen. The P3 component in the event-related brain potentials (ERPs) indicated that both factors moderat",
+  "journal": "Frontiers in Psychology",
+  "techs": "lowball"
+ },
+ {
+  "i": 606,
+  "id": "openalex:W2791618321",
+  "score": "0.4500",
+  "year": "2018",
+  "title": "Taking Advice for Vocational Decisions: Regulatory Fit Effects",
+  "abstract": "This study examined whether taking advice is influenced by regulatory fit and whether this effect is reduced or disappears within certain attribution conditions during vocational decision making. Experiment 1 created a vocational decision setting to compare differences in decision makers’ weight of advice (WOA) between ‘eager strategy’ and ‘vigilan",
+  "journal": "Journal of Pacific Rim Psychology",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 607,
+  "id": "doi:10.5406/amerjpsyc.130.3.0353",
+  "score": "0.4500",
+  "year": "2017",
+  "title": "The Appraisal Similarity Effect: How Social Appraisals Influence Liking",
+  "abstract": "AbstractThe effects of appraisals on interpersonal relationships have rarely been studied. Three experiments examined how empathic social appraisal could influence liking. We tested for the appraisal similarity effect in which perceived similarity in appraisals boosts liking. In Experiment 1, perception of appraisal similarity led participants to e",
+  "journal": "The American Journal of Psychology",
+  "techs": "liking"
+ },
+ {
+  "i": 608,
+  "id": "openalex:W2588254203",
+  "score": "0.4500",
+  "year": "2017",
+  "title": "Comparing focus groups and individual interviews: findings from a randomized study",
+  "abstract": "Qualitative researchers often have to decide whether to collect data using focus groups or individual interviews. We systematically compare these two methods on their ability to generate two types of information: unique items in a brainstorming task and personally sensitive disclosures. Our study sample consisted of 350 African-American men living ",
+  "journal": "International Journal of Social Research Methodolo",
+  "techs": "calibrated-question"
+ },
+ {
+  "i": 609,
+  "id": "openalex:W2489889863",
+  "score": "0.4500",
+  "year": "2016",
+  "title": "Psychological skills training and a mindfulness-based intervention to enhance functional athletic performance: design of a randomized controlled trial using ambulatory as",
+  "abstract": "BACKGROUND: Struggling to deliver performance in competitions is one of the main reasons why athletes seek the advice of sport psychologists. Psychologists apply a variety of intervention techniques, many of which are not evidence-based. Evidence-based techniques promote quality management and could help athletes, for example, to increase and maint",
+  "journal": "BMC Psychology",
+  "techs": "puppy-dog"
+ },
+ {
+  "i": 610,
+  "id": "openalex:W2337652019",
+  "score": "0.4500",
+  "year": "2016",
+  "title": "The Regulatory Fit of Serial Entrepreneurship Intentions",
+  "abstract": "The question why some entrepreneurs self‐select out of entrepreneurial careers following exits from successful and failed businesses is of growing interest to entrepreneurship scholars. Using two studies and Regulatory Fit Theory as the theoretical lens, we address this question. Study 1 uses the experimental vignette methodology to test whether bu",
+  "journal": "Applied Psychology",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 611,
+  "id": "pmid:27135892",
+  "score": "0.4500",
+  "year": "2016",
+  "title": "Clinical Use of an Autovideography Intervention to Support Recovery in Individuals with Severe Mental Illness.",
+  "abstract": "",
+  "journal": "Journal of psychosocial nursing and mental health ",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 612,
+  "id": "doi:10.1111/sjop.12180",
+  "score": "0.4500",
+  "year": "2015",
+  "title": "Facilitating particularization of repeated similar events with context‐specific cues",
+  "abstract": "Ninety‐five dental care patients participated in a quasi‐experiment in which they were interviewed twice about dental visits they had made during the past ten years. Objective truth was established by analysing their dental records. The main purpose of the study was to investigate to what extent context‐specific cues could facilitate particularizat",
+  "journal": "Scandinavian Journal of Psychology",
+  "techs": "authority"
+ },
+ {
+  "i": 613,
+  "id": "openalex:W2135303120",
+  "score": "0.4500",
+  "year": "2015",
+  "title": "A Study on Training Needs Analysis (TNA) Process among Manufacturing Companies Registered with Pembangunan Sumber Manusia Berhad (PSMB) at Bayan Lepas Area, Penang, Malay",
+  "abstract": "Employees are said to be the most valuable asset in an organisation (Ferdinand, 1988). Therefore, employees talent need to continuously develop and nurture in achieving the highest performance of the organisation. Bentley (1994) emphasized the key to finding and developing the talent is by training whereby training is a planned effort of the organi",
+  "journal": "Mediterranean Journal of Social Sciences",
+  "techs": "tna"
+ },
+ {
+  "i": 614,
+  "id": "openalex:W2097696482",
+  "score": "0.4500",
+  "year": "2014",
+  "title": "Replication of Experiments Evaluating Impact of Psychological Distance on Moral Judgment",
+  "abstract": "Eyal, Liberman, and Trope (2008) established that people judged moral transgressions more harshly and virtuous acts more positively when the acts were psychologically distant than close. In a series of conceptual and direct replications, Gong and Medin (2012) came to the opposite conclusion. Attempting to resolve these inconsistencies, we conducted",
+  "journal": "Social Psychology",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 615,
+  "id": "openalex:W2017922201",
+  "score": "0.4500",
+  "year": "2014",
+  "title": "Examining the Effects of Gain-Framed Messages on the Activation and Elaboration of Possible Sport Selves in Middle-Aged Adults",
+  "abstract": "Using an online cross-sectional randomized design, we explored whether messages emphasizing benefits of sport (sport gain-framed messages) would activate and elaborate hoped-for possible sport selves in 40- to 59-year-olds. One group viewed a video containing sport gain-framed messages, and a comparison group completed a sport and physical activity",
+  "journal": "Journal of Applied Sport Psychology",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 616,
+  "id": "openalex:W2170480430",
+  "score": "0.4500",
+  "year": "2014",
+  "title": "Emotion-based learning: insights from the Iowa Gambling Task",
+  "abstract": "Interest in the cognitive and/or emotional basis of complex decision-making, and the related phenomenon of emotion-based learning, has been heavily influenced by the Iowa Gambling Task. A number of psychological variables have been investigated as potentially important in understanding emotion-based learning. This paper reviews the extent to which ",
+  "journal": "Frontiers in Psychology",
+  "techs": "labeling"
+ },
+ {
+  "i": 617,
+  "id": "openalex:W2022264740",
+  "score": "0.4500",
+  "year": "2014",
+  "title": "An evaluation of positive psychology intervention effectiveness trials using the re-aim framework: A practice-friendly review",
+  "abstract": "Meta-analyses indicate the efficacy of positive psychology interventions in promoting well-being. But, despite accumulating empirical and anecdotal evidence of these interventions’ implementation in real-world settings, no review of effectiveness research exists. Accordingly, we identified 40 positive psychology intervention effectiveness trials ta",
+  "journal": "The Journal of Positive Psychology",
+  "techs": "puppy-dog"
+ },
+ {
+  "i": 618,
+  "id": "openalex:W1553004604",
+  "score": "0.4500",
+  "year": "2014",
+  "title": "Collective fit increases team performances: extending regulatory fit from individuals to dyadic teams",
+  "abstract": "Abstract People experience “regulatory fit” when they pursue a goal in a manner that suits their chronic regulatory orientation. This regulatory fit impacts performance positively. The present research extends performance gains due to fit from individuals to dyadic team performance. Study 1 manipulated team fit of 32 table football participants (i.",
+  "journal": "Journal of Applied Social Psychology",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 619,
+  "id": "openalex:W1500192065",
+  "score": "0.4500",
+  "year": "2014",
+  "title": "Legitimacy, Communication, and Leadership in the Turnaround Game",
+  "abstract": "We study the effectiveness of leaders for inducing coordinated organizational change to a more efficient equilibrium, i.e., a turnaround. We compare communication from leaders to incentive increases and also compare the effectiveness of randomly selected and elected leaders. Although all interventions yield shifts to more efficient equilibria, comm",
+  "journal": "Management Science",
+  "techs": "sharp-angle"
+ },
+ {
+  "i": 620,
+  "id": "openalex:W2133098917",
+  "score": "0.4500",
+  "year": "2012",
+  "title": "Reflective listening and open‐ended questions in counselling: Preferences moderated by social skills and cognitive ability",
+  "abstract": "Abstract Aims : We examined how nondirective counselling skills affect the evaluation of counsellors and the observed working alliance, and how evaluators' social skills and cognitive ability moderate evaluations. Method: In a first analogue experiment, counselling transcripts containing more or less restatements, reflections and open‐ended questio",
+  "journal": "Counselling and Psychotherapy Research",
+  "techs": "calibrated-question"
+ },
+ {
+  "i": 621,
+  "id": "openalex:W2112163143",
+  "score": "0.4500",
+  "year": "2012",
+  "title": "A randomised controlled trial of bumetanide in the treatment of autism in children",
+  "abstract": "Gamma aminobutyric acid (GABA)-mediated synapses and the oscillations they orchestrate are altered in autism. GABA-acting benzodiazepines exert in some patients with autism paradoxical effects, raising the possibility that like in epilepsies, GABA excites neurons because of elevated intracellular concentrations of chloride. Following a successful p",
+  "journal": "Translational Psychiatry",
+  "techs": "labeling"
+ },
+ {
+  "i": 622,
+  "id": "openalex:W2128319774",
+  "score": "0.4500",
+  "year": "2012",
+  "title": "Neurofeedback for the treatment of children and adolescents with ADHD: a randomized and controlled clinical trial using parental reports",
+  "abstract": "BACKGROUND: A randomized and controlled clinical study was performed to evaluate the use of neurofeedback (NF) to treat attention-deficit/hyperactivity disorder (ADHD) in children and adolescents. METHODS: The ADHD population was selected from an outpatient clinic for Child and Adolescent Mental Health in Norway. Ninety-one of the 275 children and ",
+  "journal": "BMC Psychiatry",
+  "techs": "puppy-dog"
+ },
+ {
+  "i": 623,
+  "id": "openalex:W2039786436",
+  "score": "0.4500",
+  "year": "2012",
+  "title": "Exploratory Analyses of Efficacy Data From Schizophrenia Trials in Support of New Drug Applications Submitted to the US Food and Drug Administration",
+  "abstract": "OBJECTIVE: There has been concern about a high rate of placebo response and a decline in treatment effect over time in schizophrenia trials as well as the implications of increasing conduct of such trials outside North America. This report explores differences in efficacy data over an 18-year period from randomized placebo-controlled trials submitt",
+  "journal": "The Journal of Clinical Psychiatry",
+  "techs": "trial-close"
+ },
+ {
+  "i": 624,
+  "id": "openalex:W2071143270",
+  "score": "0.4500",
+  "year": "2011",
+  "title": "Increasing calcium intake in young women through gain-framed, targeted messages: A randomised controlled trial",
+  "abstract": "BACKGROUND: Adequate calcium consumption during early adulthood can help prevent osteoporosis in women. PURPOSE: The effects of gain-framed, targeted messaging on calcium intake were examined over 12 months. METHODS: Young women (18-19 years) not consuming sufficient calcium were randomly assigned to receive standard care materials (control) or gai",
+  "journal": "Psychology and Health",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 625,
+  "id": "doi:10.1177/1948550610368315",
+  "score": "0.4500",
+  "year": "2010",
+  "title": "Interpersonal Liking From Bivariate Attitude Similarity",
+  "abstract": "There exists robust evidence for attitude similarity as a major cause of interpersonal liking, but previous research has ignored the case of similarity in attitudinal ambivalence or indifference. Whereas extensions of Heider’s balance theory predict that people are indifferent toward other’s ambivalence versus indifference, Byrne’s reinforcement th",
+  "journal": "Social Psychological and Personality Science",
+  "techs": "liking"
+ },
+ {
+  "i": 626,
+  "id": "doi:10.1017/s1352465810000196",
+  "score": "0.4500",
+  "year": "2010",
+  "title": "Verbal Repetition in the Reappraisal of Contamination-Related Thoughts",
+  "abstract": "Background: Acceptance and Commitment Therapy advocates use of cognitive defusion techniques to reduce the distress evoked by negative thoughts, including verbal repetition (VR). In VR, a negative word is repeated until its semantic meaning is diluted (i.e. until semantic satiation is achieved). The present two studies examined whether VR is more e",
+  "journal": "Behavioural and Cognitive Psychotherapy",
+  "techs": "mirroring"
+ },
+ {
+  "i": 627,
+  "id": "openalex:W2133489882",
+  "score": "0.4500",
+  "year": "2010",
+  "title": "Misattribution of facial expressions of emotion in adolescents at increased risk of psychosis: the role of inhibitory control",
+  "abstract": "BACKGROUND: By studying behavior, cognitive abilities and brain functioning in adolescents at high risk for psychosis, we can gain an insight into the vulnerability markers or protective factors in the development of psychotic symptoms. Although many high-risk studies have focused on impairments in neurocognitive functions, such as memory and atten",
+  "journal": "Psychological Medicine",
+  "techs": "labeling"
+ },
+ {
+  "i": 628,
+  "id": "openalex:W1997193259",
+  "score": "0.4500",
+  "year": "2010",
+  "title": "The Impact of Regulatory Fit on Performance in an Inattentional Blindness Paradigm",
+  "abstract": "When people's self-regulatory focus (e.g., focus on gains vs. focus on avoiding losses) matches environmental demands (e.g., search gains vs. avoid losses), Regulatory Focus Theory predicts performance improvements because of \"regulatory fit\" (Higgins, 1997). In this article, the authors investigate attentional differences due to regulatory fit as ",
+  "journal": "The Journal of General Psychology",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 629,
+  "id": "openalex:W2019001792",
+  "score": "0.4500",
+  "year": "2010",
+  "title": "Effect of a Coach’s Regulatory Focus and an Individual’s Implicit Person Theory on Individual Performance",
+  "abstract": "Consistent with the arguments of regulatory focus theory, an experiment revealed that a promotion coaching orientation relative to a prevention coaching orientation had a more positive effect on the performance of recipients following coaching. Moreover, in support of regulatory fit theory, a prevention coaching orientation had a more positive effe",
+  "journal": "Journal of Management",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 630,
+  "id": "openalex:W2045892050",
+  "score": "0.4500",
+  "year": "2009",
+  "title": "Immediate Feedback and Opportunity to Revise Answers to Open-Ended Questions",
+  "abstract": "Two experiments examine the psychometric effects of providing immediate feedback on the correctness of answers to open-ended questions, and allowing participants to revise their answers following feedback. Participants answering verbal and math questions are able to correct many of their initial incorrect answers, resulting in higher revised scores",
+  "journal": "Educational and Psychological Measurement",
+  "techs": "calibrated-question"
+ },
+ {
+  "i": 631,
+  "id": "openalex:W2127369090",
+  "score": "0.4500",
+  "year": "2009",
+  "title": "Shared book reading: When and how questions affect young children's word learning.",
+  "abstract": "Shared book reading, and the conversation that accompanies it, can facilitate young children's vocabulary growth. To identify the features of extratextual questions that help 3-year-olds learn unfamiliar words during shared book reading, two experiments explored the impact of cognitive demand level, placement, and an approximation to scaffolding. A",
+  "journal": "Journal of Educational Psychology",
+  "techs": "calibrated-question"
+ },
+ {
+  "i": 632,
+  "id": "openalex:W2048079178",
+  "score": "0.4500",
+  "year": "2009",
+  "title": "Recognition of facial expressions of mixed emotions in school-age children exposed to terrorism.",
+  "abstract": "This exploratory study aims at investigating the effects of terrorism on children's ability to recognize emotions. A sample of 101 exposed and 102 nonexposed children (mean age = 11 years), balanced for age and gender, were assessed 20 months after a terrorist attack in Beslan, Russia. Two trials controlled for children's ability to match a facial ",
+  "journal": "Developmental Psychology",
+  "techs": "labeling"
+ },
+ {
+  "i": 633,
+  "id": "openalex:W2102965647",
+  "score": "0.4500",
+  "year": "2009",
+  "title": "Mindfulness for Long-Distance Runners: An Open Trial Using Mindful Sport Performance Enhancement (MSPE)",
+  "abstract": "The present study sought to determine the effects of Mindful Sport Performance Enhancement (MSPE) on runners. Participants were 25 recreational long-distance runners openly assigned to either the 4-week intervention or to a waiting-list control group, which later received the same program. Results indicate that the MSPE group showed significantly m",
+  "journal": "Journal of Clinical Sport Psychology",
+  "techs": "puppy-dog"
+ },
+ {
+  "i": 634,
+  "id": "openalex:W1541538739",
+  "score": "0.4500",
+  "year": "2007",
+  "title": "PREDICTING ORGANIZATIONAL COMMITMENT THROUGH ORGANIZATION CULTURE: A STUDY OF AUTOMOBILE INDUSTRY IN INDIA",
+  "abstract": "The extent to which the employees of an organization feel committed to their organization can be easily gathered from the strength of its culture. This points out that even though the culture is holistic, it can be strengthened by commitment. Culture can be managed by managing the employees of the organization and also by leader's actions and inter",
+  "journal": "Journal of Business Economics and Management",
+  "techs": "commitment-consistency"
+ },
+ {
+  "i": 635,
+  "id": "openalex:W3122913462",
+  "score": "0.4500",
+  "year": "2005",
+  "title": "Performance Decline and Turnaround in Public Organizations: A Theoretical and Empirical Analysis<sup>*</sup>",
+  "abstract": "Public sector performance is currently a significant issue for management practice and policy, and especially the turnaround of those organizations delivering less than acceptable results. Theories of organizational failure and turnaround derive largely from the business sector and require adaptation to the public service. The performance of public",
+  "journal": "British Journal of Management",
+  "techs": "sharp-angle"
+ },
+ {
+  "i": 636,
+  "id": "openalex:W2161980652",
+  "score": "0.4500",
+  "year": "2001",
+  "title": "Beyond the pages of a book: Interactive book reading and language development in preschool classrooms.",
+  "abstract": "The effects of a book reading technique called interactive book reading on the language and literacy development of 4-year-olds from low-income families were evaluated. Teachers read books to children and reinforced the vocabulary in the books by presenting concrete objects that represented the words and by providing children with multiple opportun",
+  "journal": "Journal of Educational Psychology",
+  "techs": "calibrated-question"
+ },
+ {
+  "i": 637,
+  "id": "openalex:W2027391870",
+  "score": "0.4500",
+  "year": "1994",
+  "title": "Social-cognitive processes of severly violent, moderately aggressive, and nonaggressive boys.",
+  "abstract": "This study examined social-cognitive processes of aggressive and nonaggressive boys at preadolescent and early adolescent age levels. The social-cognitive variables included processing of cues, attributions, social problem solving, affect labeling, outcome expectations, and perceived competence and self-worth. Results indicated that a wide range of",
+  "journal": "Journal of Consulting and Clinical Psychology",
+  "techs": "labeling"
+ },
+ {
+  "i": 638,
+  "id": "openalex:W2046126496",
+  "score": "0.4500",
+  "year": "1994",
+  "title": "Scarcity and preference: An experiment on unavailability and product evaluation",
+  "abstract": "",
+  "journal": "Journal of Economic Psychology",
+  "techs": "scarcity"
+ },
+ {
+  "i": 639,
+  "id": "doi:10.1111/j.2044-8295.1965.tb00954.x",
+  "score": "0.4500",
+  "year": "1965",
+  "title": "REPETITION AND VERBAL LEARNING",
+  "abstract": "An analysis is developed of the possible consequences of presenting for learning an item amongst others in a list, and a hypothesis is generated about the factors determining which of these outcomes will occur. A technique for measuring the effect of repetition is described and discussed. Two experiments are reported which test predictions about th",
+  "journal": "British Journal of Psychology",
+  "techs": "mirroring"
+ },
+ {
+  "i": 640,
+  "id": "arxiv:2604.16775v1",
+  "score": "0.4388",
+  "year": "2026",
+  "title": "Representation Before Training: A Fixed-Budget Benchmark for Generative Medical Event Models",
+  "abstract": "Every prediction from a generative medical event model is bounded by how clinical events are tokenized, yet input representation is rarely isolated from other system and architectural choices. We evaluate how representation decisions affect downstream prediction after a shared one-epoch pretraining budget. We train 28 matched transformers on MIMIC-",
+  "journal": "arXiv",
+  "techs": "anchor-with-range"
+ },
+ {
+  "i": 641,
+  "id": "openalex:W3168197945",
+  "score": "0.4388",
+  "year": "2021",
+  "title": "Effective but fragile? Responses to repeated nudge-based messages for preventing the spread of COVID-19 infection",
+  "abstract": "Nudge-based messages have been employed in various countries to encourage voluntary contact-avoidance and infection-prevention behaviors to control the spread of COVID-19. People have been repeatedly exposed to such messages; however, whether the messages keep exerting a significant impact over time remains unclear. From April to August 2020, we co",
+  "journal": "Japanese Economic Review",
+  "techs": "gain-framing;loss-framing"
+ },
+ {
+  "i": 642,
+  "id": "doi:10.5397/cise.2020.00290",
+  "score": "0.4388",
+  "year": "2020",
+  "title": "Peri-anchor cyst formation after arthroscopic bankart repair: comparison between biocomposite suture anchor and all-suture anchor",
+  "abstract": "Background: The purpose of this study is to investigate clinical outcomes and radiological findings of cyst formation in the glenoid around suture anchors after arthroscopic Bankart repair with either biocomposite suture anchor or all-suture anchor in traumatic anterior shoulder instability. We hypothesized that there would be no significant differ",
+  "journal": "Clinics in Shoulder and Elbow",
+  "techs": "anchor-with-range;extreme-anchor"
+ },
+ {
+  "i": 643,
+  "id": "doi:10.1093/oso/9780198812852.003.0006",
+  "score": "0.4388",
+  "year": "2018",
+  "title": "The Leeriness Objection to the Responsibility to Protect",
+  "abstract": "This chapter argues that even non-abusive interventions (those that are motivated purely by altruistic concern, have a just cause, are a last resort etc.) are morally problematic due to their effects on the international order. The trouble is that ‘bystander states’—those that are neither prosecuting the intervention nor targeted by it—usually do n",
+  "journal": "Oxford Scholarship Online",
+  "techs": "isolate-and-conquer;reverse-objection"
+ },
+ {
+  "i": 644,
+  "id": "openalex:W2148440443",
+  "score": "0.4388",
+  "year": "2017",
+  "title": "The behavioralist as tax collector: Using natural field experiments to enhance tax compliance",
+  "abstract": "",
+  "journal": "Journal of Public Economics",
+  "techs": "gain-framing;loss-framing"
+ },
+ {
+  "i": 645,
+  "id": "openalex:W2000667226",
+  "score": "0.4388",
+  "year": "2013",
+  "title": "The Effectiveness of Gain- Versus Loss-Framed Health Messages in Improving Oral Health in Iranian Secondary Schools: A Cluster-Randomized Controlled Trial",
+  "abstract": "BACKGROUND: Adherence to oral self-care behaviors is low among adolescents. PURPOSE: This study aims to examine effects of two message framing interventions on oral self-care behaviors and health among Iranian adolescents. METHODS: Cluster-randomized controlled trial, with four schools randomly assigned to receive gain-framed, loss-framed, or no me",
+  "journal": "Annals of Behavioral Medicine",
+  "techs": "gain-framing;loss-framing"
+ },
+ {
+  "i": 646,
+  "id": "openalex:W1976812043",
+  "score": "0.4388",
+  "year": "2012",
+  "title": "Predicting Human Papillomavirus Vaccine Uptake in Young Adult Women: Comparing the Health Belief Model and Theory of Planned Behavior",
+  "abstract": "BACKGROUND: Although theories of health behavior have guided thousands of studies, relatively few studies have compared these theories against one another. PURPOSE: The purpose of the current study was to compare two classic theories of health behavior-the Health Belief Model (HBM) and the Theory of Planned Behavior (TPB)-in their prediction of hum",
+  "journal": "Annals of Behavioral Medicine",
+  "techs": "gain-framing;loss-framing"
+ },
+ {
+  "i": 647,
+  "id": "openalex:W588144415",
+  "score": "0.4388",
+  "year": "2012",
+  "title": "Health communication message design : theory and practice",
+  "abstract": "Theory-Based Message Design From Psychological Theory to Message Design: Lessons From the Story of Gain-Framed and Loss-Framed Persuasive Messages - Daniel O'Keefe The Integrated Model of Behavioral Prediction as a Tool for Designing Health Messages - Marco Yzer Health Risk Message Design Using the Extended Parallel Process Model - Michael Basil, K",
+  "journal": "",
+  "techs": "gain-framing;loss-framing"
+ },
+ {
+  "i": 648,
+  "id": "openalex:W2009589362",
+  "score": "0.4388",
+  "year": "2009",
+  "title": "Authority vs. peer",
+  "abstract": "From the most e-mailed stories of the day to the most favorite stocks of the week, Web interfaces are rife with cues conveying other users' ratings and reviews of products and services. Do these peer opinions indeed affect our decisions? And if so, are they as strong in their impact as cues conveying authority/expertise (i.e., high source credibili",
+  "journal": "",
+  "techs": "authority"
+ },
+ {
+  "i": 649,
+  "id": "arxiv:2602.00050v1",
+  "score": "0.4250",
+  "year": "2026",
+  "title": "AI in Debt Collection: Estimating the Psychological Impact on Consumers",
+  "abstract": "The present study investigates the psychological and behavioral implications of integrating AI into debt collection practices using data from eleven European countries. Drawing on a large-scale experimental design (n = 3514) comparing human versus AI-mediated communication, we examine effects on consumers' social preferences (fairness, trust, recip",
+  "journal": "arXiv",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 650,
+  "id": "nct:NCT07570303",
+  "score": "0.4250",
+  "year": "2026",
+  "title": "4-Arm Randomised Controlled Trial Testing Nostalgia-Based Messages and Step-Monitoring to Promote Walking in Older Adults Aged 65-74: A Study Protocol",
+  "abstract": "Physical inactivity increases substantially after age 60 and represents a major public health challenge in older adults, as it is linked to increased risk of functional and cognitive decline and aging problems. Walking is one of the most accessible and recommended forms of moderate physical activity for this population. However, promoting sustained",
+  "journal": "ClinicalTrials.gov",
+  "techs": "feel-felt-found"
+ },
+ {
+  "i": 651,
+  "id": "openalex:W7159751549",
+  "score": "0.4250",
+  "year": "2026",
+  "title": "Luottamus suunnittelun tuloksena: Tekoälyn ja ihmisen tuottamien suositusten vaikutus brändin maineeseen",
+  "abstract": "Due to the growing use of artificial intelligence (AI) in marketing there has been an increase in reliance on algorithm-driven recommendation systems, especially in digital consumer settings. Yet it remains uncertain whether AI-generated recommendations are evaluated the same way as those from human sources, and how these differences influence bran",
+  "journal": "Aaltodoc (Aalto University)",
+  "techs": "authority"
+ },
+ {
+  "i": 652,
+  "id": "openalex:W7134016352",
+  "score": "0.4250",
+  "year": "2026",
+  "title": "Breaking Bad Email Habits: Bounding the Impact of Simulated Phishing Campaigns",
+  "abstract": "Simulated phishing campaigns are widely deployed, yet the behavioral data they produce is endogenous: because training is triggered by clicking, the employees receiving intervention have already demonstrated susceptibility. This endogeneity, combined with the difficulty of separating genuine habit formation from stable individual differences, means",
+  "journal": "ArXiv.org",
+  "techs": "authority"
+ },
+ {
+  "i": 653,
+  "id": "openalex:W283079004",
+  "score": "0.4250",
+  "year": "2026",
+  "title": "An investigation into the sales process practiced by Scottish-based food and drink SMEs",
+  "abstract": "This thesis aims to explore selling and the sales process in Small and Medium Enterprises (SMEs) from the selling organisation’s perspective. It investigates the sales process between SME manufacturers/distributors and Food retail and Foodservices customers/buyers in a new and a modified selling task situation in Scottish-based Food and Drinks busi",
+  "journal": "Research Output (Edinburgh Napier University)",
+  "techs": "ben-franklin"
+ },
+ {
+  "i": 654,
+  "id": "arxiv:2511.19517v2",
+  "score": "0.4250",
+  "year": "2025",
+  "title": "Automating Deception: Scalable Multi-Turn LLM Jailbreaks",
+  "abstract": "Multi-turn conversational attacks, which leverage psychological principles like Foot-in-the-Door (FITD), where a small initial request paves the way for a more significant one, to bypass safety alignments, pose a persistent threat to Large Language Models (LLMs). Progress in defending against these attacks is hindered by a reliance on manual, hard-",
+  "journal": "arXiv",
+  "techs": "fitd"
+ },
+ {
+  "i": 655,
+  "id": "arxiv:2510.23342v2",
+  "score": "0.4250",
+  "year": "2025",
+  "title": "Reciprocity Deficits: Observing AI in the street with everyday publics",
+  "abstract": "The street has emerged as a primary site where everyday publics are confronted with AI as an infrastructural phenomenon, as machine learning-based systems are now commonly deployed in this setting in the form of automated cars, facial recognition, smart billboards and the like. While these deployments of AI in the street have attracted significant ",
+  "journal": "arXiv",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 656,
+  "id": "arxiv:2504.15140v1",
+  "score": "0.4250",
+  "year": "2025",
+  "title": "Evidence of Donor Bias in Chicago Police Stops",
+  "abstract": "This study provides the first empirical evidence that private donations to police departments can influence officer behavior. Drawing on the psychology of reciprocity bias, we theorize that public donations create social debts that shape discretionary enforcement. Using quasi-experimental data from Chicago, we find that after 7-Eleven sponsored a p",
+  "journal": "arXiv",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 657,
+  "id": "arxiv:2510.18802v4",
+  "score": "0.4250",
+  "year": "2025",
+  "title": "Computational Foundations for Strategic Coopetition: Formalizing Interdependence and Complementarity",
+  "abstract": "Coopetition refers to simultaneous cooperation and competition among actors who \"cooperate to grow the pie and compete to split it up.\" Modern socio-technical systems are characterized by strategic coopetition in which actors concomitantly cooperate to create value and compete to capture it. While conceptual modeling languages such as i* provide ri",
+  "journal": "arXiv",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 658,
+  "id": "arxiv:2511.21909v1",
+  "score": "0.4250",
+  "year": "2025",
+  "title": "A Customer Journey in the Land of Oz: Leveraging the Wizard of Oz Technique to Model Emotions in Customer Service Interactions",
+  "abstract": "Emotion-aware customer service needs in-domain conversational data, rich annotations, and predictive capabilities, but existing resources for emotion recognition are often out-of-domain, narrowly labeled, and focused on post-hoc detection. To address this, we conducted a controlled Wizard of Oz (WOZ) experiment to elicit interactions with targeted ",
+  "journal": "arXiv",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 659,
+  "id": "arxiv:2502.01349v4",
+  "score": "0.4250",
+  "year": "2025",
+  "title": "Bias Beware: The Impact of Cognitive Biases on LLM-Driven Product Recommendations",
+  "abstract": "The advent of Large Language Models (LLMs) has revolutionized product recommenders, yet their susceptibility to adversarial manipulation poses critical challenges, particularly in real-world commercial applications. Our approach is the first one to tap into human psychological principles, seamlessly modifying product descriptions, making such manip",
+  "journal": "arXiv",
+  "techs": "social-proof"
+ },
+ {
+  "i": 660,
+  "id": "arxiv:2502.00406v2",
+  "score": "0.4250",
+  "year": "2025",
+  "title": "Agents Are All You Need for LLM Unlearning",
+  "abstract": "Information removal or suppression in large language models (LLMs) is a desired functionality, useful in AI regulation, legal compliance, safety, and privacy. LLM unlearning methods aim to remove information on demand from LLMs. Current LLM unlearning methods struggle to balance the unlearning efficacy and utility due to the competing nature of the",
+  "journal": "arXiv",
+  "techs": "tna"
+ },
+ {
+  "i": 661,
+  "id": "openalex:W4416548921",
+  "score": "0.4250",
+  "year": "2025",
+  "title": "Phishing Susceptibility and the (In-)Effectiveness of Common Anti-Phishing Interventions in a Large University Hospital",
+  "abstract": "Phishing attacks via email remain a major entry point for security and privacy breaches in hospitals. In the European Union, faced with both regulatory pressure to act and limited resources for cybersecurity, hospitals may resort to minimal-effort, off-the-shelf anti-phishing interventions such as warning banners in enterprise email systems. Howeve",
+  "journal": "",
+  "techs": "authority"
+ },
+ {
+  "i": 662,
+  "id": "openalex:W4408652447",
+  "score": "0.4250",
+  "year": "2025",
+  "title": "Designing AI to foster acceptance: do freedom to choose and social proof impact AI attitudes among British and Arab populations?",
+  "abstract": "This study examines the impact of two key AI interaction modalities—freedom of choice and social proof—on public attitudes toward AI, focusing on cultural differences between UK and Arab participants. Freedom of choice refers to the option of selecting a non-AI, possibly human, alternative, while social proof refers to knowing that others have used",
+  "journal": "Behaviour and Information Technology",
+  "techs": "social-proof"
+ },
+ {
+  "i": 663,
+  "id": "osf:xtcn3",
+  "score": "0.4250",
+  "year": "2025",
+  "title": "Healthcare Shooting Perception: Framing, Reciprocity, and Prosocial Motive Attribution in Responses to Violence against Public Figures",
+  "abstract": "In December 2024, we conducted a rapid-response, between-subjects experiment in which we assessed U.S. American’s perception of the shooting of UnitedHealthcare CEO Brian Thompson.\nThis study investigates how scenario framing (health insurance executive vs. business executive), individual differences (reciprocity norms, closeness to workers/executi",
+  "journal": "OSF Registrations",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 664,
+  "id": "osf:7a3bg",
+  "score": "0.4250",
+  "year": "2025",
+  "title": "Social Proof in Coach Selection 2",
+  "abstract": "This registration describes the second study of a two-study project investigating how deceptive designs (dark patterns) influence users’ decisions in an online coach booking environment.\nThe first study (Study 1) used explicit instructions that guided participants to evaluate coaches on four objective criteria (industry experience, education, ICF c",
+  "journal": "OSF Registrations",
+  "techs": "social-proof"
+ },
+ {
+  "i": 665,
+  "id": "arxiv:2410.16950v1",
+  "score": "0.4250",
+  "year": "2024",
+  "title": "Breaking ReAct Agents: Foot-in-the-Door Attack Will Get You In",
+  "abstract": "Following the advancement of large language models (LLMs), the development of LLM-based autonomous agents has become increasingly prevalent. As a result, the need to understand the security vulnerabilities of these agents has become a critical task. We examine how ReAct agents can be exploited using a straightforward yet effective method we refer t",
+  "journal": "arXiv",
+  "techs": "fitd"
+ },
+ {
+  "i": 666,
+  "id": "arxiv:2411.16813v4",
+  "score": "0.4250",
+  "year": "2024",
+  "title": "Incivility and Rigidity: Evaluating the Risks of Fine-Tuning LLMs for Political Argumentation",
+  "abstract": "Incivility on platforms such as Twitter (now X) and Reddit complicates the development of AI systems that can support productive, rhetorically sound political argumentation. We present experiments with \\textit{GPT-3.5 Turbo} fine-tuned on two contrasting datasets of political discourse: high-incivility Twitter replies to U.S. Congress and low-inciv",
+  "journal": "arXiv",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 667,
+  "id": "arxiv:2402.17838v1",
+  "score": "0.4250",
+  "year": "2024",
+  "title": "Personalizing Smart Home Privacy Protection With Individuals' Regulatory Focus: Would You Preserve or Enhance Your Information Privacy?",
+  "abstract": "In this study, we explore the effectiveness of persuasive messages endorsing the adoption of a privacy protection technology (IoT Inspector) tailored to individuals' regulatory focus (promotion or prevention). We explore if and how regulatory fit (i.e., tuning the goal-pursuit mechanism to individuals' internal regulatory focus) can increase persua",
+  "journal": "arXiv",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 668,
+  "id": "doi:10.61173/kj34hm38",
+  "score": "0.4250",
+  "year": "2024",
+  "title": "Influential Factors of Consumer Preferences for Online Takeaway Ordering",
+  "abstract": "The online food delivery service has gained immense popularity among consumers worldwide, boasting a staggering 3 billion users of food delivery apps across the globe. In this highly competitive landscape, merchants face the challenge of attracting and retaining customers. It is of paramount importance to discern the factors that influence consumer",
+  "journal": "Finance &amp; Economics",
+  "techs": "takeaway"
+ },
+ {
+  "i": 669,
+  "id": "openalex:W4391932320",
+  "score": "0.4250",
+  "year": "2024",
+  "title": "How Does VR Affect Emotional Appeal and Persuasiveness of Gain Versus Loss-Framed Messages?",
+  "abstract": "Can virtual reality (VR) lead to more desirable persuasion effects than videos in communicating the science of contentious issues like climate change? And, will these effects differ between messages that offer hope versus fear? We addressed these questions with a 2 (Modality: Desktop VR vs. Unidirectional video) × 2 (framing: Gain vs. Loss) between",
+  "journal": "Science Communication",
+  "techs": "loss-framing"
+ },
+ {
+  "i": 670,
+  "id": "openalex:W4396519556",
+  "score": "0.4250",
+  "year": "2024",
+  "title": "Cognitive Reflection and Social Proof: Navigating Complex Tax Incentives for Retirement Savings",
+  "abstract": "As the population ages, the urgency to ensure financial security in retirement intensifies. Governments have introduced tax incentives to promote retirement savings, but their complexity could pose challenges. Navigating these complex tax incentives often requires both cognitive reflections, the ability to resist impulsive answers and consider an i",
+  "journal": "Journal of Aging & Social Policy",
+  "techs": "social-proof"
+ },
+ {
+  "i": 671,
+  "id": "osf:2y86t",
+  "score": "0.4250",
+  "year": "2024",
+  "title": "Who Is Willing to Pay? Second-Order Beliefs and Reciprocity in Global Climate Cooperation",
+  "abstract": "Climate change is one of the greatest threats to humanity. Meanwhile, it is also the global public goods problem par excellence (Stavins, 2011). Addressing this crisis requires collective action, which is contingent on individuals’ willingness to act and to financially support climate action (Andre et al., 2024). But what are the factors that drive",
+  "journal": "OSF Registrations",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 672,
+  "id": "arxiv:2305.07970v2",
+  "score": "0.4250",
+  "year": "2023",
+  "title": "The Machine Psychology of Cooperation: Can GPT models operationalise prompts for altruism, cooperation, competitiveness and selfishness in economic games?",
+  "abstract": "We investigated the capability of the GPT-3.5 large language model (LLM) to operationalize natural language descriptions of cooperative, competitive, altruistic, and self-interested behavior in two social dilemmas: the repeated Prisoners Dilemma and the one-shot Dictator Game. Using a within-subject experimental design, we used a prompt to describe",
+  "journal": "arXiv",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 673,
+  "id": "nct:NCT05782153",
+  "score": "0.4250",
+  "year": "2023",
+  "title": "Comparing Self-Fitting Strategies in the Lexie Powered by Bose Hearing Aids: A Randomized Control Trial",
+  "abstract": "More than 1.5 billion people around the world experience hearing loss, of whom at least 430 million experience disabling hearing loss that will require rehabilitation. The majority of people have mild to moderate hearing loss and can benefit from hearing aids. However, hearing aid adoption around the world has been low, with global hearing aid cove",
+  "journal": "ClinicalTrials.gov",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 674,
+  "id": "openalex:W4319968634",
+  "score": "0.4250",
+  "year": "2023",
+  "title": "Loss framing effect on reducing excessive red and processed meat consumption: Evidence from Italy",
+  "abstract": "A reduction of meat consumption is crucial for addressing public health problems, especially in industrialized countries. Among low-cost interventions, emotionally provocative health-information strategies could be effective options in fostering meat reduction. Through an online experimental survey, administrated to a quota-based national sample (N",
+  "journal": "Meat Science",
+  "techs": "loss-framing"
+ },
+ {
+  "i": 675,
+  "id": "osf:pufyg",
+  "score": "0.4250",
+  "year": "2023",
+  "title": "the Effect of Affect Labeling in Children’s Emotion Regulation",
+  "abstract": "To investigate the impact of affect labeling on the neural mechanisms underlying the regulation of negative emotions in preschoolers, this experiment adapted paradigms from Grabell (2018) frustration game paradigm and Niles (2015) affect labeling paradigm, creating a paradigm suitable for children to regulate their emotions using affect labels. Add",
+  "journal": "OSF Registrations",
+  "techs": "labeling"
+ },
+ {
+  "i": 676,
+  "id": "doi:10.30924/mjcmi.27.2.2",
+  "score": "0.4250",
+  "year": "2022",
+  "title": "Using loss aversion and framing to nudge students' classroom performance Uporaba odbojnosti prema gubitku i efekta oblikovanja u poticanju studentskog učinka",
+  "abstract": "Behavioral economics suggests that people do not always decide rationally but are even predictably irrational. This gives rise to the concept of nudge, which creates an architecture of choices that encourages people to behave as they wish. Loss aversion is one of the best-known phenomena in behavioral economics and a central notion of the prospect ",
+  "journal": "Management",
+  "techs": "loss-framing"
+ },
+ {
+  "i": 677,
+  "id": "openalex:W4306929524",
+  "score": "0.4250",
+  "year": "2022",
+  "title": "Consumers' purchase intentions in social commerce: the role of social psychological distance, perceived value, and perceived cognitive effort",
+  "abstract": "Purpose Electronic word-of-mouth (eWOM) has become one of the most influential information sources for consumers' purchase decision-making. Based on construal-level theory and from the perspective of cognitive effort, this study investigated the effects of eWOM social media types and conflicting eWOM on consumers' purchase intentions and validated ",
+  "journal": "Information Technology and People",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 678,
+  "id": "pmid:35578049",
+  "score": "0.4250",
+  "year": "2022",
+  "title": "Reciprocity between lymphadenectomy quality and adjuvant chemotherapy compliance in gastric cancer: post hoc analysis of two randomized controlled trials.",
+  "abstract": "",
+  "journal": "Surgical endoscopy",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 679,
+  "id": "nct:NCT05722106",
+  "score": "0.4250",
+  "year": "2021",
+  "title": "Improving Adherence to COVID-19 Prevention Behaviours: Test of Persuasive Messages",
+  "abstract": "The goal of this randomized online experiment was to test the effectiveness of using various persuasive appeals (deontological moral frame, empathy, identifiable victim, goal proximity, and reciprocity) at improving intentions to adhere to prevention behaviors.\n\nParticipants indicated their intentions to follow public health guidelines, saw one of ",
+  "journal": "ClinicalTrials.gov",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 680,
+  "id": "openalex:W3195875434",
+  "score": "0.4250",
+  "year": "2021",
+  "title": "How can tax compliance be incentivized? An experimental examination of voice and empathy",
+  "abstract": "Purpose Tax evasion is an economic crime that nearly all world countries suffer from. Its consequences are countless, including poor public spending on infrastructure projects and social welfare programs, low economic growth and development, institutional mistrust and fiscal deficits. For developing countries in particular, targeting development pr",
+  "journal": "Review of Economics and Political Science",
+  "techs": "commitment-consistency"
+ },
+ {
+  "i": 681,
+  "id": "openalex:W3212927029",
+  "score": "0.4250",
+  "year": "2021",
+  "title": "Co-design of a digital dietary intervention for adults at risk of type 2 diabetes",
+  "abstract": "BACKGROUND: Co-design has the potential to create interventions that lead to sustainable health behaviour change. Evidence suggests application of co-design in various health domains has been growing; however, few public-facing digital interventions have been co-designed to specifically address the needs of adults at risk of Type 2 diabetes (T2D). ",
+  "journal": "BMC Public Health",
+  "techs": "commitment-consistency"
+ },
+ {
+  "i": 682,
+  "id": "openalex:W4200226646",
+  "score": "0.4250",
+  "year": "2021",
+  "title": "Fast Parameter-Free Multi-View Subspace Clustering With Consensus Anchor Guidance",
+  "abstract": "Multi-view subspace clustering has attracted intensive attention to effectively fuse multi-view information by exploring appropriate graph structures. Although existing works have made impressive progress in clustering performance, most of them suffer from the cubic time complexity which could prevent them from being efficiently applied into large-",
+  "journal": "IEEE Transactions on Image Processing",
+  "techs": "extreme-anchor"
+ },
+ {
+  "i": 683,
+  "id": "openalex:W3168547784",
+  "score": "0.4250",
+  "year": "2021",
+  "title": "To forgive or retaliate? How regulatory fit affects emotional reactions and repurchase decisions following product failures",
+  "abstract": "Purpose When a product fails out of negligence on the seller’s part, consumers can either retaliate against the seller, more so if a third party encourages them to do so, or forgive the seller should the seller express remorse. This paper aims to examine how the fit between the consumer’s promotion/prevention regulatory orientation and the promotio",
+  "journal": "Journal of Consumer Marketing",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 684,
+  "id": "openalex:W3127913599",
+  "score": "0.4250",
+  "year": "2021",
+  "title": "Exploring regulatory fit between service relationships and appeals in co-production",
+  "abstract": "Purpose This paper aims to explore how different service relationships (mentoring relationship versus partnering relationship) in service co-production affect service outcomes. Specifically, it aims to explore whether the effects of service relationships on customers’ intention to purchase the service are contingent upon service appeals’ regulatory",
+  "journal": "Journal of Services Marketing",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 685,
+  "id": "nct:NCT04590066",
+  "score": "0.4250",
+  "year": "2020",
+  "title": "Testing Multiple Behavioral Science Strategies to Increase Flu-Shot Rates at a Large Retail Pharmacy",
+  "abstract": "This research aims to identify which behavioral science strategies are most effective at increasing flu vaccination rates overall and based on patients' individual characteristics. Past behavioral science interventions have shown promise in increasing flu vaccinations. For example, successful interventions have encouraged people to make concrete pl",
+  "journal": "ClinicalTrials.gov",
+  "techs": "fitd"
+ },
+ {
+  "i": 686,
+  "id": "openalex:W3021982888",
+  "score": "0.4250",
+  "year": "2020",
+  "title": "Incorporating Message Framing into Narrative Persuasion to Curb E‐Cigarette Use Among College Students",
+  "abstract": "This study examines the interaction effect of message format (narrative vs. nonnarrative) and message framing (gain vs. loss) in e-cigarette prevention targeting young adults. Results of a two-way experiment (N = 439) revealed that transportation and discrete emotions mediated message effect on risk perception and behavioral intention. Compared to ",
+  "journal": "Risk Analysis",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 687,
+  "id": "openalex:W3095909294",
+  "score": "0.4250",
+  "year": "2020",
+  "title": "Nudging to increase hand hygiene during the COVID-19 pandemic: A field experiment.",
+  "abstract": "The COVID-19 pandemic has made a significant impact on citizens all around the world. In order to prevent the spread of the virus, one of the most important measures is practicing hand hygiene. We see nudging, a technique from behavioural economics, as a possible way to increase hand hygiene without relying on mandatory measures. In this field expe",
+  "journal": "Canadian Journal of Behavioural Science/Revue cana",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 688,
+  "id": "openalex:W2998673769",
+  "score": "0.4250",
+  "year": "2020",
+  "title": "The Negative Consequences of Loss-Framed Performance Incentives",
+  "abstract": "Behavioral economists have proposed that incentive contracts result in higher productivity when bonuses are \"loss framed\"-prepaid then clawed back if targets are unmet. We test this claim in a large-scale field experiment. Holding financial incentives fixed, we randomized the preor post-payment of sales bonuses at 294 car dealerships. Prepayment wa",
+  "journal": "National Bureau of Economic Research",
+  "techs": "loss-framing"
+ },
+ {
+  "i": 689,
+  "id": "openalex:W4236348390",
+  "score": "0.4250",
+  "year": "2020",
+  "title": "The Negative Consequences of Loss-Framed Performance Incentives",
+  "abstract": "Behavioral economists have proposed that incentive contracts result in higher productivity when bonuses are \"loss framed\"-prepaid then clawed back if targets are unmet.We test this claim by randomizing the pre-or post-payment of sales bonuses at 294 car dealerships.Although somewhat statistically imprecise, our analysis provides strong indications ",
+  "journal": "AEA Randomized Controlled Trials",
+  "techs": "loss-framing"
+ },
+ {
+  "i": 690,
+  "id": "nct:NCT03811327",
+  "score": "0.4250",
+  "year": "2019",
+  "title": "Zero-time Exercise for Depression: A Pilot Randomised Controlled Trial",
+  "abstract": "This study will examine the feasibility and effectiveness of a new lifestyle-integrated exercise, viz. Zero-time Exercise (ZTEx), for the management of depressive symptoms in Chinese adults in Hong Kong. ZTEx refers to the integration of simple strength- and stamina-enhancing physical activity into daily life, which can be done anytime, anywhere an",
+  "journal": "ClinicalTrials.gov",
+  "techs": "fitd"
+ },
+ {
+  "i": 691,
+  "id": "doi:10.24989/medienjournal.v43i2.1709",
+  "score": "0.4250",
+  "year": "2019",
+  "title": "Framing-Effekte in der Gesundheitskommunikation. Ein systematischer Forschungsüberblick und eine Inhaltsanalyse der Studien zu den Wirkungen von Gain- und Loss-Frames",
+  "abstract": "Dem spezifischen Framing kommt in der Gesundheitskommunikation eine große Bedeutung zu, da entsprechend gerahmte Kommunikate relevante Einflüsse auf erwünschte sowie gesundheitsförderliche Verhaltensweisen von Individuen hervorrufen können. Basierend auf insgesamt 167 englischsprachigen Fachzeitschriftenartikeln sowie 203 Einzelstudien mit mehr als",
+  "journal": "MedienJournal",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 692,
+  "id": "openalex:W2950156209",
+  "score": "0.4250",
+  "year": "2019",
+  "title": "Effects of Source of Customized Recommendations, Type of Product, and Amount of Choice on Consumers' Attitudes",
+  "abstract": "Online shopping has gained tremendous popularity in the past decade, yet research is still needed on the psychological effects of the various elements that may affect consumers' attitudes toward online shopping websites. This dissertation examined the effects of customized recommendation sources, type of product, and amount of choice on consumers' ",
+  "journal": "Carolina Digital Repository (University of North C",
+  "techs": "authority"
+ },
+ {
+  "i": 693,
+  "id": "openalex:W2982174257",
+  "score": "0.4250",
+  "year": "2019",
+  "title": "The Interplay of Travelers’ Psychological Distance, Language Abstraction, and Message Appeal Type in Social Media Advertising",
+  "abstract": "Effectiveness of destination advertising to potential tourists has been enhanced with the use of personalized orientation. After an online search for information about a destination, individuals are exposed to advertisements related to the destination on their social media newsfeed. However, further understanding is warranted in terms of how these ",
+  "journal": "Journal of Travel Research",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 694,
+  "id": "openalex:W2916363439",
+  "score": "0.4250",
+  "year": "2019",
+  "title": "The impact of envy on brand preference: brand storytelling and psychological distance as moderators",
+  "abstract": "Purpose While envy has been widely explored in psychology literature, theoretical understanding of the effects of envy on consumers’ emotional responses to brands is promising but under explored. Therefore, this study aims to apply cases of envy and psychological distance to consumers to examine whether the style of brand storytelling can moderate ",
+  "journal": "Journal of Product & Brand Management",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 695,
+  "id": "openalex:W2922510754",
+  "score": "0.4250",
+  "year": "2019",
+  "title": "Please Help! A Preliminary Study on the Effect of Social Proof and Legitimization of Paltry Contributions in Donations to OSS",
+  "abstract": "Open source communities have contributed widely to modern software development. The number of open source software (OSS) has increased rapidly in the past two decades. Most open source foundations (such as Eclipse, Mozilla and Apache) operate as non-profit; those foundations usually seek donations from users/developers to financially support their ",
+  "journal": "",
+  "techs": "social-proof"
+ },
+ {
+  "i": 696,
+  "id": "openalex:W2885111638",
+  "score": "0.4250",
+  "year": "2018",
+  "title": "Gender Differences in Selective Attention and Shopping Intention in the case of Taobao Live-show: An Eye-Tracking Study",
+  "abstract": "Live-show video was introduced into electronic marketing place two years ago. However, it still remains unknown how such new communication ways between buyers and sellers influence individual online shopping intention. How the limited attention resource would be assigned to the main information of endogenous and exogenous cues in the video, and the",
+  "journal": "Journal of the Association for Information Systems",
+  "techs": "authority"
+ },
+ {
+  "i": 697,
+  "id": "openalex:W2883864423",
+  "score": "0.4250",
+  "year": "2018",
+  "title": "Affective Dilemmas: The Impact of Trait Affect and State Emotion on Sustainable Consumption Decisions in a Social Dilemma Task",
+  "abstract": "Developing a more sustainable lifestyle is becoming an important challenge of our times; it is thus crucial to understand the factors that drive resource consumption decisions. We investigated the impact of trait affect and state emotion on individual consumption decisions in social dilemma tasks. Affective factors interacted strongly with the spec",
+  "journal": "Environment and Behavior",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 698,
+  "id": "openalex:W2792685854",
+  "score": "0.4250",
+  "year": "2018",
+  "title": "P14 Pioneering use of brincidorfovir to treat adenovirus infection in a paediatric patient post bone marrow transplant",
+  "abstract": "Background Brincidofovir (BCV) is an antiviral drug currently undergoing stage 2 clinical trials in America. BCV is released only on direct application with subsequent approval from the manufacturer; Chimerix. It is currently available via the Named Patient Program (NPP); an open-label, non-randomised, multi- centre expanded access program that pro",
+  "journal": "Archives of Disease in Childhood",
+  "techs": "trial-close"
+ },
+ {
+  "i": 699,
+  "id": "openalex:W2753048041",
+  "score": "0.4250",
+  "year": "2017",
+  "title": "Mobility-as-a-Service: Exploring Consumer Preferences for MaaS Subscription Packages Using a Stated Choice Experiment",
+  "abstract": "While urbanisation has increased and more efficient means of mobility are required, consumers are decreasingly interested in owning cars. One solution to meet people's mobility needs is to provide mobility as a service (MaaS). This study looks into consumers’ preferences on monthly MaaS packages and tries to identify the most important factors that",
+  "journal": "Research Repository (Delft University of Technolog",
+  "techs": "assumptive"
+ }
+]

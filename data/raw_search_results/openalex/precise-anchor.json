@@ -1,0 +1,24 @@
+[
+  {
+    "id": "openalex:W3195883039",
+    "doi": "10.36639/mbelr.10.2.precise",
+    "title": "Precise Punishment: Why Precise Punitive Damage Requests Result in Higher Awards Than Round Requests",
+    "abstract": "Imagine a setting where someone asks two people what the temperature is outside. The first person says it is 80 °F, while the second person says it is 78.7 °F. Research regarding precise versus round cognitive anchoring suggests that the second person is more likely to be believed. This is because it is human nature to assume that if someone gives a precise answer, he must have good reason for doing so. This principle remains constant in a variety of settings, including used car negotiations, eBay transactions, and estimating the field goal percentage of a basketball player. This Article reports the results of a first-of-its-kind study involving over 600 participants designed to measure if this same principle applies to punitive damage requests from plaintiffs’ attorneys. In other words, can a plaintiff’s attorney increase the punitive damages awarded simply by requesting $497,000 instead of $500,000. The stark differences produced from such a subtle and costless change provide a valuable strategy for plaintiffs’ attorneys, a cautionary warning for civil defense attorneys, and constructive insight into the subjective nature of juror decision-making.",
+    "year": "2021",
+    "authors": "Michael Conklin",
+    "journal": "Michigan Business & Entrepreneurial Law Review",
+    "source_db": "openalex",
+    "source_query": "precise-anchor"
+  },
+  {
+    "id": "openalex:W3139496548",
+    "doi": "10.2139/ssrn.3688471",
+    "title": "Precise Punishment: Why Precise Punitive Damage Requests Result in Higher Awards than Round Requests",
+    "abstract": "",
+    "year": "2020",
+    "authors": "Michael Conklin",
+    "journal": "SSRN Electronic Journal",
+    "source_db": "openalex",
+    "source_query": "precise-anchor"
+  }
+]

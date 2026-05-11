@@ -1,0 +1,46 @@
+[
+  {
+    "id": "arxiv:2402.17838v1",
+    "doi": "10.1145/3613904.3642640",
+    "title": "Personalizing Smart Home Privacy Protection With Individuals' Regulatory Focus: Would You Preserve or Enhance Your Information Privacy?",
+    "abstract": "In this study, we explore the effectiveness of persuasive messages endorsing the adoption of a privacy protection technology (IoT Inspector) tailored to individuals' regulatory focus (promotion or prevention). We explore if and how regulatory fit (i.e., tuning the goal-pursuit mechanism to individuals' internal regulatory focus) can increase persuasion and adoption. We conducted a between-subject experiment (N = 236) presenting participants with the IoT Inspector in gain (\"Privacy Enhancing Technology\" -- PET) or loss (\"Privacy Preserving Technology\" -- PPT) framing. Results show that the effect of regulatory fit on adoption is mediated by trust and privacy calculus processes: prevention-focused users who read the PPT message trust the tool more. Furthermore, privacy calculus favors using the tool when promotion-focused individuals read the PET message. We discuss the contribution of understanding the cognitive mechanisms behind regulatory fit in privacy decision-making to support privacy protection.",
+    "year": "2024",
+    "authors": "Reza Ghaiumy Anaraky, Yao Li, Hichang Cho, Danny Yuxing Huang, Kaileigh A. Byrne, Bart Knijnenburg, Oded Nov",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "regulatory-fit"
+  },
+  {
+    "id": "arxiv:2510.24359v1",
+    "doi": "",
+    "title": "An N-of-1 Artificial Intelligence Ecosystem for Precision Medicine",
+    "abstract": "Artificial intelligence in medicine is built to serve the average patient. By minimizing error across large datasets, most systems deliver strong aggregate accuracy yet falter at the margins: patients with rare variants, multimorbidity, or underrepresented demographics. This average patient fallacy erodes both equity and trust. We propose a different design: a multi-agent ecosystem for N-of-1 decision support. In this environment, agents clustered by organ systems, patient populations, and analytic modalities draw on a shared library of models and evidence synthesis tools. Their results converge in a coordination layer that weighs reliability, uncertainty, and data density before presenting the clinician with a decision-support packet: risk estimates bounded by confidence ranges, outlier flags, and linked evidence. Validation shifts from population averages to individual reliability, measured by error in low-density regions, calibration in the small, and risk--coverage trade-offs. Anticipated challenges include computational demands, automation bias, and regulatory fit, addressed through caching strategies, consensus checks, and adaptive trial frameworks. By moving from monolithic models to orchestrated intelligence, this approach seeks to align medical AI with the first principle of medicine: care that is transparent, equitable, and centered on the individual.",
+    "year": "2025",
+    "authors": "Pedram Fard, Alaleh Azhir, Neguine Rezaii, Jiazi Tian, Hossein Estiri",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "regulatory-fit"
+  },
+  {
+    "id": "arxiv:2306.07637v1",
+    "doi": "10.1007/978-3-031-44070-0_14",
+    "title": "For Better or Worse: The Impact of Counterfactual Explanations' Directionality on User Behavior in xAI",
+    "abstract": "Counterfactual explanations (CFEs) are a popular approach in explainable artificial intelligence (xAI), highlighting changes to input data necessary for altering a model's output. A CFE can either describe a scenario that is better than the factual state (upward CFE), or a scenario that is worse than the factual state (downward CFE). However, potential benefits and drawbacks of the directionality of CFEs for user behavior in xAI remain unclear. The current user study (N=161) compares the impact of CFE directionality on behavior and experience of participants tasked to extract new knowledge from an automated system based on model predictions and CFEs. Results suggest that upward CFEs provide a significant performance advantage over other forms of counterfactual feedback. Moreover, the study highlights potential benefits of mixed CFEs improving user performance compared to downward CFEs or no explanations. In line with the performance results, users' explicit knowledge of the system is statistically higher after receiving upward CFEs compared to downward comparisons. These findings imply that the alignment between explanation and task at hand, the so-called regulatory fit, may play a crucial role in determining the effectiveness of model explanations, informing future research directions in xAI. To ensure reproducible research, the entire code, underlying models and user data of this study is openly available: https://github.com/ukuhl/DirectionalAlienZoo",
+    "year": "2023",
+    "authors": "Ulrike Kuhl, André Artelt, Barbara Hammer",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "regulatory-fit"
+  },
+  {
+    "id": "arxiv:2605.04076v1",
+    "doi": "",
+    "title": "A Regulatory Governance Framework for AI-Driven Financial Fraud Detection in U.S. Banking: Integrating OCC, SR 11-7, CFPB, and FinCEN Compliance Requirements for Model Development, Validation, and Monitoring Lifecycles",
+    "abstract": "U.S. financial institutions deploying AI-based fraud detection face a fragmented compliance landscape spanning four regulatory frameworks -- OCC Bulletin 2011-12, SR 11-7, the CFPB AI circular, and FinCEN BSA/SAR requirements -- with no integrated governance life cycle connecting these requirements to model development, validation, and monitoring practice. This paper presents the Regulatory Governance Framework for AI-Driven Financial Fraud Detection (RGF-AFFD), a three-tier governance architecture empirically anchored in a multi-study empirical program. Using the IEEE-CIS dataset (590,540 transactions) and ULB benchmark (284,807 transactions), we benchmark six architectures including an LSTM+XGBoost ensemble, and conduct ablation, temporal drift, SHAP interpretability, and BISG fairness analyses. The LSTM+XGBoost ensemble achieves ROC-AUC of 0.9289 (F1: 0.6360) with a benefit-cost ratio of 6:1. XGBoost demonstrates the strongest temporal stability (delta-AUC = -0.0017 versus -0.0626 for LSTM). The RDT-FG Regulatory Digital Twin meta-model translates metrics into four regulator-specific health scores and a composite Regulatory Fitness Index for continuous compliance monitoring. The RGF-AFFD is the first integrated deployment blueprint to simultaneously satisfy OCC, SR 11-7, CFPB, and FinCEN requirements, supported by a community bank implementation vignette and four evidence-based policy recommendations.",
+    "year": "2026",
+    "authors": "Mohammad Nasir Uddin",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "regulatory-fit"
+  }
+]

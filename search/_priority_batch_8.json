@@ -1,0 +1,1002 @@
+[
+ {
+  "i": 700,
+  "id": "openalex:W2575191327",
+  "score": "0.4250",
+  "year": "2017",
+  "title": "The Effect of Rating Scale Design on Extreme Response Tendency in Consumer Product Ratings",
+  "abstract": "Consumer-generated product ratings have become a fundamental component of online businesses, yet seem to be susceptible to biases that shift the distribution toward the extreme points of the rating scales. Response biases (such as extreme response style) due to intrinsic traits are widely investigat",
+  "journal": "International Journal of Electronic Commerce",
+  "techs": "labeling"
+ },
+ {
+  "i": 701,
+  "id": "openalex:W2778282313",
+  "score": "0.4250",
+  "year": "2017",
+  "title": "Punishment diminishes the benefits of network reciprocity in social dilemma experiments",
+  "abstract": "Network reciprocity has been widely advertised in theoretical studies as one of the basic cooperation-promoting mechanisms, but experimental evidence favoring this type of reciprocity was published only recently. When organized in an unchanging network of social contacts, human subjects cooperate pr",
+  "journal": "Proceedings of the National Academy of Scienc",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 702,
+  "id": "openalex:W2626860794",
+  "score": "0.4250",
+  "year": "2017",
+  "title": "Feasibility of a physical activity intervention during and shortly after chemotherapy for testicular cancer",
+  "abstract": "BACKGROUND: Given the risk of developing acute and long-term adverse effects in patients receiving cisplatin-based chemotherapy for testicular cancer (TC), risk-reducing interventions, such as physical activity (PA), may be relevant. Limited knowledge is available on the challenges met when conducti",
+  "journal": "BMC Research Notes",
+  "techs": "trial-close"
+ },
+ {
+  "i": 703,
+  "id": "openalex:W2331163859",
+  "score": "0.4250",
+  "year": "2016",
+  "title": "Why is the Pack Persuasive? The Effect of Choice Status on Perceptions of Quality",
+  "abstract": "The logic of social proof and related arguments posits that decision makers interpret an actor's sociometric position (such as popularity) as a signal for quality, especially when quality itself is difficult to ascertain. Although prior work shows that market-level behavioral patterns are consistent",
+  "journal": "Sociological Science",
+  "techs": "social-proof"
+ },
+ {
+  "i": 704,
+  "id": "openalex:W1571120918",
+  "score": "0.4250",
+  "year": "2015",
+  "title": "The Moderating Role of Mood and Personal Relevance on Persuasive Effects of Gain- and Loss-Framed Health Messages",
+  "abstract": "We predicted that mood would moderate the relation between message framing and two outcome variables, message evaluation and behavioral intention, when the message was personally relevant to the target audience. Participants (N = 242) were randomly assigned to an experimental condition in which a po",
+  "journal": "Health Marketing Quarterly",
+  "techs": "loss-framing"
+ },
+ {
+  "i": 705,
+  "id": "openalex:W2101053228",
+  "score": "0.4250",
+  "year": "2015",
+  "title": "How products induce regulatory fit: evidence from the health domain",
+  "abstract": "Purpose – The purpose of this paper is to test whether the simple exposure to different types of products can trigger different motivational orientation on consumers (prevention vs promotion), which in turn would match message frame and increase persuasion. Design/methodology/approach – Three experi",
+  "journal": "Journal of Consumer Marketing",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 706,
+  "id": "doi:10.4018/ijicst.2013010102",
+  "score": "0.4250",
+  "year": "2013",
+  "title": "Social Influence Online",
+  "abstract": "This study examined the extent to which communicator salience manipulated by varying communication modes, authority-based social influence, and gender affect persuasion in online environments by utilizing a 2 by 2 between subjects design. Participants of the experiment were either presented with an ",
+  "journal": "International Journal of Interactive Communic",
+  "techs": "authority"
+ },
+ {
+  "i": 707,
+  "id": "openalex:W2291627265",
+  "score": "0.4250",
+  "year": "2013",
+  "title": "Uodparnianie na wpływ społeczny: wzmocniona autoafirmacja jako czynnik zmniejszający efektywność techniki „drzwi zatrzaśnięte przed nosem”",
+  "abstract": "In social psychology, there is little research concerning immunizing against techniques of social influence. The experiment presented in this paper aims to &#13;\\nfill this gap. The purpose of this research was to demonstrate that self-affirmation connected with a positive feedback reduces the vulne",
+  "journal": "Jagiellonian University Repository (Jagiellon",
+  "techs": "ditf"
+ },
+ {
+  "i": 708,
+  "id": "openalex:W4214820194",
+  "score": "0.4250",
+  "year": "2012",
+  "title": "Vote-Buying and Reciprocity",
+  "abstract": "While vote-buying is common, little is known about how politicians determine who to target. We argue that vote-buying can be sustained by an internalized norm of reciprocity. Receiving money engenders feelings of obligation. Combining survey data on vote-buying with an experiment-based measure of re",
+  "journal": "Econometrica",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 709,
+  "id": "openalex:W2056941195",
+  "score": "0.4250",
+  "year": "2012",
+  "title": "The Effects of Message Framing and Risk Perceptions for HPV Vaccine Campaigns: Focus on the Role of Regulatory Fit",
+  "abstract": "This study investigates the effects of framing and risk perception, and their interaction effects on human papillomavirus (HPV) vaccination. Based on a 2 (message frames) × 2 (perceived risk) experimental design, the interaction effects reveal the effectiveness of loss- (vs. gain-) framed messages w",
+  "journal": "Health Marketing Quarterly",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 710,
+  "id": "nct:NCT01377857",
+  "score": "0.4250",
+  "year": "2011",
+  "title": "HIV Screening Take-up: Evaluating Incentives and Opt-out Strategies",
+  "abstract": "Over twenty percent of HIV-positive persons in the United States are unaware of their infection, leading the Institute of Medicine to recently urge further work to compare the effectiveness of HIV screening strategies. This study will use a randomized trial to compare several variants of emergency-r",
+  "journal": "ClinicalTrials.gov",
+  "techs": "fitd"
+ },
+ {
+  "i": 711,
+  "id": "doi:10.1177/1555343411415794",
+  "score": "0.4250",
+  "year": "2011",
+  "title": "Framing, Loss Aversion, and Visualization of Risk for a Dynamic Simulation Environment",
+  "abstract": "The purpose was to understand the effects of loss aversion and framing on situation awareness (SA) and decision making for a dynamic missile simulation task. Whereas framing has been shown in numerous experiments that were based on the original paradigm, we hypothesized that the loss aversion effect",
+  "journal": "Journal of Cognitive Engineering and Decision",
+  "techs": "loss-framing"
+ },
+ {
+  "i": 712,
+  "id": "openalex:W2319577638",
+  "score": "0.4250",
+  "year": "2011",
+  "title": "Utopia lost? The significance of the shopping mall in American culture and the effects of its decline on the American public",
+  "abstract": "For the last 50 years, the ubiquitous shopping mall has been a staple of everyday American life. Victor Gruen, credited with creating the blueprint for the contemporary shopping mall, envisioned the mall as 'the nucleus of a utopian experiment', a space where 'shoppers will be so bedazzled by a stor",
+  "journal": "Australasian Journal of Popular Culture",
+  "techs": "anchor-with-range"
+ },
+ {
+  "i": 713,
+  "id": "openalex:W2284731459",
+  "score": "0.4250",
+  "year": "2010",
+  "title": "Creating More Credible and Likable Travel Recommender Systems: The Influence of Virtual Agents on Travel Recommender System Evaluation",
+  "abstract": "To help online trip planners, some online travel agencies and travel service providers have adopted travel recommender systems. Although these systems are expected to support travelers in complex decision-making processes, they are not used efficiently by travelers due to a lack of confidence in the",
+  "journal": "OakTrust (Texas A&M University Libraries)",
+  "techs": "authority"
+ },
+ {
+  "i": 714,
+  "id": "openalex:W2184616244",
+  "score": "0.4250",
+  "year": "2010",
+  "title": "POSITIONING AND THE 'FOOT-IN-THE-DOOR' SOCIAL INFLUENCE TECHNIQUE",
+  "abstract": "In spite of an ever-increasing number of theoretical publications on positioning phenomena, which describe the processes of negotiating the identity in relations between people, their experimental verification is still lacking. The present article attempts to empirically verify similar negotiations ",
+  "journal": "",
+  "techs": "fitd"
+ },
+ {
+  "i": 715,
+  "id": "openalex:W2104433259",
+  "score": "0.4250",
+  "year": "2007",
+  "title": "Building Solidarity through Generalized Exchange: A Theory of Reciprocity",
+  "abstract": "Despite the prevalence of generalized exchange in social life, few studies have investigated the classic anthropological prediction that generalized (indirect) exchange produces greater social solidarity than restricted (direct) exchange. Building on recent work comparing negotiated and reciprocal f",
+  "journal": "American Journal of Sociology",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 716,
+  "id": "openalex:W1966600990",
+  "score": "0.4250",
+  "year": "2003",
+  "title": "The (Ir)Relevance of Framing Nutrition Education Messages",
+  "abstract": "Persuasive health education messages can either stress the positive consequences of performing a healthy behaviour (gain-frame) or the negative consequences of not performing a healthy behaviour (loss-frame). Based on studies on topics such as sun protection and breast self-examination there is evid",
+  "journal": "Nutrition and Health",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 717,
+  "id": "openalex:W2118649082",
+  "score": "0.4250",
+  "year": "2002",
+  "title": "Donors to charity gain in both indirect reciprocity and political reputation",
+  "abstract": "Darwinian evolution can explain human cooperative behaviour among non-kin by either direct or indirect reciprocity. In the latter case one does not expect a return for an altruistic act from the recipient as with direct reciprocity, but from another member of the social group. However, the widesprea",
+  "journal": "Proceedings of the Royal Society B Biological",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 718,
+  "id": "openalex:W2061016713",
+  "score": "0.4250",
+  "year": "2001",
+  "title": "LINKING FRAMES IN NEGOTIATIONS: GAINS, LOSSES AND CONFLICT FRAME ADOPTION",
+  "abstract": "Two distinct literatures have investigated the impact of negotiator frames. Both literatures demonstrate that negotiator frames significantly influence both bargaining behavior and negotiated outcomes. These two literatures, however, offer completely different conceptualizations of what negotiator f",
+  "journal": "International Journal of Conflict Management",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 719,
+  "id": "openalex:W2077742954",
+  "score": "0.4250",
+  "year": "1999",
+  "title": "Guilt and expected guilt in the door‐in‐the‐face technique",
+  "abstract": "Abstract Three studies are reported concerning the guilt‐based explanation of the door‐in‐the‐face (DITF) technique, which proposes that in successful DITF implementations, first‐request refusal generates guilt that is reduced by second‐request compliance. An initial experiment confirmed that, consi",
+  "journal": "Communication Monographs",
+  "techs": "ditf"
+ },
+ {
+  "i": 720,
+  "id": "openalex:W1487735176",
+  "score": "0.4250",
+  "year": "1996",
+  "title": "The Effects of Lowballing on Audit Quality: An Experimental Markets Study",
+  "abstract": "The purpose of this study is to investigate the potential effects of low-balling on audit quality. Critics of the audit industry often allege that the practice of lowballing (charging fees below the marginal cost of an audit) provides a potential incentive for auditors to reduce their audit quality ",
+  "journal": "Journal of Accounting Auditing & Finance",
+  "techs": "lowball"
+ },
+ {
+  "i": 721,
+  "id": "openalex:W2085227190",
+  "score": "0.4250",
+  "year": "1994",
+  "title": "Correcting for non-compliance in randomized trials using structural nested mean models",
+  "abstract": "In a randomized trial designed to study the effect of a treatment of interest on the evolution of the mean of a time-dependent outcome variable, subjects are assigned to a treatment regime, or, equivalently, a treatment protocol. Unfortunately, subjects often fail to comply with their assigned regim",
+  "journal": "Communication in Statistics- Theory and Metho",
+  "techs": "puppy-dog"
+ },
+ {
+  "i": 722,
+  "id": "doi:10.2139/ssrn.6176198",
+  "score": "0.4250",
+  "year": "",
+  "title": "A Field Experiment on the Effectiveness of Framing Climate Action: Direct vs. Indirect Effects",
+  "abstract": "&lt;p&gt;Climate action remains insufficient to meet Paris Agreement targets, creating an urgent need to understand how to effectively motivate individual pro-environmental behavior. While traditional approaches emphasize the direct impact of individual behavioral changes, we investigate whether hig",
+  "journal": "",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 723,
+  "id": "doi:10.2139/ssrn.6152327",
+  "score": "0.4250",
+  "year": "",
+  "title": "A Foot in the Door: Seller Preferences for Surcharges",
+  "abstract": "This paper studies holdups in markets where sellers may impose undisclosed surcharges. While prior work has examined price transparency's role in market outcomes, the distinct effect of a transparency norm-separate from a fairness norm-remains unestablished. We formulate a simple model that separate",
+  "journal": "",
+  "techs": "fitd"
+ },
+ {
+  "i": 724,
+  "id": "doi:10.31234/osf.io/6ytq7",
+  "score": "0.4250",
+  "year": "",
+  "title": "Mindset to Gain? Framing Effects, Need for Chaos, and the Limits of \"Burning It All Down\"",
+  "abstract": "Amidst concerns over democratic backsliding and political violence, few studies have investigated whether individual differences in perceived gains and losses influence real-world contexts of decision making. Using a framing experiment based on Prospect Theory, we test whether Need for Chaos--a vali",
+  "journal": "",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 725,
+  "id": "doi:10.5204/thesis.eprints.230505",
+  "score": "0.4250",
+  "year": "",
+  "title": "How regulatory focus-mode fit impacts variety-seeking",
+  "abstract": "This thesis investigates impacts on consumers’ variety-seeking due to fit between regulatory focus (promotion, prevention) and regulatory mode (locomotion, assessment). I analysed a field dataset of 10,547 consumers and conducted three experiments across Australia, the United Kingdom, and the United",
+  "journal": "",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 726,
+  "id": "doi:10.2139/ssrn.6314098",
+  "score": "0.4250",
+  "year": "",
+  "title": "When Should We Offer a Discount? Randomized Discount Timing with Strategic Customers",
+  "abstract": "Retailers increasingly use randomized discount timing, such as unannounced flash sales, to influence strategic customer behavior, yet its advantages over traditional pricing strategies remain unclear. We develop a model with high and low valuation customers who strategically choose when to purchase,",
+  "journal": "",
+  "techs": "silence"
+ },
+ {
+  "i": 727,
+  "id": "openalex:W2010273563",
+  "score": "0.4200",
+  "year": "1998",
+  "title": "Commercial detailing techniques used by pharmaceutical representatives to influence prescribing",
+  "abstract": "AIM: To determine the use of influence techniques by pharmaceutical representatives in their encounters with medical practitioners. METHOD: We identified six influence techniques from the marketing literature which are thought to be commonly used by sales people. These have been termed the principle",
+  "journal": "Australian and New Zealand Journal of Medicin",
+  "techs": "commitment-consistency;reciprocity"
+ },
+ {
+  "i": 728,
+  "id": "nct:NCT06748716",
+  "score": "0.4000",
+  "year": "2025",
+  "title": "Effect of Blue Light Blocking on Reducing Manic Symptoms in Bipolar Disorder: a Randomized Placebo-controlled Trial BLUME (Blue Light Filtering in Manic Episode",
+  "abstract": "This study will be a randomized controlled trial (RCT) measuring the efficacy of wearing blue-blocking glasses (orange glasses) on manic symptoms in a population of patients suffering from Bipolar Disorder (BD), hospitalized for a manic episode on 10 days compared to non-filtering glasses (clear gla",
+  "journal": "ClinicalTrials.gov",
+  "techs": "anchor-with-range;extreme-anchor;precise"
+ },
+ {
+  "i": 729,
+  "id": "nct:NCT06739070",
+  "score": "0.4000",
+  "year": "2024",
+  "title": "Comparison Between Calisthenics and Plyometrics on Reducing Risk of Musculoskeletal Injuries Among School Going Children",
+  "abstract": "Based on the provided document, here is a brief summary\n\nThe goal of this clinical trial is to compare the effects of calisthenics and plyometric exercises on reducing risk of MSK injuries among school-going children. The main questions it aims to answer are:\n\n* Will calisthenics exercises have a be",
+  "journal": "ClinicalTrials.gov",
+  "techs": "lowball;summary-close;tna"
+ },
+ {
+  "i": 730,
+  "id": "nct:NCT05623046",
+  "score": "0.4000",
+  "year": "2023",
+  "title": "Building Emotional Self-Awareness Teletherapy (BEST): a Tool to Optimize Psychological Health Outcomes for Persons with Traumatic Brain Injury",
+  "abstract": "To examine the feasibility, acceptability, and preliminary efficacy of a remotely delivered intervention for civilians and service members with mild traumatic brain injury (mTBI) who have difficulty recognizing and regulating their emotions. Post-treatment outcomes of interest include emotional self",
+  "journal": "ClinicalTrials.gov",
+  "techs": "alternative-choice;feel-felt-found;label"
+ },
+ {
+  "i": 731,
+  "id": "nct:NCT05364450",
+  "score": "0.4000",
+  "year": "2021",
+  "title": "Acceptance and Commitment Therapy for Fear of Recurrence in Breast Cancer Survivors",
+  "abstract": "Fear of cancer recurrence (FCR) is a highly prevalent, disruptive, and under-treated problem for breast cancer survivors. This randomized controlled trial will test the efficacy of group-based Acceptance and Commitment Therapy compared to Cognitive Behavioral Therapy and enhanced usual care for brea",
+  "journal": "ClinicalTrials.gov",
+  "techs": "commitment-consistency;extreme-anchor;fe"
+ },
+ {
+  "i": 732,
+  "id": "nct:NCT03930095",
+  "score": "0.4000",
+  "year": "2016",
+  "title": "A Randomized Clinical Trial of an Acceptance-based Behavioral Therapy With Mindfulness and Exposure Interventions for Generalized Anxiety Disorder",
+  "abstract": "Generalized anxiety disorder (GAD) shows the weakest treatment response among anxiety disorders. The present study aimed at examining whether an acceptance-based behavioral treatment, combining mindfulness and exposure strategies, would improve clinical outcome compared to a standard, non-directive,",
+  "journal": "ClinicalTrials.gov",
+  "techs": "anchor-with-range;commitment-consistency"
+ },
+ {
+  "i": 733,
+  "id": "doi:10.1111/bjso.12793",
+  "score": "0.4000",
+  "year": "2025",
+  "title": "Disentangling the effects of similarity, familiarity, and liking on social inference strategies",
+  "abstract": "Abstract\n                  \n                    People constantly make inferences about others' beliefs and preferences. People can draw on various sources of information to make these inferences, including stereotypes, self‐knowledge, and target‐specific knowledge. What leads people to use each of ",
+  "journal": "British Journal of Social Psychology",
+  "techs": "liking"
+ },
+ {
+  "i": 734,
+  "id": "pmid:39898368",
+  "score": "0.4000",
+  "year": "2025",
+  "title": "\"Sharing Is Caring Even When It's Wrong\": The Factors Influencing Health Misinformation Sharing and Relational Correction Among Chinese Older Adults from a Cult",
+  "abstract": "",
+  "journal": "Health communication",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 735,
+  "id": "openalex:W4404146294",
+  "score": "0.4000",
+  "year": "2024",
+  "title": "Guilt Cues Enhance the Door-on-the-Face Technique",
+  "abstract": "International audience",
+  "journal": "Basic and Applied Social Psychology",
+  "techs": "ditf"
+ },
+ {
+  "i": 736,
+  "id": "doi:10.1016/j.jesp.2021.104281",
+  "score": "0.4000",
+  "year": "2022",
+  "title": "Attitude similarity and interpersonal liking: A dominance of positive over negative attitudes",
+  "abstract": "",
+  "journal": "Journal of Experimental Social Psychology",
+  "techs": "liking"
+ },
+ {
+  "i": 737,
+  "id": "openalex:W4310643312",
+  "score": "0.4000",
+  "year": "2022",
+  "title": "Social Verification Theory: A New Way to Conceptualize Validation, Dissonance, and Belonging",
+  "abstract": "ACADEMIC ABSTRACT: In the present review, we propose a theory that seeks to recontextualize various existing theories as functions of people's perceptions of their consistency with those around them. This theory posits that people seek social consistency for both epistemic and relational needs and t",
+  "journal": "Personality and Social Psychology Review",
+  "techs": "commitment-consistency"
+ },
+ {
+  "i": 738,
+  "id": "doi:10.1016/j.jesp.2020.103992",
+  "score": "0.4000",
+  "year": "2020",
+  "title": "Our adventures make me feel secure: Novel activities boost relationship satisfaction through felt security",
+  "abstract": "",
+  "journal": "Journal of Experimental Social Psychology",
+  "techs": "feel-felt-found"
+ },
+ {
+  "i": 739,
+  "id": "openalex:W3027282910",
+  "score": "0.4000",
+  "year": "2020",
+  "title": "Beyond Western, Educated, Industrial, Rich, and Democratic (WEIRD) Psychology: Measuring and Mapping Scales of Cultural and Psychological Distance",
+  "abstract": "), a meaningful statistic in evolutionary theory, to the World Values Survey of cultural beliefs and behaviors. As the extreme WEIRDness of the literature begins to dissolve, our tool will become more useful for designing, planning, and justifying a wide range of comparative psychological projects. ",
+  "journal": "Psychological Science",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 740,
+  "id": "doi:10.14377/kja.2019.4.15.81",
+  "score": "0.4000",
+  "year": "2019",
+  "title": "Etiquette for the Sharing Economy : The Role of Regulatory Construal Fit",
+  "abstract": "",
+  "journal": "The Korean Journal of Advertising",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 741,
+  "id": "openalex:W2968172736",
+  "score": "0.4000",
+  "year": "2019",
+  "title": "Messaging organizational change: How regulatory fit relates to openness to change through fairness perceptions",
+  "abstract": "",
+  "journal": "Journal of Experimental Social Psychology",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 742,
+  "id": "openalex:W2899316425",
+  "score": "0.4000",
+  "year": "2018",
+  "title": "Cultural Collectivism and Tightness Moderate Responses to Norm Violators: Effects on Power Perception, Moral Emotions, and Leader Support",
+  "abstract": "Responses to norm violators are poorly understood. On one hand, norm violators are perceived as powerful, which may help them to get ahead. On the other hand, norm violators evoke moral outrage, which may frustrate their upward social mobility. We addressed this paradox by considering the role of cu",
+  "journal": "Personality and Social Psychology Bulletin",
+  "techs": "commitment-consistency"
+ },
+ {
+  "i": 743,
+  "id": "openalex:W2793088648",
+  "score": "0.4000",
+  "year": "2018",
+  "title": "Simulational fluency reduces feelings of psychological distance.",
+  "abstract": "Why do some events feel \"like yesterday\" whereas others feel \"ages away\"? Past research has identified cues that influence people's estimates of distance in units such as how many miles or days away events are from the self. However, what makes events feel psychologically close or distant? We examin",
+  "journal": "Journal of Experimental Psychology General",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 744,
+  "id": "openalex:W2883367979",
+  "score": "0.4000",
+  "year": "2018",
+  "title": "The Gift of Psychological Closeness: How Feasible Versus Desirable Gifts Reduce Psychological Distance to the Giver",
+  "abstract": "Gift-giving is a common form of social exchange but little research has examined how different gift types affect the psychological distance between giver and recipient. We examined how two types of gifts influence recipients' perceived psychological distance to the giver. Specifically, we compared d",
+  "journal": "Personality and Social Psychology Bulletin",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 745,
+  "id": "openalex:W2793218714",
+  "score": "0.4000",
+  "year": "2018",
+  "title": "Room for advancement: The regulatory fit of bottom‐rank intermediate feedback",
+  "abstract": "199) extends these findings by examining engagement from regulatory fit.",
+  "journal": "European Journal of Social Psychology",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 746,
+  "id": "openalex:W4253416126",
+  "score": "0.4000",
+  "year": "2017",
+  "title": "Survey: Open-Ended Questions",
+  "abstract": "",
+  "journal": "The SAGE Encyclopedia of Communication Resear",
+  "techs": "calibrated-question"
+ },
+ {
+  "i": 747,
+  "id": "pmid:28080315",
+  "score": "0.4000",
+  "year": "2017",
+  "title": "We Know Who Likes Us, but Not Who Competes Against Us.",
+  "abstract": "",
+  "journal": "Psychological science",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 748,
+  "id": "doi:10.1016/j.jesp.2015.10.011",
+  "score": "0.4000",
+  "year": "2016",
+  "title": "My friends are all alike — the relation between liking and perceived similarity in person perception",
+  "abstract": "",
+  "journal": "Journal of Experimental Social Psychology",
+  "techs": "liking"
+ },
+ {
+  "i": 749,
+  "id": "openalex:W2512223297",
+  "score": "0.4000",
+  "year": "2016",
+  "title": "Psychological Distance Moderates the Amplification of Shared Experience",
+  "abstract": "Sharing an experience with another person can amplify that experience. Here, we propose for the first time that amplification is moderated by the psychological distance between co-experiencers. We predicted that experiences would be amplified for co-experiencers who are psychologically proximate but",
+  "journal": "Personality and Social Psychology Bulletin",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 750,
+  "id": "openalex:W2338128678",
+  "score": "0.4000",
+  "year": "2016",
+  "title": "Myopic about climate change: Cognitive style, psychological distance, and environmentalism",
+  "abstract": "",
+  "journal": "Journal of Experimental Social Psychology",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 751,
+  "id": "openalex:W2297540774",
+  "score": "0.4000",
+  "year": "2016",
+  "title": "Social learning across psychological distance.",
+  "abstract": "While those we learn from are often close to us, more and more our learning environments are shifting to include more distant and dissimilar others. The question we examine in 5 studies is how whom we learn from influences what we learn and how what we learn influences from whom we choose to learn i",
+  "journal": "Journal of Personality and Social Psychology",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 752,
+  "id": "openalex:W2562443439",
+  "score": "0.4000",
+  "year": "2016",
+  "title": "Distancing the Present Self from the past and the Future: Psychological Distance in Anxiety and Depression",
+  "abstract": "Humans show a systematic tendency to perceive the future as psychologically closer than the past. Based on the clinical hypothesis that anxiety would be associated more with future threat life events, whereas depression with past loss events, here we explored whether people with anxiety- and depress",
+  "journal": "Quarterly Journal of Experimental Psychology",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 753,
+  "id": "openalex:W2554980225",
+  "score": "0.4000",
+  "year": "2016",
+  "title": "Risk factors for suicidal thoughts and behaviors: A meta-analysis of 50 years of research.",
+  "abstract": "Suicidal thoughts and behaviors (STBs) are major public health problems that have not declined appreciably in several decades. One of the first steps to improving the prevention and treatment of STBs is to establish risk factors (i.e., longitudinal predictors). To provide a summary of current knowle",
+  "journal": "Psychological Bulletin",
+  "techs": "silence"
+ },
+ {
+  "i": 754,
+  "id": "pmid:27789792",
+  "score": "0.4000",
+  "year": "2016",
+  "title": "The Too-Much-Precision Effect.",
+  "abstract": "",
+  "journal": "Psychological science",
+  "techs": "extreme-anchor"
+ },
+ {
+  "i": 755,
+  "id": "openalex:W1676830173",
+  "score": "0.4000",
+  "year": "2015",
+  "title": "(Psychological) Distance Makes the Heart Grow Fonder",
+  "abstract": "Interpersonal attraction may be shaped by (a) one's psychological distance from a target (the subjective experience that a target is close to or far from the self) and (b) the perceived standing of a target on a trait relative to the self (as better or worse than the self). We propose that when eval",
+  "journal": "Personality and Social Psychology Bulletin",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 756,
+  "id": "openalex:W2130478903",
+  "score": "0.4000",
+  "year": "2015",
+  "title": "Scarcity Frames Value",
+  "abstract": "Economic models of decision making assume that people have a stable way of thinking about value. In contrast, psychology has shown that people's preferences are often malleable and influenced by normatively irrelevant contextual features. Whereas economics derives its predictions from the assumption",
+  "journal": "Psychological Science",
+  "techs": "scarcity"
+ },
+ {
+  "i": 757,
+  "id": "openalex:W3124113541",
+  "score": "0.4000",
+  "year": "2015",
+  "title": "Balancing evidence and norms in cultural evolution",
+  "abstract": "",
+  "journal": "Organizational Behavior and Human Decision Pr",
+  "techs": "social-proof"
+ },
+ {
+  "i": 758,
+  "id": "openalex:W1509843950",
+  "score": "0.4000",
+  "year": "2014",
+  "title": "Imagining climate change: The role of implicit associations and affective psychological distancing in climate change responses",
+  "abstract": "Abstract Negative climate change imagery is often criticised on the grounds that it provokes and promotes disempowering responses and psychological distancing. We investigated people's associations with climate change, and their affective content on multiple dimensions, through two studies. In Study",
+  "journal": "European Journal of Social Psychology",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 759,
+  "id": "openalex:W2122126451",
+  "score": "0.4000",
+  "year": "2014",
+  "title": "Spatial Orientation Shrinks and Expands Psychological Distance",
+  "abstract": "Being objectively close to or far from a place changes how people perceive the location of that place in a subjective, psychological sense. In the six studies reported here, we investigated whether people's spatial orientation (defined as moving toward or away from a place) will produce similar effe",
+  "journal": "Psychological Science",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 760,
+  "id": "openalex:W2202297923",
+  "score": "0.4000",
+  "year": "2013",
+  "title": "Comparing comprehension measured by multiple-choice and open-ended questions.",
+  "abstract": "This study compared the nature of text comprehension as measured by multiple-choice format and open-ended format questions. Participants read a short text while explaining preselected sentences. After reading the text, participants answered open-ended and multiple-choice versions of the same questio",
+  "journal": "Canadian Journal of Experimental Psychology/R",
+  "techs": "calibrated-question"
+ },
+ {
+  "i": 761,
+  "id": "openalex:W2015261885",
+  "score": "0.4000",
+  "year": "2013",
+  "title": "The Common Currency of Psychological Distance",
+  "abstract": "People’s thoughts often go beyond what is right in front of them. In so doing, they mentally traverse psychological distance: They think about the past or the future, other places, other people, and wonder about the impossible. These four dimensions all tap into the same common construct of distanci",
+  "journal": "Current Directions in Psychological Science",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 762,
+  "id": "openalex:W2088410067",
+  "score": "0.4000",
+  "year": "2013",
+  "title": "Psychological distance increases uncompromising consequentialism",
+  "abstract": "",
+  "journal": "Journal of Experimental Social Psychology",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 763,
+  "id": "openalex:W2031704259",
+  "score": "0.4000",
+  "year": "2013",
+  "title": "Distance makes the metaphor grow stronger: A psychological distance model of metaphor use",
+  "abstract": "",
+  "journal": "Journal of Experimental Social Psychology",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 764,
+  "id": "openalex:W2051843583",
+  "score": "0.4000",
+  "year": "2013",
+  "title": "The Unintended Target: Assessing Nonsmokers' Reactions to Gain- and Loss-Framed Antismoking Public Service Announcements",
+  "abstract": "This study examined nonsmokers' emotional responses and intentions to promote smoking cessation after exposure to a gain- or loss-framed antismoking public service announcement (PSA). Participants were 183 nonsmokers, and results reveal that gain- and loss-framed antismoking PSAs elicited different ",
+  "journal": "Journal of Health Communication",
+  "techs": "loss-framing"
+ },
+ {
+  "i": 765,
+  "id": "openalex:W2109377816",
+  "score": "0.4000",
+  "year": "2013",
+  "title": "Like or dislike: Intrapersonal regulatory fit affects the intensity of interpersonal evaluation",
+  "abstract": "",
+  "journal": "Journal of Experimental Social Psychology",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 766,
+  "id": "openalex:W2042641336",
+  "score": "0.4000",
+  "year": "2013",
+  "title": "Take it or leave it: Using regulatory fit theory to understand reward redemption in channel reward programs",
+  "abstract": "",
+  "journal": "Industrial Marketing Management",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 767,
+  "id": "openalex:W2035321912",
+  "score": "0.4000",
+  "year": "2012",
+  "title": "To Tweet or to Retweet? That Is the Question for Health Professionals on Twitter",
+  "abstract": "Guided by the MAIN model ( Sundar, 2008 ), this study explored the effects of three interface cues conveying source attributes on credibility of health messages in Twitter: authority cue (whether a source is an expert or not), bandwagon cue (the number of followers that a source has-large vs. small)",
+  "journal": "Health Communication",
+  "techs": "authority"
+ },
+ {
+  "i": 768,
+  "id": "openalex:W2018558021",
+  "score": "0.4000",
+  "year": "2012",
+  "title": "Distance from a distance: Psychological distance reduces sensitivity to any further psychological distance.",
+  "abstract": "What is the difference between far and further? Investigations into such psychological distancing--removal from an egocentric reference point--have suggested similarities between geographical space, time, probability, and social distance. We draw on these similarities to propose that experiencing an",
+  "journal": "Journal of Experimental Psychology General",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 769,
+  "id": "openalex:W2111988415",
+  "score": "0.4000",
+  "year": "2012",
+  "title": "Psychological distance can improve decision making under information overload via gist memory.",
+  "abstract": "Making a decision can be especially difficult when it is based upon a large amount of information. A number of demonstrations in the literature suggest that decision making under information overload leads to suboptimal outcomes. In this article, we draw on construal level theory (Trope & Liberman, ",
+  "journal": "Journal of Experimental Psychology General",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 770,
+  "id": "openalex:W2171971709",
+  "score": "0.4000",
+  "year": "2012",
+  "title": "Idealistic advice and pragmatic choice: A psychological distance account.",
+  "abstract": "In 6 studies, we found that advice is more idealistic than choice in decisions that trade off idealistic and pragmatic considerations. We propose that because advisers are more psychologically distant from the choosers' decision problem, they construe the dilemma at a higher construal level than do ",
+  "journal": "Journal of Personality and Social Psychology",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 771,
+  "id": "openalex:W2151823074",
+  "score": "0.4000",
+  "year": "2012",
+  "title": "A century of Gestalt psychology in visual perception: I. Perceptual grouping and figure–ground organization.",
+  "abstract": "In 1912, Max Wertheimer published his paper on phi motion, widely recognized as the start of Gestalt psychology. Because of its continued relevance in modern psychology, this centennial anniversary is an excellent opportunity to take stock of what Gestalt psychology has offered and how it has change",
+  "journal": "Psychological Bulletin",
+  "techs": "silence"
+ },
+ {
+  "i": 772,
+  "id": "openalex:W1985946954",
+  "score": "0.4000",
+  "year": "2011",
+  "title": "The effects of managerial regulatory fit priming on reactions to explanations",
+  "abstract": "",
+  "journal": "Organizational Behavior and Human Decision Pr",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 773,
+  "id": "openalex:W2125414457",
+  "score": "0.4000",
+  "year": "2011",
+  "title": "Cultural regulatory fit and strategies for coping with unsuccessful outcomes",
+  "abstract": "Abstract The present research seeks to explain cross‐cultural differences in two strategies for coping with unsuccessful outcomes (consideration of multiple options and persistence) through regulatory fit, a development of the self‐regulation theory. We propose that, because of regulatory fit, eager",
+  "journal": "European Journal of Social Psychology",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 774,
+  "id": "openalex:W2020891035",
+  "score": "0.4000",
+  "year": "2010",
+  "title": "Politeness and psychological distance: A construal level perspective.",
+  "abstract": "According to politeness theory (P. Brown & S. Levinson, 1987), politeness serves to both reflect and regulate social distance. On the basis of this notion and on construal level theory (N. Liberman & Y. Trope, 2008; N. Liberman, Y. Trope, & E. Stephan, 2007), it was predicted that politeness would b",
+  "journal": "Journal of Personality and Social Psychology",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 775,
+  "id": "openalex:W2171306818",
+  "score": "0.4000",
+  "year": "2010",
+  "title": "Flexibility now, consistency later: Psychological distance and construal shape evaluative responding.",
+  "abstract": "Researchers have long been interested in understanding the conditions under which evaluations will be more or less consistent or context-dependent. The current research explores this issue by asking when stability or flexibility in evaluative responding would be most useful. Integrating construal le",
+  "journal": "Journal of Personality and Social Psychology",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 776,
+  "id": "openalex:W2133608509",
+  "score": "0.4000",
+  "year": "2010",
+  "title": "Influence of Self-Affirmation on Responses to Gain- Versus Loss-Framed Antismoking Messages",
+  "abstract": "Journal Article Influence of Self-Affirmation on Responses to Gain- versus Loss-Framed Antismoking Messages Get access Xiaoquan Zhao, Xiaoquan Zhao 1Department of Communication, George Mason University, Fairfax, VA 22030, USA 1Corresponding author: Xiaoquan Zhao; Search for other works by this autho",
+  "journal": "Human Communication Research",
+  "techs": "loss-framing"
+ },
+ {
+  "i": 777,
+  "id": "openalex:W3123754191",
+  "score": "0.4000",
+  "year": "2010",
+  "title": "Increasing or decreasing interest in activities: The role of regulatory fit.",
+  "abstract": "What makes people's interest in doing an activity increase or decrease? Regulatory fit theory (E. T. Higgins, 2000) provides a new perspective on this classic issue by emphasizing the relation between people's activity orientation, such as thinking of an activity as fun, and the manner of activity e",
+  "journal": "Journal of Personality and Social Psychology",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 778,
+  "id": "doi:10.1016/j.jesp.2008.08.019",
+  "score": "0.4000",
+  "year": "2009",
+  "title": "Knowing how they feel: Perceiving emotions felt by outgroups",
+  "abstract": "",
+  "journal": "Journal of Experimental Social Psychology",
+  "techs": "feel-felt-found"
+ },
+ {
+  "i": 779,
+  "id": "openalex:W2001862077",
+  "score": "0.4000",
+  "year": "2009",
+  "title": "Distancing from experienced self: How global-versus-local perception affects estimation of psychological distance.",
+  "abstract": "In 4 studies, the authors examined the prediction derived from construal level theory (CLT) that higher level of perceptual construal would enhance estimated egocentric psychological distance. The authors primed participants with global perception, local perception, or both (the control condition). ",
+  "journal": "Journal of Personality and Social Psychology",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 780,
+  "id": "openalex:W2141778323",
+  "score": "0.4000",
+  "year": "2009",
+  "title": "Spontaneous trait inference and construal level theory: Psychological distance increases nonconscious trait thinking",
+  "abstract": "",
+  "journal": "Journal of Experimental Social Psychology",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 781,
+  "id": "openalex:W1980559409",
+  "score": "0.4000",
+  "year": "2009",
+  "title": "Psychological distance asymmetry: The spatial dimension vs. other dimensions",
+  "abstract": "Abstract In this research we demonstrate an asymmetry between the spatial dimension and the other three dimensions of psychological distance—i.e., the temporal, social, and hypothetical dimensions. The first study shows that a distal prime along the spatial dimension leads to greater perceived dista",
+  "journal": "Journal of Consumer Psychology",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 782,
+  "id": "openalex:W2114846242",
+  "score": "0.4000",
+  "year": "2008",
+  "title": "Effects of Fluency on Psychological Distance and Mental Construal (or Why New York Is a Large City, but <i>New York</i> Is a Civilized Jungle)",
+  "abstract": "People construe the world along a continuum from concretely (focusing on specific, local details) to abstractly (focusing on global essences). We show that people are more likely to interpret the world abstractly when they experience cognitive disfluency, or difficulty processing stimuli in the envi",
+  "journal": "Psychological Science",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 783,
+  "id": "openalex:W2353931354",
+  "score": "0.4000",
+  "year": "2008",
+  "title": "Expectancy, Value and Psychological Distance: A New Look at Goal Gradients",
+  "abstract": "Goal gradients refer to the increase in motivation as a function of goal proximity. We propose that motivation does not always increase closer to the goal, and that in order to predict the shape and steepness of goal gradients one needs to look at how distance affects the two components of motivatio",
+  "journal": "Social Cognition",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 784,
+  "id": "openalex:W1967375962",
+  "score": "0.4000",
+  "year": "2008",
+  "title": "Stressed out over possible failure: The role of regulatory fit on claimed self-handicapping",
+  "abstract": "",
+  "journal": "Journal of Experimental Social Psychology",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 785,
+  "id": "openalex:W2023290309",
+  "score": "0.4000",
+  "year": "2007",
+  "title": "Automatic processing of psychological distance: Evidence from a Stroop task.",
+  "abstract": "A picture-word version of the Stroop task was used to test the automatic activation of psychological distance by words carrying various senses of psychological distance: temporal (tomorrow, in a year), social (friend, enemy), and hypotheticality (sure, maybe). The pictures implied depth, with the wo",
+  "journal": "Journal of Experimental Psychology General",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 786,
+  "id": "openalex:W2120831831",
+  "score": "0.4000",
+  "year": "2007",
+  "title": "Putting Feelings Into Words",
+  "abstract": "Putting feelings into words (affect labeling) has long been thought to help manage negative emotional experiences; however, the mechanisms by which affect labeling produces this benefit remain largely unknown. Recent neuroimaging studies suggest a possible neurocognitive pathway for this process, bu",
+  "journal": "Psychological Science",
+  "techs": "labeling"
+ },
+ {
+  "i": 787,
+  "id": "openalex:W2032997886",
+  "score": "0.4000",
+  "year": "2007",
+  "title": "Why some groups just feel better: The regulatory fit of group power.",
+  "abstract": "The current research applied the regulatory fit hypothesis (E. T. Higgins, 2000) to the evaluation of groups, suggesting that individuals' group appraisal depends on how well the groups fit their regulatory needs. Specifically, it was predicted that higher power groups would fit and be more valued b",
+  "journal": "Journal of Personality and Social Psychology",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 788,
+  "id": "openalex:W2043236451",
+  "score": "0.4000",
+  "year": "2007",
+  "title": "Differential effects of regulatory fit on category learning",
+  "abstract": "",
+  "journal": "Journal of Experimental Social Psychology",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 789,
+  "id": "openalex:W2096751457",
+  "score": "0.4000",
+  "year": "2006",
+  "title": "Probability as a psychological distance: Construal and preferences",
+  "abstract": "",
+  "journal": "Journal of Experimental Social Psychology",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 790,
+  "id": "openalex:W2069130763",
+  "score": "0.4000",
+  "year": "2006",
+  "title": "Understanding Regulatory Fit",
+  "abstract": "The authors focus on three critical areas of future research on regulatory fit. First, they focus on how regulatory orientation is sustained. The authors argue that there are two distinct approaches that bring about the “just-right feeling”: (1) a process-based approach that involves the interaction",
+  "journal": "Journal of Marketing Research",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 791,
+  "id": "openalex:W2087296827",
+  "score": "0.4000",
+  "year": "2006",
+  "title": "Regulatory fit and cognitive performance: the interactive effect of chronic and situationally induced self‐regulatory mechanisms on test performance",
+  "abstract": "Abstract Two studies examined the impact of chronic and situational self‐regulatory mechanisms on cognitive test performance. In both studies, test performance was enhanced when situationally induced regulatory mechanisms matched the chronic self‐regulatory focus of the test taker. These results sup",
+  "journal": "European Journal of Social Psychology",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 792,
+  "id": "openalex:W2063920429",
+  "score": "0.4000",
+  "year": "2006",
+  "title": "Leadership style and regulatory mode: Value from fit?",
+  "abstract": "",
+  "journal": "Organizational Behavior and Human Decision Pr",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 793,
+  "id": "openalex:W2104775477",
+  "score": "0.4000",
+  "year": "2006",
+  "title": "The Nature of Fit and the Origins of “Feeling Right”: A Goal-Systemic Perspective",
+  "abstract": "This article considers the notion of regulatory fit from a goal-systemic perspective. It is suggested that regulatory fit, as Avnet and Higgins (2006) define it, corresponds to a match between a person's activity and his or her (background) process goal of pursuing an (focal) attainment goal in a de",
+  "journal": "Journal of Marketing Research",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 794,
+  "id": "openalex:W2107976930",
+  "score": "0.4000",
+  "year": "2005",
+  "title": "Emotional and Deliberative Reactions to a Public Crisis",
+  "abstract": "Although most theories of choice are cognitive, recent research has emphasized the role of emotions. We used a novel context--the Mad Cow crisis in France--to investigate how emotions alter choice even when consequences are held constant. A field study showed that individuals reduced beef consumptio",
+  "journal": "Psychological Science",
+  "techs": "labeling"
+ },
+ {
+  "i": 795,
+  "id": "openalex:W2023662606",
+  "score": "0.4000",
+  "year": "2005",
+  "title": "When two wrongs can make a right: Regulatory nonfit, bias, and correction of judgments",
+  "abstract": "",
+  "journal": "Journal of Experimental Social Psychology",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 796,
+  "id": "openalex:W1823258012",
+  "score": "0.4000",
+  "year": "2005",
+  "title": "The Symptoms of Resource Scarcity",
+  "abstract": "Male preferences for female body weight follow a consistent cross-cultural pattern such that in cultures with scarce resources, heavier women are preferred, whereas in cultures with abundant resources, thinner women are preferred. We offer a social-cognitive account for these findings based on the i",
+  "journal": "Psychological Science",
+  "techs": "scarcity"
+ },
+ {
+  "i": 797,
+  "id": "openalex:W2758978409",
+  "score": "0.4000",
+  "year": "2004",
+  "title": "An Analysis Of The Aspiring Principal Preparation Programs Provided By",
+  "abstract": "The purpose of the study was to identify the basis of the aspiring principal preparation program (appp) components florida school districts provide to their aspiring principals and their relationship, if any, to the state and isllc standards. A total of 50 school districts in florida participated in",
+  "journal": "Journal of International Crisis and Risk Comm",
+  "techs": "assumptive"
+ },
+ {
+  "i": 798,
+  "id": "openalex:W2145610967",
+  "score": "0.4000",
+  "year": "2004",
+  "title": "Linguistic Markers of Psychological Change Surrounding September 11, 2001",
+  "abstract": "The diaries of 1,084 U.S. users of an on-line journaling service were downloaded for a period of 4 months spanning the 2 months prior to and after the September 11 attacks. Linguistic analyses of the journal entries revealed pronounced psychological changes in response to the attacks. In the short t",
+  "journal": "Psychological Science",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 799,
+  "id": "openalex:W2091457087",
+  "score": "0.4000",
+  "year": "2004",
+  "title": "Imagining How You’d Feel: The Role of Motivational Experiences from Regulatory Fit",
+  "abstract": "The authors propose that how people imagine they would feel about making a choice is affected not only by the outcome's anticipated pleasure or pain but also by regulatory fit. Regulatory fit occurs when people pursue a goal in a manner that sustains their regulatory state and it intensifies the mot",
+  "journal": "Personality and Social Psychology Bulletin",
+  "techs": "regulatory-fit"
+ }
+]

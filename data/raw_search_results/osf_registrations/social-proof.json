@@ -1,0 +1,79 @@
+[
+  {
+    "id": "osf:7a3bg",
+    "doi": "",
+    "title": "Social Proof in Coach Selection 2",
+    "abstract": "This registration describes the second study of a two-study project investigating how deceptive designs (dark patterns) influence users’ decisions in an online coach booking environment.\nThe first study (Study 1) used explicit instructions that guided participants to evaluate coaches on four objective criteria (industry experience, education, ICF certification, coaching strategy).\nIn Study 2, we remove these explicit evaluation criteria from the instructions. Participants are still asked to choose the best coach for their supervisor but are no longer directed to focus on specific qualification attributes.\nWe expect that by reducing the salience of objective qualification information, participants will rely more on heuristic cues such as social proof (star ratings) and electronic word of mouth (customer text reviews) when rating and ranking coaches.\nAll other aspects of the design, including manipulations, measurements (REI-20), randomization, and analysis plan, remain identical to Study 1.\nThis two-study design allows us to examine whether the strength of deceptive design effects depends on how explicitly objective qualification criteria are highlighted in the decision task.",
+    "year": "2025",
+    "authors": "",
+    "journal": "OSF Registrations",
+    "source_db": "osf_registrations",
+    "source_query": "social-proof"
+  },
+  {
+    "id": "osf:96mun",
+    "doi": "",
+    "title": "Social Proof in Coach Selection",
+    "abstract": "This experimental study investigates whether deceptive designs (also known as dark patterns) influence users’ choices in an online coach booking environment, and whether individual thinking styles interact with these effects. Deceptive designs are techniques intended to influence users’ decisions in ways that benefit the platform provider, often to the detriment of the user. They exploit heuristics and cognitive biases through elements such as social proof (e.g., star ratings) and electronic word of mouth (eWOM; e.g., customer text reviews).\n\nWhile regulatory agencies in the US and EU have started addressing deceptive designs, for example in cookie banner regulations, there is still limited evidence on their actual effectiveness in increasing purchase intentions or influencing selection decisions. This study aims to contribute to this gap by testing whether social proof and eWOM lead users to choose less suitable coaches, and whether these effects are moderated by individual differences in thinking styles.\n\nParticipants will be randomly assigned to one of four groups (control, star rating &amp; customer review, star rating only, customer review only). They will rate and rank coach profiles that are either unmanipulated or contain deceptive design elements. Additionally, participants will complete the REI-20 (Rational–Experiential Inventory) to assess their preference for rational versus experiential thinking. The findings will help advance the understanding of how deceptive designs interact with cognitive styles and whether certain individuals are more susceptible to these designs.",
+    "year": "2025",
+    "authors": "",
+    "journal": "OSF Registrations",
+    "source_db": "osf_registrations",
+    "source_query": "social-proof"
+  },
+  {
+    "id": "osf:dsa59",
+    "doi": "",
+    "title": "Social Proof and Self-Confidence as Predictors of Conformity in AI-Generated Image Detection",
+    "abstract": "Purpose: This study aims to investigate how social proof information affects participants' conformity behavior and their accuracy in detecting AI-generated images. The research focuses on the psychological pressure created by perceived majority opinions and how this influence might lead individuals to override their own visual judgments. Additionally, the study explores the moderating role of individual self-confidence in resisting or yielding to such social influence.\nResearch Design \nThe study employs a between-subjects experimental design with two primary conditions:\nSocial Proof Condition (Experimental Group): Participants are presented with false information suggesting that a majority (e.g., \"80 out of 100\") of previous participants identified an image as AI-generated.\nNo Social Proof Condition (Control Group): Participants perform the same detection task without any information about others' choices.\nMethodology \nParticipants will view a total of 40 images (20 real photographs and 20 AI-generated images). For each image, they must decide if it is AI-generated or real. We will measure:\nConformity Rate: The frequency of participants following a wrong majority opinion.\nDetection Accuracy: Success in correctly identifying the image source.\nSelf-Confidence: Measured using the Rosenberg Self-Esteem Scale or a dedicated Self-Confidence scale to see if it buffers the effect of social proof.\nExpected Outcomes \nWe expect that participants in the social proof condition will show significantly higher rates of conformity and lower detection accuracy compared to the control group. Furthermore, we anticipate that higher self-confidence will act as a protective factor, resulting in lower conformity rates when faced with social proof. Finally, we explore whether AI-generated images, being more \"ambiguous stimuli,\" trigger stronger conformity effects than real photographs.",
+    "year": "2026",
+    "authors": "",
+    "journal": "OSF Registrations",
+    "source_db": "osf_registrations",
+    "source_query": "social-proof"
+  },
+  {
+    "id": "osf:85fqk",
+    "doi": "",
+    "title": "Nudging Eyewitnesses: The Effect of Social Proof on Recalling Witnessed Events",
+    "abstract": "This study’s objective is to examine the effect of adding a nudging technique to a well-established memory aid on eyewitness recall. The study seeks to answer whether the addition of social proof to the Report All mnemonic within the Cognitive Interview, will improve recall.",
+    "year": "2022",
+    "authors": "",
+    "journal": "OSF Registrations",
+    "source_db": "osf_registrations",
+    "source_query": "social-proof"
+  },
+  {
+    "id": "osf:evtpm",
+    "doi": "",
+    "title": "Cancer risk algorithms in primary care: impact of explainability and social proof",
+    "abstract": "This study aims to investigate 1) the influence of cancer risk algorithms on GPs’ risk assessment and referral decisions, 2) whether this influence depends on whether GPs are informed about the algorithm`s popularity in primary care (“social proof”), and 3) whether GPs are provided with a graph that visualises the relative contribution of risk (“explainability”). We will also investigate 4) whether the difference between GP`s initial risk estimates and the algorithm reduces over time (“covariation learning”).\n\nThe participants will be GPs and GP trainees (ST3/ST4 only) currently practising in England. The study consists of an online, scenario-based questionnaire, in which GPs are asked to read 20 cases of hypothetical patients in primary care, and then estimate the risk of these patients having Upper GI cancer and the likelihood that they would refer them. GPs are asked to provide risk estimates and likelihood of referral before and after seeing the estimate of an algorithm.",
+    "year": "2021",
+    "authors": "",
+    "journal": "OSF Registrations",
+    "source_db": "osf_registrations",
+    "source_query": "social-proof"
+  },
+  {
+    "id": "osf:8xnf5",
+    "doi": "",
+    "title": "Nudging Eyewitnesses: The Effect of Social Proof on Recalling Witnessed Events",
+    "abstract": "",
+    "year": "2018",
+    "authors": "",
+    "journal": "OSF Registrations",
+    "source_db": "osf_registrations",
+    "source_query": "social-proof"
+  },
+  {
+    "id": "osf:asqxn",
+    "doi": "",
+    "title": "Education Technology Start Up: Endowment Effect and Social Proof Frames",
+    "abstract": "Messaging test that uses the Endowment Effect and Social Proof language to frame value propositions.",
+    "year": "2019",
+    "authors": "",
+    "journal": "OSF Registrations",
+    "source_db": "osf_registrations",
+    "source_query": "social-proof"
+  }
+]

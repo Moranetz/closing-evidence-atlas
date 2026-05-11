@@ -1,0 +1,3 @@
+mu_median,mu_ci_lower,mu_ci_upper,tau_median,tau_ci_lower,tau_ci_upper,p_mu_gt_zero,p_mu_gt_practical,k_studies,method,n_draws,technique_taxonomy_id,study_ids
+0.4391378846663588,0.04255011938902448,0.7233759022059923,0.2721711218127324,0.07870050600074681,0.7192990443777735,0.9822,0.9169,2,approximate-bayesian-importance-sampling,10000,extreme-anchor,atlas-005;atlas-007
+0.5388784898973279,-0.20008404014085057,1.0531796496962589,0.6332523247353631,0.26631820819342483,1.5658839780910723,0.9326,0.8393,2,approximate-bayesian-importance-sampling,10000,gain-framing,atlas-005;atlas-009

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "osf:n8cvw",
+    "doi": "",
+    "title": "Foot-in-the-door auctions",
+    "abstract": "Using online experiments on Prolific Academic, we will investigate surcharging behaviours in a procurement setting. A buyer seeks to purchase a project from one of two sellers. There are two stages: a pricing stage and a renegotiation stage. In the pricing stage, the seller and the project price are determined. In the renegotiation stage, the seller can demand a fixed surcharge additional to the agreed price. We are interested in whether individuals are inclined to follow prevailing social norms, or at least believe a fraction of others to do so. We assume that any surcharge violates a norm of surcharging zero (contractual norm), and that the winning seller incurs an additional disutility when earning less than the buyer (distributional norm). We will experimentally test how the relative strength of the two norms differs along two dimensions: (i) the degree of payoff inequality; and (ii) presence or absence of seller competition.",
+    "year": "2023",
+    "authors": "",
+    "journal": "OSF Registrations",
+    "source_db": "osf_registrations",
+    "source_query": "fitd"
+  },
+  {
+    "id": "osf:qmerf",
+    "doi": "",
+    "title": "Effect of Positive Emotions on responses to foot-in-the-door requests",
+    "abstract": "This study tests the hypothesis that gratitude increases susceptibility to foot-in-the-door (FITD) requests. Participants are assigned to 3 conditions: gratitude, happiness, and neutral emotion. They are induced to feel the respective emotion by the recall method. They are then asked two requests in succession. The first request asks them to pledge to use less plastics and the second request ask them to send out a promotional video of an environmental organisation to as many of their friends as possible. We predicted that those in the gratitude condition would be accede to the 2nd request more – i.e. by offering to send the video out to more friends – than those in the happiness and neutral condition. We will also measure using a self-report scale for pro-socialness  to determine if there is any difference in pro-socialness across the three conditions.",
+    "year": "2020",
+    "authors": "",
+    "journal": "OSF Registrations",
+    "source_db": "osf_registrations",
+    "source_query": "fitd"
+  }
+]

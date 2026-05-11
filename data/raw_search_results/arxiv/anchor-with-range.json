@@ -1,0 +1,24 @@
+[
+  {
+    "id": "arxiv:2604.16775v1",
+    "doi": "",
+    "title": "Representation Before Training: A Fixed-Budget Benchmark for Generative Medical Event Models",
+    "abstract": "Every prediction from a generative medical event model is bounded by how clinical events are tokenized, yet input representation is rarely isolated from other system and architectural choices. We evaluate how representation decisions affect downstream prediction after a shared one-epoch pretraining budget. We train 28 matched transformers on MIMIC-IV and evaluate them on 30 clinical outcomes in three experiments: (1) quantization granularity, reference-range anchoring, and code-value fusion; (2) value encoding (hard bins, soft discretization, code-normalized xVal) crossed with temporal encoding (event order, time tokens, admission-relative RoPE); and (3) native MIMIC laboratory/vital codes versus the Common Longitudinal ICU Format (CLIF)-remapped laboratory/vital codes with compression-preserving perturbation arms. In Experiment 1, fused code-value tokenization improves mortality AUROC from 0.891 to 0.915 (BH-adjusted p &lt; 0.001), hospital length-of-stay AUROC from 0.763 to 0.788 (BH-adjusted p &lt; 0.001), and, for the decile fused-vs-unfused comparison, mean regression Spearman rho across the 13 regression outcomes from 0.414 to 0.494. Across the three temporal encodings, event order only and admission-relative RoPE match or exceed inserting time tokens on average while shortening sequences by 11%. CLIF remapping preserves downstream performance in our single-site setting while yielding a smaller, clinically interpretable token set compatible with multi-site use. Finer-than-decile quantization, reference-range anchoring, and soft discretization help in selective outcomes, while code-normalized xVal remains well below the discrete and soft families, consistent with near-median suppression that persists after the affine variant.",
+    "year": "2026",
+    "authors": "Inhyeok Lee, Luke Solo, Michael C. Burkhart, Bashar Ramadan, William F. Parker, Brett K. Beaulieu-Jones",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "anchor-with-range"
+  },
+  {
+    "id": "arxiv:2511.18842v1",
+    "doi": "10.1109/ASEW67777.2025.00049",
+    "title": "Optimizing LLM Code Suggestions: Feedback-Driven Timing with Lightweight State Bounds",
+    "abstract": "Large Language Models (LLMs) have transformed code auto-completion by generating context-aware suggestions. Yet, deciding when to present these suggestions remains underexplored, often leading to interruptions or wasted inference calls. We propose an adaptive timing mechanism that dynamically adjusts the delay before offering a suggestion based on real-time developer feedback. Our suggested method combines a logistic transform of recent acceptance rates with a bounded delay range, anchored by a high-level binary prediction of the developer's cognitive state. In a two-month deployment with professional developers, our system improved suggestion acceptance from 4.9% with no delay to 15.4% with static delays, and to 18.6% with adaptive timing-while reducing blind rejections (rejections without being read) from 8.3% to 0.36%. Together, these improvements increase acceptance and substantially reduce wasted inference calls by 75%, making LLM-based code assistants more efficient and cost-effective in practice.",
+    "year": "2025",
+    "authors": "Mohammad Nour Al Awad, Sergey Ivanov, Olga Tikhonova",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "anchor-with-range"
+  }
+]

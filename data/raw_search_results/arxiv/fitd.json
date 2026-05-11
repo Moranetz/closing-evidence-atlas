@@ -1,0 +1,46 @@
+[
+  {
+    "id": "arxiv:2502.19820v3",
+    "doi": "",
+    "title": "Foot-In-The-Door: A Multi-turn Jailbreak for LLMs",
+    "abstract": "Ensuring AI safety is crucial as large language models become increasingly integrated into real-world applications. A key challenge is jailbreak, where adversarial prompts bypass built-in safeguards to elicit harmful disallowed outputs. Inspired by psychological foot-in-the-door principles, we introduce FITD,a novel multi-turn jailbreak method that leverages the phenomenon where minor initial commitments lower resistance to more significant or more unethical transgressions. Our approach progressively escalates the malicious intent of user queries through intermediate bridge prompts and aligns the model's response by itself to induce toxic responses. Extensive experimental results on two jailbreak benchmarks demonstrate that FITD achieves an average attack success rate of 94% across seven widely used models, outperforming existing state-of-the-art methods. Additionally, we provide an in-depth analysis of LLM self-corruption, highlighting vulnerabilities in current alignment strategies and emphasizing the risks inherent in multi-turn interactions. The code is available at https://github.com/Jinxiaolong1129/Foot-in-the-door-Jailbreak.",
+    "year": "2025",
+    "authors": "Zixuan Weng, Xiaolong Jin, Jinyuan Jia, Xiangyu Zhang",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "fitd"
+  },
+  {
+    "id": "arxiv:2410.16950v1",
+    "doi": "",
+    "title": "Breaking ReAct Agents: Foot-in-the-Door Attack Will Get You In",
+    "abstract": "Following the advancement of large language models (LLMs), the development of LLM-based autonomous agents has become increasingly prevalent. As a result, the need to understand the security vulnerabilities of these agents has become a critical task. We examine how ReAct agents can be exploited using a straightforward yet effective method we refer to as the foot-in-the-door attack. Our experiments show that indirect prompt injection attacks, prompted by harmless and unrelated requests (such as basic calculations) can significantly increase the likelihood of the agent performing subsequent malicious actions. Our results show that once a ReAct agents thought includes a specific tool or action, the likelihood of executing this tool in the subsequent steps increases significantly, as the agent seldom re-evaluates its actions. Consequently, even random, harmless requests can establish a foot-in-the-door, allowing an attacker to embed malicious instructions into the agents thought process, making it more susceptible to harmful directives. To mitigate this vulnerability, we propose implementing a simple reflection mechanism that prompts the agent to reassess the safety of its actions during execution, which can help reduce the success of such attacks.",
+    "year": "2024",
+    "authors": "Itay Nakash, George Kour, Guy Uziel, Ateret Anaby-Tavor",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "fitd"
+  },
+  {
+    "id": "arxiv:2402.15690v1",
+    "doi": "",
+    "title": "Foot In The Door: Understanding Large Language Model Jailbreaking via Cognitive Psychology",
+    "abstract": "Large Language Models (LLMs) have gradually become the gateway for people to acquire new knowledge. However, attackers can break the model's security protection (\"jail\") to access restricted information, which is called \"jailbreaking.\" Previous studies have shown the weakness of current LLMs when confronted with such jailbreaking attacks. Nevertheless, comprehension of the intrinsic decision-making mechanism within the LLMs upon receipt of jailbreak prompts is noticeably lacking. Our research provides a psychological explanation of the jailbreak prompts. Drawing on cognitive consistency theory, we argue that the key to jailbreak is guiding the LLM to achieve cognitive coordination in an erroneous direction. Further, we propose an automatic black-box jailbreaking method based on the Foot-in-the-Door (FITD) technique. This method progressively induces the model to answer harmful questions via multi-step incremental prompts. We instantiated a prototype system to evaluate the jailbreaking effectiveness on 8 advanced LLMs, yielding an average success rate of 83.9%. This study builds a psychological perspective on the explanatory insights into the intrinsic decision-making logic of LLMs.",
+    "year": "2024",
+    "authors": "Zhenhua Wang, Wei Xie, Baosheng Wang, Enze Wang, Zhiwen Gui, Shuoyoucheng Ma, Kai Chen",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "fitd"
+  },
+  {
+    "id": "arxiv:2511.19517v2",
+    "doi": "",
+    "title": "Automating Deception: Scalable Multi-Turn LLM Jailbreaks",
+    "abstract": "Multi-turn conversational attacks, which leverage psychological principles like Foot-in-the-Door (FITD), where a small initial request paves the way for a more significant one, to bypass safety alignments, pose a persistent threat to Large Language Models (LLMs). Progress in defending against these attacks is hindered by a reliance on manual, hard-to-scale dataset creation. This paper introduces a novel, automated pipeline for generating large-scale, psychologically-grounded multi-turn jailbreak datasets. We systematically operationalize FITD techniques into reproducible templates, creating a benchmark of 1,500 scenarios across illegal activities and offensive content. We evaluate seven models from three major LLM families under both multi-turn (with history) and single-turn (without history) conditions. Our results reveal stark differences in contextual robustness: models in the GPT family demonstrate a significant vulnerability to conversational history, with Attack Success Rates (ASR) increasing by as much as 32 percentage points. In contrast, Google's Gemini 2.5 Flash exhibits exceptional resilience, proving nearly immune to these attacks, while Anthropic's Claude 3 Haiku shows strong but imperfect resistance. These findings highlight a critical divergence in how current safety architectures handle conversational context and underscore the need for defenses that can resist narrative-based manipulation.",
+    "year": "2025",
+    "authors": "Adarsh Kumarappan, Ananya Mujoo",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "fitd"
+  }
+]

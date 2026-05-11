@@ -1,0 +1,1002 @@
+[
+ {
+  "i": 500,
+  "id": "doi:10.1016/j.jesp.2016.11.001",
+  "score": "0.4875",
+  "year": "2017",
+  "title": "How and why precise anchors distinctly affect anchor recipients and senders",
+  "abstract": "",
+  "journal": "Journal of Experimental Social Psychology",
+  "techs": "precise-anchor"
+ },
+ {
+  "i": 501,
+  "id": "openalex:W2345138829",
+  "score": "0.4875",
+  "year": "2016",
+  "title": "Effects of multiple psychological distances on construal and consumer evaluation: A field study of online reviews",
+  "abstract": "Abstract Through a large‐scale field study of 166,215 online restaurant reviews, we found evidence of a distance boosting effect, whereby experiencing spatial distance (i.e., authoring a review about a geographically distant restaurant, rather than proximate one) and temporal distance (i.e., authoring a review after a lengthy delay, rather than immediately) jointly affect revie",
+  "journal": "Journal of Consumer Psychology",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 502,
+  "id": "openalex:W2511464812",
+  "score": "0.4875",
+  "year": "2016",
+  "title": "Why Does Psychological Distance Influence Construal Level? The Role of Processing Mode: Table 1.",
+  "abstract": "The influence of psychological distance on construal level has been extensively documented in both social psychology and consumer research, with proximal (distal) events shown to induce low-level (high-level) construals. However, the extant literature takes a black box approach, as it were, to this effect by viewing it in terms of a direct association between distance and const",
+  "journal": "Journal of Consumer Research",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 503,
+  "id": "openalex:W2528997070",
+  "score": "0.4875",
+  "year": "2016",
+  "title": "The frame of the game: Loss-framing increases dishonest behavior",
+  "abstract": "",
+  "journal": "Journal of Experimental Social Psychology",
+  "techs": "loss-framing"
+ },
+ {
+  "i": 504,
+  "id": "openalex:W3123291811",
+  "score": "0.4875",
+  "year": "2015",
+  "title": "On the Psychology of Scarcity: When Reminders of Resource Scarcity Promote Selfish (and Generous) Behavior",
+  "abstract": "Journal Article On the Psychology of Scarcity: When Reminders of Resource Scarcity Promote Selfish (and Generous) Behavior Get access Caroline Roux, Caroline Roux Search for other works by this author on: Oxford Academic PubMed Google Scholar Kelly Goldsmith, Kelly Goldsmith Search for other works by this author on: Oxford Academic PubMed Google Scholar Andrea Bonezzi Andrea Bo",
+  "journal": "Journal of Consumer Research",
+  "techs": "scarcity"
+ },
+ {
+  "i": 505,
+  "id": "openalex:W2224061564",
+  "score": "0.4875",
+  "year": "2015",
+  "title": "Creating When You Have Less: The Impact of Resource Scarcity on Product Use Creativity",
+  "abstract": "This research examines how a general sense of resource availability influences consumers' product use creativity. The authors propose and demonstrate that the salience of resource scarcity versus abundance enhances the novelty of product use solutions in independent consumption environments. An investigation of the underlying process finds that scarcity salience activates a con",
+  "journal": "Journal of Consumer Research",
+  "techs": "scarcity"
+ },
+ {
+  "i": 506,
+  "id": "pmid:25603375",
+  "score": "0.4875",
+  "year": "2015",
+  "title": "Tandem anchoring: informational and politeness effects of range offers in social exchange.",
+  "abstract": "",
+  "journal": "Journal of personality and social psychology",
+  "techs": "extreme-anchor"
+ },
+ {
+  "i": 507,
+  "id": "openalex:W313745968",
+  "score": "0.4875",
+  "year": "2013",
+  "title": "Prospecting by Telephone Prenotification: An Application of the Foot-In-The-Door Technique",
+  "abstract": "AbstractThis article describes a unique cold-call telephone prospecting methodology which is grounded in a special application of self-perception theory—the “foot-in-the-door” technique. An in-depth explanation and example of the method are offered along with a presentation of data that compares the results of this approach with that of conventional telephone canvassing.",
+  "journal": "Journal of Personal Selling and Sales Management",
+  "techs": "fitd"
+ },
+ {
+  "i": 508,
+  "id": "openalex:W2101287419",
+  "score": "0.4875",
+  "year": "2013",
+  "title": "Regulatory fit: A meta‐analytic synthesis",
+  "abstract": "Abstract Regulatory fit, or the match between an individual's regulatory orientation and the strategy used to sustain it, offers a pervasive predictor of customer behavior. Merely reaching a decision in a certain way influences the value of a decision or an outcome. In this research, we conduct a meta‐analysis to more fully articulate the role of important conceptual moderators",
+  "journal": "Journal of Consumer Psychology",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 509,
+  "id": "openalex:W2096964543",
+  "score": "0.4875",
+  "year": "2012",
+  "title": "Knowledge matters: Anchoring effects are moderated by knowledge level",
+  "abstract": "Abstract Previous research into the relationship between knowledge level and anchoring effects has led to mixed conclusions. This paper presents four studies that used a diverse set of stimuli and paradigms to further investigate this relationship. In Study 1, greater knowledge was associated with smaller anchoring effects—both when knowledge was measured using subjective self‐",
+  "journal": "European Journal of Social Psychology",
+  "techs": "anchor-with-range"
+ },
+ {
+  "i": 510,
+  "id": "openalex:W3124122148",
+  "score": "0.4875",
+  "year": "2012",
+  "title": "Choosing Here and Now versus There and Later: The Moderating Role of Psychological Distance on Assortment Size Preferences",
+  "abstract": "Abstract Consumers prefer larger assortments, despite the negative consequences associated with choosing from these sets. This article examines the role of psychological distance (temporal and geographical) in consumers’ assortment size decisions and rectifies contradicting hypotheses produced by construal level theory. Six studies demonstrate that while consumers prefer larger",
+  "journal": "Journal of Consumer Research",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 511,
+  "id": "openalex:W2161858829",
+  "score": "0.4875",
+  "year": "2011",
+  "title": "The pantomime of persuasion: Fit between nonverbal communication and influence strategies",
+  "abstract": "",
+  "journal": "Journal of Experimental Social Psychology",
+  "techs": "ditf"
+ },
+ {
+  "i": 512,
+  "id": "openalex:W2045465970",
+  "score": "0.4875",
+  "year": "2011",
+  "title": "Relative Persuasiveness of Gain- Versus Loss-Framed Human Papillomavirus Vaccination Messages for the Present- and Future-Minded",
+  "abstract": "Journal Article Relative Persuasiveness of Gain- versus Loss-Framed Human Papillomavirus Vaccination Messages for the Present- and Future-Minded Get access Xiaoli Nan Xiaoli Nan 1Department of Communication, University of Maryland, College Park, MD, USA 1Corresponding author: Xiaoli Nan; Search for other works by this author on: Oxford Academic Google Scholar Human Communicatio",
+  "journal": "Human Communication Research",
+  "techs": "loss-framing"
+ },
+ {
+  "i": 513,
+  "id": "openalex:W2062610052",
+  "score": "0.4875",
+  "year": "2010",
+  "title": "Unethical behavior in the name of the company: The moderating effect of organizational identification and positive reciprocity beliefs on unethical pro-organizational behavior.",
+  "abstract": "We examined the relationship between organizational identification and unethical pro-organizational behavior (UPB)-unethical behaviors conducted by employees to potentially benefit the organization. We predicted that organizational identification would be positively related to UPB and that positive reciprocity beliefs would moderate and strengthen this relationship. The results",
+  "journal": "Journal of Applied Psychology",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 514,
+  "id": "openalex:W2083621961",
+  "score": "0.4875",
+  "year": "2010",
+  "title": "The role of regulatory fit on the attraction effect",
+  "abstract": "Abstract We show that adding entrant brands to a choice set compr ising of a predominantly promotion brand and a predominantly prevention brand can make both promotion and prevention‐oriented consumers susceptible to the attraction effect. If an entrant targets the brand possessing superior promotion (prevention) feature, the resulting dominance relationship allows the promotio",
+  "journal": "Journal of Consumer Psychology",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 515,
+  "id": "openalex:W2119432837",
+  "score": "0.4875",
+  "year": "2009",
+  "title": "Liberals and conservatives rely on different sets of moral foundations.",
+  "abstract": "How and why do moral judgments vary across the political spectrum? To test moral foundations theory (J. Haidt & J. Graham, 2007; J. Haidt & C. Joseph, 2004), the authors developed several ways to measure people's use of 5 sets of moral intuitions: Harm/care, Fairness/reciprocity, Ingroup/loyalty, Authority/respect, and Purity/sanctity. Across 4 studies using multiple methods, l",
+  "journal": "Journal of Personality and Social Psychology",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 516,
+  "id": "openalex:W2110336690",
+  "score": "0.4875",
+  "year": "2009",
+  "title": "Incidental Experiences of Regulatory Fit and the Processing of Persuasive Appeals",
+  "abstract": "This article examines how the subjective experiences of \"feeling right\" from regulatory fit and of \"feeling wrong\" from regulatory non-fit influence the way people process persuasive messages. Across three studies, incidental experiences of regulatory fit increased reliance on source expertise and decreased resistance to counterpersuasion, whereas incidental experiences of regu",
+  "journal": "Personality and Social Psychology Bulletin",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 517,
+  "id": "openalex:W1983096230",
+  "score": "0.4875",
+  "year": "2009",
+  "title": "Service firms and customer loyalty programs: a regulatory fit perspective of reward preferences in a health club setting",
+  "abstract": "",
+  "journal": "Journal of the Academy of Marketing Science",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 518,
+  "id": "openalex:W1993888958",
+  "score": "0.4875",
+  "year": "2009",
+  "title": "Regulatory fit from attribute‐based versus alternative‐based processing in decision making",
+  "abstract": "Abstract This paper discusses the fit between attribute‐based versus alternative‐based processing and regulatory focus, and its impact on decision outcome valuation. Attribute‐based processing was found to occur more frequently under prevention focus, whereas alternative‐based processing occurred more frequently under promotion focus. The fit between prevention/promotion focus ",
+  "journal": "Journal of Consumer Psychology",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 519,
+  "id": "openalex:W2022909214",
+  "score": "0.4875",
+  "year": "2008",
+  "title": "Effects of message framing and temporal context on college student drinking behavior",
+  "abstract": "",
+  "journal": "Journal of Experimental Social Psychology",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 520,
+  "id": "openalex:W4241828741",
+  "score": "0.4875",
+  "year": "2008",
+  "title": "Conceptual Consumption",
+  "abstract": "As technology has simplified meeting basic needs, humans have cultivated increasingly psychological avenues for occupying their consumption energies, moving from consuming food to consuming concepts; we propose that consideration of such \"conceptual consumption\" is essential for understanding human consumption. We first review how four classes of conceptual consumption-consumin",
+  "journal": "Annual Review of Psychology",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 521,
+  "id": "openalex:W4241276195",
+  "score": "0.4875",
+  "year": "2008",
+  "title": "Precarious manhood.",
+  "abstract": "The authors report 5 studies that demonstrate that manhood, in contrast to womanhood, is seen as a precarious state requiring continual social proof and validation. Because of this precariousness, they argue that men feel especially threatened by challenges to their masculinity. Certain male-typed behaviors, such as physical aggression, may result from this anxiety. Studies 1-3",
+  "journal": "Journal of Personality and Social Psychology",
+  "techs": "social-proof"
+ },
+ {
+  "i": 522,
+  "id": "openalex:W2007576031",
+  "score": "0.4875",
+  "year": "2007",
+  "title": "Construal Levels and Psychological Distance: Effects on Representation, Prediction, Evaluation, and Behavior",
+  "abstract": "Construal level theory (CLT) is an account of how psychological distance influences individuals' thoughts and behavior. CLT assumes that people mentally construe objects that are psychologically near in terms of low-level, detailed, and contextualized features, whereas at a distance they construe the same objects or events in terms of high-level, abstract, and stable characteri",
+  "journal": "Journal of Consumer Psychology",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 523,
+  "id": "openalex:W1971601808",
+  "score": "0.4875",
+  "year": "2007",
+  "title": "Construal Level Theory and Consumer Behavior",
+  "abstract": "The three commentaries on our paper “Construal Levels and Psychological Distance: Effects on Representation, Prediction, Evaluation, and Behavior” offer insightful theoretical extensions and practical applications of construal level theory (CLT). We were inspired and challenged by the commentaries to elaborate on a number of issues, although our elaboration more often raises qu",
+  "journal": "Journal of Consumer Psychology",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 524,
+  "id": "openalex:W2083403796",
+  "score": "0.4875",
+  "year": "2007",
+  "title": "Abusive supervision and workplace deviance and the moderating effects of negative reciprocity beliefs.",
+  "abstract": "In this study, the authors examine the relationship between abusive supervision and employee workplace deviance. The authors conceptualize abusive supervision as a type of aggression. They use work on retaliation and direct and displaced aggression as a foundation for examining employees' reactions to abusive supervision. The authors predict abusive supervision will be related ",
+  "journal": "Journal of Applied Psychology",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 525,
+  "id": "openalex:W2067853126",
+  "score": "0.4875",
+  "year": "2007",
+  "title": "The effects of perceived scarcity on consumers’ processing of price information",
+  "abstract": "",
+  "journal": "Journal of the Academy of Marketing Science",
+  "techs": "scarcity"
+ },
+ {
+  "i": 526,
+  "id": "openalex:W1984864983",
+  "score": "0.4875",
+  "year": "2006",
+  "title": "Response to Comments on “How Regulatory Fit Affects Value in Consumer Choices and Opinions”",
+  "abstract": "The effect of regulatory fit on the value of a decision involves two important components: a “feeling-right ” com-ponent and a strength-of-engagement component. The feeling-right component is related to people’s feelings about their decision activity, suggesting that the activity itself is experienced as being better when the manner of the deci-sion making sustains or fits thei",
+  "journal": "Journal of Marketing Research",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 527,
+  "id": "openalex:W2093392376",
+  "score": "0.4875",
+  "year": "2006",
+  "title": "The Role of Regulatory Focus in Preference Construction",
+  "abstract": "The authors examine how consumers' regulatory focus affects their information search behavior and decision-making process. The results show that uninvolved research participants rely on their regulatory focus as a filter to process information selectively. Participants paid more attention to and based their product evaluation on product information that is relevant to their reg",
+  "journal": "Journal of Marketing Research",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 528,
+  "id": "openalex:W2170232927",
+  "score": "0.4875",
+  "year": "2005",
+  "title": "The Unconscious Consumer: Effects of Environment on Consumer Behavior",
+  "abstract": "In this article, we argue that consumer behavior is often strongly influenced by subtle environmental cues. Using grocery shopping as an example (or a “leitmotif,” if you wish), we first argue that the traditional perspective on consumer choice based on conscious information processing leaves much variance to be explained. Instead, we propose that many choices are made unconsci",
+  "journal": "Journal of Consumer Psychology",
+  "techs": "commitment-consistency"
+ },
+ {
+  "i": 529,
+  "id": "openalex:W2011749266",
+  "score": "0.4875",
+  "year": "2005",
+  "title": "Playing Dice With Criminal Sentences: The Influence of Irrelevant Anchors on Experts’ Judicial Decision Making",
+  "abstract": "Judicial sentencing decisions should be guided by facts, not by chance. The present research however demonstrates that the sentencing decisions of experienced legal professionals are influenced by irrelevant sentencing demands even if they are blatantly determined at random. Participating legal experts anchored their sentencing decisions on a given sentencing demand and assimil",
+  "journal": "Personality and Social Psychology Bulletin",
+  "techs": "extreme-anchor"
+ },
+ {
+  "i": 530,
+  "id": "openalex:W2127956021",
+  "score": "0.4875",
+  "year": "2005",
+  "title": "Value From Regulatory Fit",
+  "abstract": "Where does value come from? I propose a new answer to this classic question. People experience regulatory fit when the manner of their engagement in an activity sustains their goal orientation or interests regarding that activity. When there is fit, people engage more strongly in what they are doing and “feel right” about it. Fit influences the strength of value experiences—how",
+  "journal": "Current Directions in Psychological Science",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 531,
+  "id": "openalex:W2147631633",
+  "score": "0.4875",
+  "year": "2004",
+  "title": "Mutuality and Reciprocity in the Psychological Contracts of Employees and Employers.",
+  "abstract": "The authors assessed the joint perceptions of the employee and his or her employer to examine mutuality and reciprocity in the employment relationship. Paired psychological contract reports were obtained from 80 employee-employer dyads in 16 university-based research centers. On the basis of in-depth study of the research setting, research directors were identified as primary a",
+  "journal": "Journal of Applied Psychology",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 532,
+  "id": "openalex:W2055059032",
+  "score": "0.4875",
+  "year": "2004",
+  "title": "Who Takes the most Revenge? Individual Differences in Negative Reciprocity Norm Endorsement",
+  "abstract": "The authors report that beliefs favoring the reciprocation of unfavorable treatment form a unitary factor that is distinct from beliefs favoring the reciprocation of favorable treatment. Individual differences in endorsement of this negative reciprocity norm were related to (a) beliefs that people are generally malevolent; (b) inclination toward anger in everyday life; (c) ange",
+  "journal": "Personality and Social Psychology Bulletin",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 533,
+  "id": "openalex:W2006379789",
+  "score": "0.4875",
+  "year": "2004",
+  "title": "Trust and reciprocity decisions: The differing perspectives of trustors and trusted parties",
+  "abstract": "",
+  "journal": "Organizational Behavior and Human Decision Process",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 534,
+  "id": "openalex:W2067645888",
+  "score": "0.4875",
+  "year": "2003",
+  "title": "Attributions of trust and the calculus of reciprocity",
+  "abstract": "",
+  "journal": "Journal of Experimental Social Psychology",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 535,
+  "id": "openalex:W2149774959",
+  "score": "0.4875",
+  "year": "2001",
+  "title": "Implications of Attitude Change Theories for Numerical Anchoring: Anchor Plausibility and the Limits of Anchor Effectiveness",
+  "abstract": "",
+  "journal": "Journal of Experimental Social Psychology",
+  "techs": "extreme-anchor"
+ },
+ {
+  "i": 536,
+  "id": "openalex:W2069217542",
+  "score": "0.4875",
+  "year": "2001",
+  "title": "Gain-Loss Framing and Choice: Separating Outcome Formulations from Descriptor Formulations",
+  "abstract": "",
+  "journal": "Organizational Behavior and Human Decision Process",
+  "techs": "loss-framing"
+ },
+ {
+  "i": 537,
+  "id": "openalex:W1992970544",
+  "score": "0.4875",
+  "year": "2000",
+  "title": "Overcoming the Inevitable Anchoring Effect: Considering the Opposite Compensates for Selective Accessibility",
+  "abstract": "Anchoring effects—the assimilation of a numeric estimate to a previously considered standard—have proved to be remarkably robust. Results of two studies, however, demonstrate that anchoring can be reduced by applying a consider-the-opposite strategy. Based on the Selective Accessibility Model, which assumes that anchoring is mediated by the selectively increased accessibility o",
+  "journal": "Personality and Social Psychology Bulletin",
+  "techs": "extreme-anchor"
+ },
+ {
+  "i": 538,
+  "id": "openalex:W2000555506",
+  "score": "0.4875",
+  "year": "1999",
+  "title": "Anchoring, Activation, and the Construction of Values",
+  "abstract": "",
+  "journal": "Organizational Behavior and Human Decision Process",
+  "techs": "extreme-anchor"
+ },
+ {
+  "i": 539,
+  "id": "openalex:W2130953635",
+  "score": "0.4875",
+  "year": "1999",
+  "title": "Hypothesis-Consistent Testing and Semantic Priming in the Anchoring Paradigm: A Selective Accessibility Model",
+  "abstract": "",
+  "journal": "Journal of Experimental Social Psychology",
+  "techs": "extreme-anchor"
+ },
+ {
+  "i": 540,
+  "id": "openalex:W2168575967",
+  "score": "0.4875",
+  "year": "1997",
+  "title": "Explaining the enigmatic anchoring effect: Mechanisms of selective accessibility.",
+  "abstract": "Results of 3 studies support the notion that anchoring is a special case of semantic priming; specifically, information that is activated to solve a comparative anchoring task will subsequently be more accessible when participants make absolute judgments. By using the logic of priming research, in Study 1 the authors showed that the strength of the anchor effect depends on the ",
+  "journal": "Journal of Personality and Social Psychology",
+  "techs": "extreme-anchor"
+ },
+ {
+  "i": 541,
+  "id": "openalex:W2047038396",
+  "score": "0.4875",
+  "year": "1997",
+  "title": "Positive Affect Facilitates Integration of Information and Decreases Anchoring in Reasoning among Physicians",
+  "abstract": "",
+  "journal": "Organizational Behavior and Human Decision Process",
+  "techs": "extreme-anchor"
+ },
+ {
+  "i": 542,
+  "id": "openalex:W2053061618",
+  "score": "0.4875",
+  "year": "1996",
+  "title": "A new look at anchoring effects: Basic anchoring and its antecedents.",
+  "abstract": "In previous anchoring studies people were asked to consider an anchor as a possible answer to the target question or were given informative anchors. The authors predicted that basic anchoring effects can occur, whereby uninformative numerical anchors influence a judgment even when people are not asked to compare this number to the target value. Five studies supported these hypo",
+  "journal": "Journal of Experimental Psychology General",
+  "techs": "extreme-anchor"
+ },
+ {
+  "i": 543,
+  "id": "openalex:W4242847335",
+  "score": "0.4875",
+  "year": "1996",
+  "title": "A new look at anchoring effects: Basic anchoring and its antecedents.",
+  "abstract": "",
+  "journal": "Journal of Experimental Psychology General",
+  "techs": "extreme-anchor"
+ },
+ {
+  "i": 544,
+  "id": "openalex:W3123853820",
+  "score": "0.4875",
+  "year": "1996",
+  "title": "Social exchange in organizations: Perceived organizational support, leader–member exchange, and employee reciprocity.",
+  "abstract": "Social exchange (P. Blau, 1964) and the norm of reciprocity (A. W. Gouldner, 1960) have been used to explain the relationship of perceived organizational support and leader-member exchange with employee attitudes and behavior. Recent empirical research suggests that individuals engage in different reciprocation efforts depending on the exchange partner (e.g., B. L. McNeely & B.",
+  "journal": "Journal of Applied Psychology",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 545,
+  "id": "openalex:W2147091291",
+  "score": "0.4875",
+  "year": "1995",
+  "title": "Measures of Anchoring in Estimation Tasks",
+  "abstract": "The authors describe a method for the quantitative study of anchoring effects in estimation tasks. A calibration group provides estimates of a set of uncertain quantities. Subjects in the anchored condition first judge whether a specified number (the anchor) is higher or lower than the true value before estimating each quantity. The anchors are set at predetermined percentiles ",
+  "journal": "Personality and Social Psychology Bulletin",
+  "techs": "extreme-anchor"
+ },
+ {
+  "i": 546,
+  "id": "openalex:W2102990256",
+  "score": "0.4875",
+  "year": "1993",
+  "title": "Perceived reciprocity, social support, and stress at work: The role of exchange and communal orientation.",
+  "abstract": "Perceived reciprocity regarding support in relationships at work was examined among employees of a psychiatric hospital (Study 1) and in a study of employees of the Dutch National Railway Company (Study 2). Relationships with colleagues were more often perceived as reciprocal than relationships with superiors, and in relationships with superiors individuals more often fell over",
+  "journal": "Journal of Personality and Social Psychology",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 547,
+  "id": "openalex:W2082531419",
+  "score": "0.4875",
+  "year": "1992",
+  "title": "Reference points, anchors, norms, and mixed feelings",
+  "abstract": "",
+  "journal": "Organizational Behavior and Human Decision Process",
+  "techs": "extreme-anchor"
+ },
+ {
+  "i": 548,
+  "id": "openalex:W2076875458",
+  "score": "0.4875",
+  "year": "1992",
+  "title": "Product Scarcity by Need for Uniqueness Interaction: A Consumer Catch-22 Carousel?",
+  "abstract": "According to uniqueness theory (Snyder & Fromkin, 1980), persons are motivated to maintain a sense of specialness as they define themselves on various important self-related dimensions relative to others. The need for uniqueness may vary across differing situations and persons; as such, a high need for uniqueness may be related to (a) forces in a given situation that promote an",
+  "journal": "Basic and Applied Social Psychology",
+  "techs": "scarcity"
+ },
+ {
+  "i": 549,
+  "id": "openalex:W2166102666",
+  "score": "0.4875",
+  "year": "1991",
+  "title": "Meta-Analytic Contributions to the Literature on Prosocial Behavior",
+  "abstract": "In recent years, investigators have increasingly applied meta-analytic techniques to the study of prosocial behavior. Meta-analytic procedures have been used to summarize across numerous studies, to examine the differences among subsets of studies that differ in critical ways, and to test theoretically derived hypotheses. Particular areas of focus have included the relation of ",
+  "journal": "Personality and Social Psychology Bulletin",
+  "techs": "fitd"
+ },
+ {
+  "i": 550,
+  "id": "openalex:W2010527565",
+  "score": "0.4875",
+  "year": "1987",
+  "title": "Experts, amateurs, and real estate: An anchoring-and-adjustment perspective on property pricing decisions",
+  "abstract": "",
+  "journal": "Organizational Behavior and Human Decision Process",
+  "techs": "extreme-anchor"
+ },
+ {
+  "i": 551,
+  "id": "pmid:3598861",
+  "score": "0.4875",
+  "year": "1987",
+  "title": "Consistency-based compliance: when and why do children become vulnerable?",
+  "abstract": "",
+  "journal": "Journal of personality and social psychology",
+  "techs": "fitd"
+ },
+ {
+  "i": 552,
+  "id": "openalex:W2316256949",
+  "score": "0.4875",
+  "year": "1984",
+  "title": "Strategic Choice and Marketing Managers: An Examination of Business-Level Marketing Objectives",
+  "abstract": "The author examines the choice of strategic marketing thrust for business units in multiproduct firms. In a survey, 86 managers in six firms provided their perception of several product/market and organizational context factors thought to influence strategic choice. The variables which best differentiated among business units with build, hold, or pull back strategies were the a",
+  "journal": "Journal of Marketing Research",
+  "techs": "takeaway"
+ },
+ {
+  "i": 553,
+  "id": "openalex:W2022965677",
+  "score": "0.4875",
+  "year": "1983",
+  "title": "The freezing and unfreezing of lay-inferences: Effects on impressional primacy, ethnic stereotyping, and numerical anchoring",
+  "abstract": "",
+  "journal": "Journal of Experimental Social Psychology",
+  "techs": "extreme-anchor"
+ },
+ {
+  "i": 554,
+  "id": "openalex:W4243183343",
+  "score": "0.4875",
+  "year": "1983",
+  "title": "A Quantitative Review of Research Design Effects on Response Rates to Questionnaires",
+  "abstract": "A comprehensive literature review of techniques used to increase response rates to questionnaires was conducted. Conclusions were based on arithmetic combination of 497 response rates found in 93 journal articles. Response rates were found to be increased by personal and telephone (versus mail) surveys, either prepaid or promised incentives, nonmonetary premiums and rewards, an",
+  "journal": "Journal of Marketing Research",
+  "techs": "fitd"
+ },
+ {
+  "i": 555,
+  "id": "openalex:W2047104568",
+  "score": "0.4875",
+  "year": "1978",
+  "title": "The door in the face technique: Effects of the size of the initial request",
+  "abstract": "",
+  "journal": "European Journal of Social Psychology",
+  "techs": "ditf"
+ },
+ {
+  "i": 556,
+  "id": "openalex:W2024052129",
+  "score": "0.4875",
+  "year": "1975",
+  "title": "Disclosing oneself to a stranger: Reciprocity and its limits",
+  "abstract": "",
+  "journal": "Journal of Experimental Social Psychology",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 557,
+  "id": "doi:10.1037/h0040272",
+  "score": "0.4875",
+  "year": "1963",
+  "title": "Judgments of weight as affected by adaptation range, adaptation duration, magnitude of unlabeled anchor, and judgmental language.",
+  "abstract": "",
+  "journal": "Journal of Experimental Psychology",
+  "techs": "anchor-with-range"
+ },
+ {
+  "i": 558,
+  "id": "openalex:W4405411743",
+  "score": "0.4625",
+  "year": "2024",
+  "title": "Beyond likes and comments: How social proof influences consumer impulse buying on short-form video platforms",
+  "abstract": "",
+  "journal": "Journal of Retailing and Consumer Services",
+  "techs": "social-proof"
+ },
+ {
+  "i": 559,
+  "id": "doi:10.3389/fpsyg.2023.1166092",
+  "score": "0.4625",
+  "year": "2023",
+  "title": "The effect of partitioned framing vs. all-inclusive framing of donation amount on prosocial behavior: focus on the moderation effect of psychological characteristics",
+  "abstract": "Despite numerous studies on individual charitable donations and cause-related marketing have been conducted, the framing of the donation amount has not been studied. This research suggests that people's intention to donate to charity differs depending on whether the donation amount is framed as all-inclusive or partitioned. The main effect of partitioned framing was moderated b",
+  "journal": "Frontiers in Psychology",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 560,
+  "id": "openalex:W4220964809",
+  "score": "0.4625",
+  "year": "2022",
+  "title": "When a refusal turns into donation: the moderating effect of the initial position toward blood donation in the door-in-the-face effectiveness",
+  "abstract": "This research aimed to test the moderating effect of people's initial position to blood donation on the actual acceptance to donate blood in a door-in-the-face situation. This position (attitude, self-importance, normative beliefs) was measured one month prior to the request (Study 1, N = 99) or immediately before (Study 2, N = 80). The results revealed that the door-in-the-fac",
+  "journal": "The Journal of Social Psychology",
+  "techs": "ditf"
+ },
+ {
+  "i": 561,
+  "id": "openalex:W4284967436",
+  "score": "0.4625",
+  "year": "2022",
+  "title": "Scarcity tactics in marketing: A meta-analysis of product scarcity effects on consumer purchase intentions",
+  "abstract": "Scarcity tactics are an essential tool for marketers. Cues that signal the current or potential unavailability of a product generally enhance its value and desirability and in turn increase purchase intentions. While there have been earlier reviews, the fragmented nature of the research to date means there is no cohesion across findings. Given that retailers employ a variety of",
+  "journal": "Journal of Retailing",
+  "techs": "scarcity"
+ },
+ {
+  "i": 562,
+  "id": "pmid:35432133",
+  "score": "0.4625",
+  "year": "2022",
+  "title": "A Matching Study on the Influence of Advertised Information Expression and Product Type on Consumer Purchase Intention.",
+  "abstract": "",
+  "journal": "Frontiers in psychology",
+  "techs": "extreme-anchor"
+ },
+ {
+  "i": 563,
+  "id": "openalex:W3168784367",
+  "score": "0.4625",
+  "year": "2021",
+  "title": "Does “chaining” always work towards compliance gaining? The case of the “but you are free” technique and social proof applied to charitable donation",
+  "abstract": "",
+  "journal": "European Review of Applied Psychology",
+  "techs": "social-proof"
+ },
+ {
+  "i": 564,
+  "id": "openalex:W3084752078",
+  "score": "0.4625",
+  "year": "2020",
+  "title": "Effects of negative social information on the willingness to support charities: the moderating role of regulatory focus",
+  "abstract": "Abstract Donation campaigns that have an unsuccessful start often trigger negative social information in the social and mass media (e.g., “few others have donated so far”). Little research exists to shed light on the effects of such information in the context of donations. Across three studies involving different causes and different channels of communication, we find harmful e",
+  "journal": "Marketing Letters",
+  "techs": "social-proof"
+ },
+ {
+  "i": 565,
+  "id": "openalex:W2985315172",
+  "score": "0.4625",
+  "year": "2019",
+  "title": "The Effects of Regulatory Fit between Explanation Framing and Applicants’ Regulatory Foci on Applicant Reaction",
+  "abstract": "Drawing from regulatory fit theory and the literature on persuasion, the current study is the first to explore whether the fit between explanation framing and applicants' regulatory foci could enhance applicant reaction. We hypothesized that a positively framed explanation fits with applicants' promotion foci and that a negatively framed explanation fits with applicants' preven",
+  "journal": "The Journal of Psychology",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 566,
+  "id": "pmid:26666836",
+  "score": "0.4625",
+  "year": "2016",
+  "title": "Promising reciprocity: When proposing a favor for a request increases compliance even if the favor is not accepted.",
+  "abstract": "",
+  "journal": "The Journal of social psychology",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 567,
+  "id": "openalex:W2042744383",
+  "score": "0.4625",
+  "year": "2015",
+  "title": "Fear and anger have opposite effects on risk seeking in the gain frame",
+  "abstract": "Emotions strongly influence our decisions, particularly those made under risk. A classic example of the effect of emotion on decision making under risk is the \"framing effect,\" which involves predictable shifts in preferences when the same problem is formulated in different ways. According to dual process theories, this bias could stem from an affective heuristic belonging to a",
+  "journal": "Frontiers in Psychology",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 568,
+  "id": "doi:10.1037/e512142015-183",
+  "score": "0.4625",
+  "year": "2014",
+  "title": "Loss frames are cognitively stickier than gain frames: Examining the asymmetric sequential effects of gain and loss framing",
+  "abstract": "",
+  "journal": "PsycEXTRA Dataset",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 569,
+  "id": "doi:10.1002/mar.20559",
+  "score": "0.4625",
+  "year": "2012",
+  "title": "The Impact of Attribute Importance in the Effects of Option Framing on Choice: Budget Range and Justification as Moderators of Loss Aversion",
+  "abstract": "ABSTRACTLoss aversion or an endowment‐based explanation clearly predicts that subtractive option framing (i.e. deleting mode or starting from a full model) will have a stronger effect on choice than additive option framing (i.e. adding mode or starting from a base model). This research examines whether the differential effects of option framing (additive vs. subtractive) on cho",
+  "journal": "Psychology &amp; Marketing",
+  "techs": "loss-framing"
+ },
+ {
+  "i": 570,
+  "id": "doi:10.1002/mar.20217",
+  "score": "0.4625",
+  "year": "2008",
+  "title": "Consumer choices under product option framing: Loss aversion principles or sensitivity to price differentials?",
+  "abstract": "AbstractThe effects of options framing can be theoretically explained by loss aversion principles as well as by potential alternative explanations (e.g., sensitivity to price differentials). This paper examines the interaction effects between option framing and two types of cognitive constraints (availability of cognitive resources and additional redundant product information) ",
+  "journal": "Psychology &amp; Marketing",
+  "techs": "loss-framing"
+ },
+ {
+  "i": 571,
+  "id": "openalex:W2072657247",
+  "score": "0.4625",
+  "year": "2002",
+  "title": "The Effectiveness of the Door-in-the-Face Compliance Strategy on Friends and Strangers",
+  "abstract": "The author examined the impact of the door-in-the-face procedure on concerns about self-presentation and hypothesized that (a) when a friend made door-in-the-face requests, the procedure would increase the participant's concern about self-presentation more than would a single request and (b) when a stranger made door-in-the-face requests, the procedure would not increase the pa",
+  "journal": "The Journal of Social Psychology",
+  "techs": "ditf"
+ },
+ {
+  "i": 572,
+  "id": "openalex:W2031046107",
+  "score": "0.4625",
+  "year": "2002",
+  "title": "Sequential Requests and Organ Donation",
+  "abstract": "The author investigated the effectiveness of the foot-in-the-door technique as a method of increasing participants' intention to become organ donors. The participants who agreed to a 1st request were presented with a larger request either immediately or 3 days later. The 2nd request was presented either by the same requester or by a different requester. Compared with a control ",
+  "journal": "The Journal of Social Psychology",
+  "techs": "fitd"
+ },
+ {
+  "i": 573,
+  "id": "openalex:W4230091725",
+  "score": "0.4625",
+  "year": "2002",
+  "title": "LOW-BALL AND COMPLIANCE TO A REQUEST: AN APPLICATION IN A FIELD SETTING",
+  "abstract": "",
+  "journal": "Psychological Reports",
+  "techs": "lowball"
+ },
+ {
+  "i": 574,
+  "id": "pmid:12353787",
+  "score": "0.4625",
+  "year": "2002",
+  "title": "Empathy and generalized reciprocity in compliance with requests for help.",
+  "abstract": "",
+  "journal": "Psychological reports",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 575,
+  "id": "openalex:W2015954064",
+  "score": "0.4625",
+  "year": "2001",
+  "title": "Promoting health behaviours with door-in-the-face: The influence of the beneficiary of the request",
+  "abstract": "This study examined the ability of a door-in-the-face strategy to increase compliance with health related requests. To explore this question, participants received either a single or door-in-the-face request to perform a health-related behaviour. This request was characterized as either benefiting the person making the request, the person who was the target of the request, or a",
+  "journal": "Psychology Health & Medicine",
+  "techs": "ditf"
+ },
+ {
+  "i": 576,
+  "id": "openalex:W2086344847",
+  "score": "0.4625",
+  "year": "1997",
+  "title": "The Use of Metacommunication in Compliance: Door-in-the-Face and Single-Request Strategies",
+  "abstract": "Investigation of compliance techniques has generally overlooked a dynamic involving a target's dilemma over directly commenting about the imposition of the requester's behavior. Such behavior is generally classified as being metacommunicative in nature. In two studies, the authors tested the hypothesis that compliance can be enhanced when the target is asked to metacommunicate ",
+  "journal": "The Journal of Social Psychology",
+  "techs": "ditf"
+ },
+ {
+  "i": 577,
+  "id": "openalex:W2149758379",
+  "score": "0.4625",
+  "year": "1988",
+  "title": "Compliance as a Function of Elapsed Time Between First and Second Requests",
+  "abstract": "Abstract A stringent test of the self-perception explanation of the foot-in-the-door (FITD) effect was made. Time varied from 1 to 21 days between the two requests, and some conditions included a reminder of previous helping opportunities to make one's self-percept salient. Male and female heads of households (N = 586) participated. No FITD effect was obtained, and overall supp",
+  "journal": "The Journal of Social Psychology",
+  "techs": "fitd"
+ },
+ {
+  "i": 578,
+  "id": "openalex:W2037536883",
+  "score": "0.4625",
+  "year": "1986",
+  "title": "The influence of ‘low‐balling’ on buyers' compliance: Revisited",
+  "abstract": "Abstract Central to the low‐ball strategy is the revocation and subsequent alteration of an integral part of an offer after a target subject accepts. Allegedly used to some extent in the automobile industry, it has drawn criticism as an unethical and characteristically deceptive practice. Yet, is such a strategy really effective in increasing customer compliance in real commerc",
+  "journal": "Psychology and Marketing",
+  "techs": "lowball"
+ },
+ {
+  "i": 579,
+  "id": "openalex:W1991791452",
+  "score": "0.4625",
+  "year": "1985",
+  "title": "Interpersonal Touch, Social Labeling, and the Foot-in-the-Door Effect",
+  "abstract": "Abstract The foot-in-the-door procedure increases compliance for a desired request by preceding that request with an easier first request. Labeling and touch have been shown to affect compliance. This study examined whether these variables would influence the “foot” procedure. Subjects for the study were 120 individuals who were approaching a university library. The results sho",
+  "journal": "The Journal of Social Psychology",
+  "techs": "fitd"
+ },
+ {
+  "i": 580,
+  "id": "openalex:W2052236845",
+  "score": "0.4625",
+  "year": "1983",
+  "title": "Increasing Altruistic Behavior by Using Compliance Techniques",
+  "abstract": "Summary Two studies were conducted to examine whether two procedures which have served to increase compliance (the-door-in-the-face and the-foot-in-the-door) would also prove useful for enhancing altruism. Forty men and 40 women who were walking in shopping areas served as Ss for the first study which found that a modification of both the “face” and “foot” procedures produced s",
+  "journal": "The Journal of Social Psychology",
+  "techs": "ditf"
+ },
+ {
+  "i": 581,
+  "id": "openalex:W2113565818",
+  "score": "0.4625",
+  "year": "1982",
+  "title": "The effects of contrast upon compliance with socially undesirable requests in the foot-in-the-door paradigm",
+  "abstract": "",
+  "journal": "Bulletin of the Psychonomic Society",
+  "techs": "fitd"
+ },
+ {
+  "i": 582,
+  "id": "openalex:W2167301025",
+  "score": "0.4625",
+  "year": "1981",
+  "title": "Inducing Compliance by a Two-Door-in-the-Face Procedure and a Self-Determination Request",
+  "abstract": "Summary The door-in-the-face (“face”) is a procedure for increasing compliance. An individual is first asked to carry out a difficult task, which is almost always refused, and this is followed by a more moderate second request, the one that was actually desired. The current study devised a two-door-in-the-face (“two-face”) procedure, where the moderate request is preceded by bo",
+  "journal": "The Journal of Social Psychology",
+  "techs": "ditf"
+ },
+ {
+  "i": 583,
+  "id": "openalex:W2093499358",
+  "score": "0.4625",
+  "year": "1980",
+  "title": "The effects of delay upon compliance with socially undesirable requests in the door-in-the-face paradigm",
+  "abstract": "",
+  "journal": "Bulletin of the Psychonomic Society",
+  "techs": "ditf"
+ },
+ {
+  "i": 584,
+  "id": "openalex:W2162430655",
+  "score": "0.4625",
+  "year": "1979",
+  "title": "Undermining Effects of the Foot‐in‐the‐Door Technique with Extrinsic Rewards",
+  "abstract": "The self‐perception explanation of the foot‐in‐the‐door technique suggests that a person who complies with a small request infers that he or she is the kind of generous individual who is more likely to comply with a larger demand. It was hypothesized that individuals who are promised a monetary reward for their compliance with a small request are not more likely to comply with ",
+  "journal": "Journal of Applied Social Psychology",
+  "techs": "fitd"
+ },
+ {
+  "i": 585,
+  "id": "openalex:W2084036335",
+  "score": "0.4625",
+  "year": "1979",
+  "title": "Influence of Low-Balling on Buyers' Compliance",
+  "abstract": "(1979). Influence of Low-Balling on Buyers' Compliance. The Journal of Psychology: Vol. 101, No. 2, pp. 219-221.",
+  "journal": "The Journal of Psychology",
+  "techs": "lowball"
+ },
+ {
+  "i": 586,
+  "id": "openalex:W2045171895",
+  "score": "0.4625",
+  "year": "1974",
+  "title": "Does a “Foot-in-the-Door” Get You in or out?",
+  "abstract": "Past research indicates that compliance with a small, relatively innocuous “foot-in-the-door” request serves to increase, relative to a control group, subsequent compliance with a larger request directed toward the same goal. The present study suggests such commitment (increasing) effects may be limited to active “feet-in-the-door,” predicting substitution (decreasing) effects ",
+  "journal": "Psychological Reports",
+  "techs": "fitd"
+ },
+ {
+  "i": 587,
+  "id": "openalex:W1996792641",
+  "score": "0.4600",
+  "year": "2005",
+  "title": "The Effectiveness of Compliance Techniques: Foot in the Door Versus Door in the Face",
+  "abstract": "Under this heading are brief reports of studies providing data that sub-stantiate, disprove, or refine what we think we know. These Notes con-sist of a summary of the study’s procedure and as many details about theresults as space allows. Additional details concerning the results can beobtained by communicating directly with the author.",
+  "journal": "The Journal of Social Psychology",
+  "techs": "ditf;fitd"
+ },
+ {
+  "i": 588,
+  "id": "doi:10.1016/j.ijpsycho.2009.05.006",
+  "score": "0.4600",
+  "year": "2009",
+  "title": "Something to gain, something to lose: The cardiovascular consequences of outcome framing",
+  "abstract": "",
+  "journal": "International Journal of Psychophysiology",
+  "techs": "gain-framing;loss-framing"
+ },
+ {
+  "i": 589,
+  "id": "doi:10.1108/gkmc-06-2023-0188",
+  "score": "0.4550",
+  "year": "2026",
+  "title": "Social proof: empowering social commerce through social validation",
+  "abstract": "Purpose\n                    This study aims to examine the impact of consumer risk appetite, biases (specifically negative recency bias), and the importance of reviews in enhancing information quality. By analyzing these variables, the authors gain insights into their role in enriching the overall information spectrum available to consumers. The findings contribute to a better ",
+  "journal": "Global Knowledge, Memory and Communication",
+  "techs": "social-proof"
+ },
+ {
+  "i": 590,
+  "id": "openalex:W3202474679",
+  "score": "0.4550",
+  "year": "2021",
+  "title": "Evaluating Social Media Marketing",
+  "abstract": "This book is an innovative attempt to identify and analyse the processes related to social influence in online buying behaviour, with special attention given to the phenomenon of social proof, which is the basis of social media, recommendation marketing, and word-of-mouth (WOM) marketing. It empirically verifies the factors which influence the effectiveness of social proof,&nbs",
+  "journal": "",
+  "techs": "social-proof"
+ },
+ {
+  "i": 591,
+  "id": "openalex:W3022206279",
+  "score": "0.4550",
+  "year": "2020",
+  "title": "The relative effectiveness of <scp>gain‐framed</scp> and <scp>loss‐framed</scp> messages in charity advertising: <scp>Meta‐analytic</scp> evidence and implications",
+  "abstract": "Meta‐analysis is a primary avenue for the development of cumulative knowledge and an essential step in the process theory testing. It provides a more specific quantitative understanding of a subject while correcting for sampling and measurement errors. This project is a modest first attempt to extend existing meta‐analytic work on the effect of gain‐ versus loss‐framed messages",
+  "journal": "International Journal of Nonprofit and Voluntary S",
+  "techs": "gain-framing;loss-framing"
+ },
+ {
+  "i": 592,
+  "id": "openalex:W2883524276",
+  "score": "0.4550",
+  "year": "2018",
+  "title": "Changing Consumer Behavior Towards Mindful Consumption Through Social Proof to Decrease Environmental Harm",
+  "abstract": "This thesis describes overconsumption as a cause of climate change and environmental problems. It expands on the idea and definition of mindful consumption to include nine different consumer behaviors people can adopt to decrease their carbon footprint and harmful impacts on the environment. Research shows there is a value-action gap between what consumers value and their purch",
+  "journal": "",
+  "techs": "social-proof"
+ },
+ {
+  "i": 593,
+  "id": "openalex:W7133519197",
+  "score": "0.4500",
+  "year": "2026",
+  "title": "From Media Attention to Corrective Action: Extending the IPMI Model with a Multigroup Comparison by Media Literacy",
+  "abstract": "Food health misinformation poses risks to public well-being, often spreading through social media and interpersonal contexts. This study extends the Influence of Presumed Media Influence (IPMI) model to explain how individuals move from attention to misinformation toward corrective behavioral intentions, while examining the moderating role of media literacy. Data were collected",
+  "journal": "Behavioral Sciences",
+  "techs": "authority"
+ },
+ {
+  "i": 594,
+  "id": "openalex:W4411112634",
+  "score": "0.4500",
+  "year": "2025",
+  "title": "Asthma: Biomedical and Psychobiological Perspectives",
+  "abstract": "Substantial knowledge about asthma has accumulated in past decades from biomedical and psychobiological research. This white paper reports on synergistic perspectives for these fields discussed at the first Annual Disease-A-Year Symposium of the American Psychosomatic Society. Progress has been made in identifying mechanical, cellular and molecular mechanisms of asthma and infl",
+  "journal": "Biopsychosocial Science and Medicine",
+  "techs": "trial-close"
+ },
+ {
+  "i": 595,
+  "id": "openalex:W4403940387",
+  "score": "0.4500",
+  "year": "2024",
+  "title": "Diminished negative emotion regulation through affect labeling and reappraisal: insights from functional near infrared spectroscopy on lateral prefrontal cortex activation",
+  "abstract": "BACKGROUND: Reappraisal, an emotion regulation strategy, includes reinterpretation and affect labeling involving verbalizing emotions. In general, reappraisal is supported by lateral prefrontal cortical regions, which are also known to underlie cognitive regulation. Other research has shown that affect labeling combined with reappraisal of negative emotions increases lateral pr",
+  "journal": "BMC Psychology",
+  "techs": "labeling"
+ },
+ {
+  "i": 596,
+  "id": "openalex:W4367676994",
+  "score": "0.4500",
+  "year": "2023",
+  "title": "The Impact of Regulatory Fit on Experienced Autonomy",
+  "abstract": "This research sought to test the hypothesis that regulatory fit enhances people’s feelings of autonomy. Regulatory fit can be created by prompting people to execute a task using means of task execution that fit (vs. do not fit) their preferred means of goal-pursuit. Assigning people to do a task using a particular means implies they do not exercise choice in applying their pref",
+  "journal": "Social Psychological and Personality Science",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 597,
+  "id": "openalex:W4308650348",
+  "score": "0.4500",
+  "year": "2022",
+  "title": "The work design contribution to educational workers' sustainable wellbeing and performance patterns",
+  "abstract": "Brazilian education faces difficulties relating to performance and illness, suggesting that the characteristics of the work can affect both variables. This study aims to describe the work characteristics that increase the odds of having happy-productive patterns in education workers. A total of 4,598 employees of the Secretariat of Education of the Federal District (SEEDF) part",
+  "journal": "Frontiers in Psychology",
+  "techs": "anchor-with-range"
+ },
+ {
+  "i": 598,
+  "id": "openalex:W4280636952",
+  "score": "0.4500",
+  "year": "2022",
+  "title": "A systematic review of the psychological distance of climate change: Towards the development of an evidence-based construct",
+  "abstract": "The construct of psychological distance has gained traction as an explanation of why climate change is difficult to act on; it often feels far removed, with impacts arising in remote locations to other people or in an uncertain future. However, recent studies and narrative reviews have pointed out inconsistencies in the conceptualisation, operationalisation and results regardin",
+  "journal": "Journal of Environmental Psychology",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 599,
+  "id": "openalex:W4308528732",
+  "score": "0.4500",
+  "year": "2022",
+  "title": "Everything right or nothing wrong? Regulatory fit effects in an e-learning context",
+  "abstract": "Abstract Feedback is a key factor in helping individuals to self-regulate their learning behavior. Informative feedback, as a very basic form of feedback informing learners about the correctness of their answers, can be framed in different ways emphasizing either what was correct or what must be improved. The regulatory focus theory describes different strategic orientations of",
+  "journal": "Social Psychology of Education",
+  "techs": "regulatory-fit"
+ }
+]

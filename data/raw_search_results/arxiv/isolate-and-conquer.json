@@ -1,0 +1,24 @@
+[
+  {
+    "id": "arxiv:2404.13880v4",
+    "doi": "10.1109/CVIDL62147.2024.10604182",
+    "title": "Regional Style and Color Transfer",
+    "abstract": "This paper presents a novel contribution to the field of regional style transfer. Existing methods often suffer from the drawback of applying style homogeneously across the entire image, leading to stylistic inconsistencies or foreground object twisted when applied to image with foreground elements such as person figures. To address this limitation, we propose a new approach that leverages a segmentation network to precisely isolate foreground objects within the input image. Subsequently, style transfer is applied exclusively to the background region. The isolated foreground objects are then carefully reintegrated into the style-transferred background. To enhance the visual coherence between foreground and background, a color transfer step is employed on the foreground elements prior to their rein-corporation. Finally, we utilize feathering techniques to achieve a seamless amalgamation of foreground and background, resulting in a visually unified and aesthetically pleasing final composition. Extensive evaluations demonstrate that our proposed approach yields significantly more natural stylistic transformations compared to conventional methods.",
+    "year": "2024",
+    "authors": "Zhicheng Ding, Panfeng Li, Qikai Yang, Siyang Li, Qingtian Gong",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "isolate-and-conquer"
+  },
+  {
+    "id": "arxiv:1405.6627v2",
+    "doi": "10.14445/22315381/IJETT-V10P303",
+    "title": "Portable Camera-Based Product Label Reading For Blind People",
+    "abstract": "We propose a camera-based assistive text reading framework to help blind persons read text labels and product packaging from hand-held objects in their daily life. To isolate the object from untidy backgrounds or other surrounding objects in the camera vision, we initially propose an efficient and effective motion based method to define a region of interest (ROI) in the video by asking the user to tremble the object. This scheme extracts moving object region by a mixture-of-Gaussians-based background subtraction technique. In the extracted ROI, text localization and recognition are conducted to acquire text details. To automatically focus the text regions from the object ROI, we offer a novel text localization algorithm by learning gradient features of stroke orientations and distributions of edge pixels in an Adaboost model. Text characters in the localized text regions are then binarized and recognized by off-the-shelf optical character identification software. The renowned text codes are converted into audio output to the blind users. Performance of the suggested text localization algorithm is quantitatively evaluated on ICDAR-2003 and ICDAR-2011 Robust Reading Datasets. Experimental results demonstrate that our algorithm achieves the highest level of developments at present time. The proof-of-concept example is also evaluated on a dataset collected using ten blind persons to evaluate the effectiveness of the scheme. We explore the user interface issues and robustness of the algorithm in extracting and reading text from different objects with complex backgrounds.",
+    "year": "2014",
+    "authors": "Rajkumar N, Anand M. G, Barathiraja N",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "isolate-and-conquer"
+  }
+]

@@ -1,0 +1,8 @@
+# Raw extracted data is gitignored until Atlas-G2 sign-off.
+# Final dataset is deposited to OSF under CC-BY-4.0 at Atlas-G3.
+extracted_studies.csv
+standardized_effects.csv
+rob_assessments.csv
+pilot_extraction.csv
+*.bib
+*.ris

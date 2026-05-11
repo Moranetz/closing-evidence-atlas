@@ -1,0 +1,24 @@
+[
+  {
+    "id": "arxiv:2509.20724v1",
+    "doi": "",
+    "title": "Visual Authority and the Rhetoric of Health Misinformation: A Multimodal Analysis of Social Media Videos",
+    "abstract": "Short form video platforms are central sites for health advice, where alternative narratives mix useful, misleading, and harmful content. Rather than adjudicating truth, this study examines how credibility is packaged in nutrition and supplement videos by analyzing the intersection of authority signals, narrative techniques, and monetization. We assemble a cross platform corpus of 152 public videos from TikTok, Instagram, and YouTube and annotate each on 26 features spanning visual authority, presenter attributes, narrative strategies, and engagement cues. A transparent annotation pipeline integrates automatic speech recognition, principled frame selection, and a multimodal model, with human verification on a stratified subsample showing strong agreement. Descriptively, a confident single presenter in studio or home settings dominates, and clinical contexts are rare. Analytically, authority cues such as titles, slides and charts, and certificates frequently occur with persuasive elements including jargon, references, fear or urgency, critiques of mainstream medicine, and conspiracies, and with monetization including sales links and calls to subscribe. References and science like visuals often travel with emotive and oppositional narratives rather than signaling restraint.",
+    "year": "2025",
+    "authors": "Mohammad Reza Zarei, Barbara Stead-Coyle, Michael Christensen, Sarah Everts, Majid Komeili",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "authority"
+  },
+  {
+    "id": "arxiv:2604.05279v1",
+    "doi": "",
+    "title": "Pressure, What Pressure? Sycophancy Disentanglement in Language Models via Reward Decomposition",
+    "abstract": "Large language models exhibit sycophancy, the tendency to shift their stated positions toward perceived user preferences or authority cues regardless of evidence. Standard alignment methods fail to correct this because scalar reward models conflate two distinct failure modes into a single signal: pressure capitulation, where the model changes a correct answer under social pressure, and evidence blindness, where the model ignores the provided context entirely. We operationalise sycophancy through formal definitions of pressure independence and evidence responsiveness, serving as a working framework for disentangled training rather than a definitive characterisation of the phenomenon. We propose the first approach to sycophancy reduction via reward decomposition, introducing a multi-component Group Relative Policy Optimisation (GRPO) reward that decomposes the training signal into five terms: pressure resistance, context fidelity, position consistency, agreement suppression, and factual correctness. We train using a contrastive dataset pairing pressure-free baselines with pressured variants across three authority levels and two opposing evidence contexts. Across five base models, our two-phase pipeline consistently reduces sycophancy on all metric axes, with ablations confirming that each reward term governs an independent behavioural dimension. The learned resistance to pressure generalises beyond our training methodology and prompt structure, reducing answer-priming sycophancy by up to 17 points on SycophancyEval despite the absence of such pressure forms during training.",
+    "year": "2026",
+    "authors": "Muhammad Ahmed Mohsin, Ahsan Bilal, Muhammad Umer, Emily Fox",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "authority"
+  }
+]

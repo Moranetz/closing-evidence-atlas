@@ -1,0 +1,57 @@
+[
+  {
+    "id": "arxiv:2604.04565v1",
+    "doi": "",
+    "title": "PassiveQA: A Three-Action Framework for Epistemically Calibrated Question Answering via Supervised Finetuning",
+    "abstract": "Large Language Models (LLMs) have achieved strong performance in question answering and retrieval-augmented generation (RAG), yet they implicitly assume that user queries are fully specified and answerable. In real-world settings, queries are often incomplete, ambiguous, or missing critical variables, leading models to produce overconfident or hallucinated responses. In this work, we study decision-aware query resolution under incomplete information, where a model must determine whether to Answer, Ask for clarification, or Abstain. We show that standard and enhanced RAG systems do not reliably exhibit such epistemic awareness, defaulting to answer generation even when information is insufficient. To address this, we propose PassiveQA, a three-action framework that aligns model behaviour with information sufficiency through supervised finetuning. Our approach integrates structured information-state representations, knowledge graph-grounded context, and a finetuned planner that explicitly models missing variables and decision reasoning. Experiments across multiple QA datasets show that the finetuned planner achieves significant improvements in macro F1 and abstention recall while reducing hallucination rates, under a compute-constrained training regime. These results provide strong empirical evidence that epistemic decision-making must be learned during training rather than imposed at inference time.",
+    "year": "2026",
+    "authors": "Madhav S Baidya",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "calibrated-question"
+  },
+  {
+    "id": "arxiv:2604.26962v1",
+    "doi": "",
+    "title": "DeepTutor: Towards Agentic Personalized Tutoring",
+    "abstract": "Education represents one of the most promising real-world applications for Large Language Models (LLMs). However, conventional tutoring systems rely on static pre-training knowledge that lacks adaptation to individual learners, while existing RAG-augmented systems fall short in delivering personalized, guided feedback. To bridge this gap, we present DeepTutor, an agent-native open-source framework for personalized tutoring where every feature shares a common personalization substrate. We propose a hybrid personalization engine that couples static knowledge grounding with dynamic multi-resolution memory, distilling interaction history into a continuously evolving learner profile. Moreover, we construct a closed tutoring loop that bidirectionally couples citation-grounded problem solving with difficulty-calibrated question generation. The personalization substrate further supports collaborative writing, multi-agent deep research, and interactive guided learning, enabling cross-modality coherence. To move beyond reactive interfaces, we introduce TutorBot, a proactive multi-agent layer that deploys tutoring capabilities through extensible skills and unified multi-channel access, providing consistent experience across platforms. To better evaluate such tutoring systems, we construct TutorBench, a student-centric benchmark with source-grounded learner profiles and a first-person interactive protocol that measures adaptive tutoring from the learner's perspective. We further evaluate foundational agentic reasoning abilities across five authoritative benchmarks. Experiments show that DeepTutor improves personalized tutoring quality while maintaining general agentic reasoning abilities. We hope DeepTutor provides unique insights into next-generation AI-powered and personalized tutoring systems for the community.",
+    "year": "2026",
+    "authors": "Bingxi Zhao, Jiahao Zhang, Xubin Ren, Zirui Guo, Tianzhe Chu, Yi Ma, Chao Huang",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "calibrated-question"
+  },
+  {
+    "id": "arxiv:2511.15163v1",
+    "doi": "",
+    "title": "Teaching According to Students' Aptitude: Personalized Mathematics Tutoring via Persona-, Memory-, and Forgetting-Aware LLMs",
+    "abstract": "Large Language Models (LLMs) are increasingly integrated into intelligent tutoring systems to provide human-like and adaptive instruction. However, most existing approaches fail to capture how students' knowledge evolves dynamically across their proficiencies, conceptual gaps, and forgetting patterns. This challenge is particularly acute in mathematics tutoring, where effective instruction requires fine-grained scaffolding precisely calibrated to each student's mastery level and cognitive retention. To address this issue, we propose TASA (Teaching According to Students' Aptitude), a student-aware tutoring framework that integrates persona, memory, and forgetting dynamics for personalized mathematics learning. Specifically, TASA maintains a structured student persona capturing proficiency profiles and an event memory recording prior learning interactions. By incorporating a continuous forgetting curve with knowledge tracing, TASA dynamically updates each student's mastery state and generates contextually appropriate, difficulty-calibrated questions and explanations. Empirical results demonstrate that TASA achieves superior learning outcomes and more adaptive tutoring behavior compared to representative baselines, underscoring the importance of modeling temporal forgetting and learner profiles in LLM-based tutoring systems.",
+    "year": "2025",
+    "authors": "Yang Wu, Rujing Yao, Tong Zhang, Yufei Shi, Zhuoren Jiang, Zhushan Li, Xiaozhong Liu",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "calibrated-question"
+  },
+  {
+    "id": "arxiv:2601.13761v2",
+    "doi": "",
+    "title": "DARC: Decoupled Asymmetric Reasoning Curriculum for LLM Evolution",
+    "abstract": "Self-play with large language models has emerged as a promising paradigm for achieving self-improving artificial intelligence. However, existing self-play frameworks often suffer from optimization instability, due to (i) non-stationary objectives induced by solver-dependent reward feedback for the Questioner, and (ii) bootstrapping errors from self-generated pseudo-labels used to supervise the Solver. To mitigate these challenges, we introduce DARC (Decoupled Asymmetric Reasoning Curriculum), a two-stage framework that stabilizes the self-evolution process. First, we train the Questioner to synthesize difficulty-calibrated questions, conditioned on explicit difficulty levels and external corpora. Second, we train the Solver with an asymmetric self-distillation mechanism, where a document-augmented teacher generates high-quality pseudo-labels to supervise the student Solver that lacks document access. Empirical results demonstrate that DARC is model-agnostic, yielding an average improvement of 10.9 points across nine reasoning benchmarks and three backbone models. Moreover, DARC consistently outperforms all baselines and approaches the performance of fully supervised models without relying on human annotations. The code is available at https://github.com/RUCBM/DARC.",
+    "year": "2026",
+    "authors": "Shengda Fan, Xuyan Ye, Yankai Lin",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "calibrated-question"
+  },
+  {
+    "id": "arxiv:1904.03053v3",
+    "doi": "",
+    "title": "Anticipated impacts of Brexit scenarios on UK food prices and implications for policies on poverty and health: a structured expert judgement approach",
+    "abstract": "Food insecurity is associated with increased risk for several health conditions and with poor chronic disease management. Key determinants for household food insecurity are income and food costs. Whereas short-term household incomes are likely to remain static, increased food prices would be a significant driver of food insecurity. To investigate food price drivers for household food security and its health consequences in the UK under scenarios of Deal and No deal for Brexit . To estimate the 5\\% and 95\\% quantiles of the projected price distributions. Structured expert judgement elicitation, a well-established method for quantifying uncertainty, using experts. In July 2018, each expert estimated the median, 5\\% and 95\\% quantiles of changes in price for ten food categories under Brexit Deal and No-deal to June 2020 assuming Brexit had taken place on 29th March 2019. These were aggregated based on the accuracy and informativeness of the experts on calibration questions. Ten specialists in food procurement, retail, agriculture, economics, statistics and household food security. Results: when combined in proportions used to calculate Consumer Prices Index food basket costs, median food price change for Brexit with a Deal is expected to be +6.1\\% [90\\% credible interval:-3\\%, +17\\%] and with No deal +22.5\\% [+1\\%, +52\\%]. The number of households experiencing food insecurity and its severity are likely to increase because of expected sizeable increases in median food prices after Brexit. Higher increases are more likely than lower rises and towards the upper limits, these would entail severe impacts. Research showing a low food budget leads to increasingly poor diet suggests that demand for health services in both the short and longer term is likely to increase due to the effects of food insecurity on the incidence and management of diet-sensitive conditions.",
+    "year": "2019",
+    "authors": "Martine J Barons, Willy Aspinall",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "calibrated-question"
+  }
+]

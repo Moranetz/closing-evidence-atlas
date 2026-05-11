@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.venv/
+.Rproj.user/
+.Rhistory
+*.Rproj
+.Renviron
+.env
+*.rds
+analysis/fits/
+node_modules/
+.DS_Store
+*.log
+
+# runtime artifacts from search_runner.py
+search/.runner_pid
+search/run_log*.txt

@@ -1,0 +1,24 @@
+[
+  {
+    "id": "arxiv:2506.07275v4",
+    "doi": "",
+    "title": "Tailored Behavior-Change Messaging for Physical Activity: Integrating Contextual Bandits and Large Language Models",
+    "abstract": "Contextual multi-armed bandit (cMAB) algorithms offer a promising framework for adapting behavioral interventions to individuals over time. However, cMABs often require large samples to learn effectively and typically rely on a finite pre-set of fixed message templates. In this paper, we present a hybrid cMABxLLM approach in which the cMAB selects an intervention type, and a large language model (LLM) which personalizes the message content within the selected type. We deployed this approach in a 30-day physical-activity intervention, comparing four behavioral change intervention types: behavioral self-monitoring, gain-framing, loss-framing, and social comparison, delivered as daily motivational messages to support motivation and achieve a daily step count. Message content is personalized using dynamic contextual factors, including daily fluctuations in self-efficacy, social influence, and regulatory focus. Over the trial, participants received daily messages assigned by one of five models: equal randomization (RCT), cMAB only, LLM only, LLM with interaction history, or cMABxLLM. Outcomes include motivation towards physical activity and message usefulness, assessed via ecological momentary assessments (EMAs). We evaluate and compare the five delivery models using pre-specified statistical analyses that account for repeated measures and time trends. We find that the cMABxLLM approach retains the perceived acceptance of LLM-generated messages, while reducing token usage and providing an explicit, reproducible decision rule for intervention selection. This hybrid approach also avoids the skew in intervention delivery by improving support for under-delivered intervention types. More broadly, our approach provides a deployable template for combining Bayesian adaptive experimentation with generative models in a way that supports both personalization and interpretability.",
+    "year": "2025",
+    "authors": "Haochen Song, Dominik Hofer, Rania Islambouli, Laura Hawkins, Ananya Bhattacharjee, Zahra Hassanzadeh, Jan Smeddinck, Meredith Franklin, Joseph Jay Williams",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "gain-framing"
+  },
+  {
+    "id": "arxiv:2605.05980v1",
+    "doi": "",
+    "title": "TACT: Mitigating Overthinking and Overacting in Coding Agents via Activation Steering",
+    "abstract": "When language model agents tackle complex software engineering tasks, they often degrade over long trajectories, which we define as *agent drift*. We focus on two recurring failure modes *overthinking* and *overacting*, i.e., where the agent repeatedly reasons over information it already has, and where it issues tool calls without integrating recent observations or acquiring new evidence. In this paper, we introduce TACT (Think-Act Calibration via activation Steering), to detect and mitigate agent drift in the residual stream before it surfaces as a behavioral failure. In specific, we label trajectory steps as overthinking, overacting, or calibrated, and find that their hidden states can separate linearly along two *drift axes*, pointing from calibrated behavior toward each failure mode (AUC $\\approx$ 0.9). To mitigate agent drift, we project each step's activation onto these axes at test time and pull drifted ones back toward the calibrated region. Experiments show that TACT outperforms unsteered baselines across SWE-bench Verified, Terminal-Bench 2.0, and CLAW-Eval, lifting average resolve rate by $+5.8$ pp on Qwen3.5-27B and $+4.8$ pp on Gemma-4-26B-A4B-it while cutting steps-to-resolve by up to $26\\%$. These gains frame agent drift as a steerable direction in the residual stream, and position TACT as a viable handle for reliable long-horizon agents.",
+    "year": "2026",
+    "authors": "Yuan Sui, Yulin Chen, Yibo Li, Xue Jiang, Yufei He, Yihong Dong, Xiaoxin He, Tianyu Gao, Bryan Hooi",
+    "journal": "arXiv",
+    "source_db": "arxiv",
+    "source_query": "gain-framing"
+  }
+]

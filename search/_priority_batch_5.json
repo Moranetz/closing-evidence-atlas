@@ -1,0 +1,1002 @@
+[
+ {
+  "i": 400,
+  "id": "openalex:W2158802186",
+  "score": "0.5500",
+  "year": "2006",
+  "title": "Recruiting Teen Smokers in Shopping Malls to a Smoking‐Cessation Program Using the Foot‐in‐the‐Door Technique",
+  "abstract": "Persuading teen smokers to volunteer for smoking‐cessation programs is a challenging yet understudied problem. As a method of dealing with this problem, we used and tested a foot‐in‐the‐door (FITD) approach. Teen smokers were intercepted at malls and were assigned randomly to request compliance with a small behavior request of either (a) answering a few questions (light FITD) or (b) answering the same questions and a few additional ones, plus wat",
+  "journal": "Journal of Applied Social Psychology",
+  "techs": "fitd"
+ },
+ {
+  "i": 401,
+  "id": "openalex:W1975402553",
+  "score": "0.5500",
+  "year": "2003",
+  "title": "Fund-Raising on the Web: The Effect of an Electronic Door-in-the-Face Technique on Compliance to a Request",
+  "abstract": "In an attempt to test the door-in-the-face (DITF) technique in a computer-mediated context, 1,607 men and women taken at random in various e-mail lists were solicited to visit a web site for the profit of a humanitarian organization. In DITF condition, subjects were first solicited by an exaggerated request and, after refusing, were solicited for a small donation. In control condition the donation solicitation was formulated directly. In all the ",
+  "journal": "CyberPsychology & Behavior",
+  "techs": "ditf"
+ },
+ {
+  "i": 402,
+  "id": "openalex:W2128110814",
+  "score": "0.5500",
+  "year": "2001",
+  "title": "The effects of message framing and ethnic targeting on mammography use among low-income women.",
+  "abstract": "The authors examined the effects that differently framed and targeted health messages have on persuading low-income women to obtain screening mammograms. The authors recruited 752 women over 40 years of age from community health clinics and public housing developments and assigned the women randomly to view videos that were either gain or loss framed and either targeted specifically to their ethnic groups or multicultural. Loss-framed, multicultu",
+  "journal": "Health Psychology",
+  "techs": "loss-framing"
+ },
+ {
+  "i": 403,
+  "id": "openalex:W2024462228",
+  "score": "0.5500",
+  "year": "2000",
+  "title": "The Psychological Reality of the Door-in-the-Face",
+  "abstract": "Door-in-the-face (DITF) is a sequential request technique in which a source first makes a large request. Upon the receiver’s refusal, a smaller (target) request is made. DITF has been found to increase compliance with the target request compared to control conditions where only the target request is made. Despite its effectiveness, DITF lacks a consistently supported theoretical explanation. Two studies were conducted to determine whether people ",
+  "journal": "Journal of Language and Social Psychology",
+  "techs": "ditf"
+ },
+ {
+  "i": 404,
+  "id": "openalex:W2046247492",
+  "score": "0.5500",
+  "year": "1994",
+  "title": "Effects of Public Image Concerns and Self-image on Compliance",
+  "abstract": "Abstract Whether compliance is affected by targets' impression management was investigated. A confederate approached male shoppers sitting either alone or with a female companion in an American shopping mall and attempted to convince the male shoppers to agree to purchase raffle tickets. The presence of a female companion was expected to heighten the male shoppers' concerns about public image. The effects of self-image on compliance were also exa",
+  "journal": "The Journal of Social Psychology",
+  "techs": "fitd"
+ },
+ {
+  "i": 405,
+  "id": "openalex:W2005528241",
+  "score": "0.5500",
+  "year": "1990",
+  "title": "Effects of Contract Framing, Motivation to Quit, and Self‐Efficacy on Smoking Reduction<sup>1</sup>",
+  "abstract": "Social learning theorists (SLT) have advocated that individual's cognitive beliefs about perceived behavioral ability and outcome expectancies are predictive of behavior change. SLT's also propose that the threat of losing positive rewards may result in greater behavior change than gaining rewards for altering behaviors such as smoking. Specifically, presenting behavioral outcomes in a loss frame context has proven more influential under certain ",
+  "journal": "Journal of Applied Social Psychology",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 406,
+  "id": "openalex:W1981946861",
+  "score": "0.5500",
+  "year": "1988",
+  "title": "A New Application of the Foot-in-the-Door Technique: Friend or Stranger?",
+  "abstract": "Three groups of friends (small request only [a few minutes], larger request only [30 to 40 minutes], and small request then a larger request) and one group of strangers (larger request only) were investigated to assess a new application of the foot-in-the-door technique for the induction of compliance. Friends generally complied to requests and expected others to do so as well. Strangers generally did not comply to the 30- to 40-min. request and ",
+  "journal": "Psychological Reports",
+  "techs": "fitd"
+ },
+ {
+  "i": 407,
+  "id": "openalex:W1975544269",
+  "score": "0.5500",
+  "year": "1984",
+  "title": "Norms of Social Conduct and the Foot-In-The-Door",
+  "abstract": "Summary Using an account analysis (giving excuses or justifications for compliance or noncompliance) to indicate the operation of social norms, the foot-in-the-door (FITD) paradigm was investigated with four groups (N = 160): small-request only, large-request only, small-request/large-request, and small-request/large-request with an excuse provided. A three-factor interaction between compliance, category of account, and group indicated that (a) S",
+  "journal": "The Journal of Social Psychology",
+  "techs": "fitd"
+ },
+ {
+  "i": 408,
+  "id": "openalex:W2030160651",
+  "score": "0.5500",
+  "year": "1982",
+  "title": "Anxiety and the Foot-in-the Door Technique",
+  "abstract": "Summary The present study investigated whether students’ compliance with an initial neutral and small request (supplying demographic information) would increase their willingness to comply with a subsequent larger and highly anxiety producing request (to supply information regarding indices of sexual maladjustment). Ss’ (N = 80) perceptions of the degree to which the subsequent request was anxiety producing were also measured. The foot-in-the-doo",
+  "journal": "The Journal of Social Psychology",
+  "techs": "fitd"
+ },
+ {
+  "i": 409,
+  "id": "openalex:W2045168429",
+  "score": "0.5500",
+  "year": "1981",
+  "title": "Compliance as Affected by Task Difficulty and Order of Tasks",
+  "abstract": "Summary The foot-in-the-door (“foot”) and the door-in-the-face (“face”) are two procedures for increasing compliance. In the “foot” procedure, an individual is first asked to comply with a small task and this is followed by a second harder task, the one actually desired. In the “face” procedure, an individual is first asked to comply with an extremely hard task and this is followed by a less difficult task, the one actually desired. The current s",
+  "journal": "The Journal of Social Psychology",
+  "techs": "ditf"
+ },
+ {
+  "i": 410,
+  "id": "doi:10.23860/diss-giampa-joseph-2017",
+  "score": "0.5400",
+  "year": "",
+  "title": "Experimental Study of Plate Anchor-Soil Interaction in Sand for the Development of a Novel Anchor",
+  "abstract": "",
+  "journal": "",
+  "techs": "anchor-with-range;extreme-anchor;precise-anchor"
+ },
+ {
+  "i": 411,
+  "id": "openalex:W4416449881",
+  "score": "0.5375",
+  "year": "2025",
+  "title": "Trust in AI vs. human doctors: The roles of subjective understanding, perceived epistemic authority and social proof",
+  "abstract": "Artificial intelligence (AI) is emerging as a valuable assistant in healthcare and can help alleviate the burden on overstretched medical systems. Yet, despite comparable or superior performance, AI doctors are often trusted less than their human counterparts. To identify the mechanisms underlying this trust disparity, we conducted four studies (N = 1040). Study 1 utilized self-report measures to provide initial correlational evidence for both me",
+  "journal": "Acta Psychologica",
+  "techs": "social-proof"
+ },
+ {
+  "i": 412,
+  "id": "openalex:W4396581741",
+  "score": "0.5375",
+  "year": "2024",
+  "title": "It is a match! The effect of regulatory fit on new products recommendations",
+  "abstract": "Abstract Online retailers often recommend new products to consumers. The present study examined the influence of regulatory fit on consumers' click‐through intentions of new products recommended by online retailers. We proposed that regulatory fit resulting from aligning the product's regulatory focus and recommendation message's regulatory orientation positively influences click‐through intention of new product recommendations. In a laboratory s",
+  "journal": "Psychology and Marketing",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 413,
+  "id": "pmid:35768894",
+  "score": "0.5375",
+  "year": "2023",
+  "title": "Applying persuasive messages to reduce public outdoor smoking: A pseudo-randomized controlled trial.",
+  "abstract": "",
+  "journal": "Applied psychology. Health and well-being",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 414,
+  "id": "openalex:W4306776236",
+  "score": "0.5375",
+  "year": "2022",
+  "title": "Using representational and abstract imagery to create regulatory fit effects",
+  "abstract": "Abstract Visual imagery is one of the most important methods of communicating with consumers, but scholars have generally neglected the role of different forms of visual imagery (representational and abstract). Further, the motivation to engage with and process representational versus abstract imagery has also remained underexamined despite the important role that motivation, particularly stemming from regulatory focus, plays in the consumer doma",
+  "journal": "Psychology and Marketing",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 415,
+  "id": "openalex:W4226257800",
+  "score": "0.5375",
+  "year": "2022",
+  "title": "Effect of leaders' regulatory‐fit messages on followers' motivation",
+  "abstract": "Abstract The regulatory fit between regulatory focus and framing of leaders' messages to motivate their followers was examined in this study. Toward this end, an exploratory survey was conducted to develop messages germane to regulatory focus. These messages were employed in the following two experimental studies. Study 1 tested the regulatory‐fit hypotheses from the perspective of leaders, who selected positively or negatively framed messages fo",
+  "journal": "Journal of Applied Social Psychology",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 416,
+  "id": "openalex:W3131208978",
+  "score": "0.5375",
+  "year": "2021",
+  "title": "The Effects of Goal Publicity and Incentives on Self-Set Performance Goals",
+  "abstract": "ABSTRACT Many companies encourage employees to set their own performance goals and do not attach formal incentives to the achievement of these goals. In this environment, some organizations make employees' self-set performance goals public while other organizations do not. We predict that, due to strategic concerns induced by goal publicity and competition, making goals public will be more likely to lead employees to lowball their goals when they",
+  "journal": "Journal of Management Accounting Research",
+  "techs": "lowball"
+ },
+ {
+  "i": 417,
+  "id": "pmid:32673049",
+  "score": "0.5375",
+  "year": "2021",
+  "title": "An evaluation of fixed and randomized price sequence on the alcohol purchase task.",
+  "abstract": "",
+  "journal": "Experimental and clinical psychopharmacology",
+  "techs": "extreme-anchor"
+ },
+ {
+  "i": 418,
+  "id": "pmid:32933646",
+  "score": "0.5375",
+  "year": "2020",
+  "title": "State coercion, moral attitudes, and tax compliance: Evidence from a national factorial survey experiment of income tax evasion.",
+  "abstract": "",
+  "journal": "Social science research",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 419,
+  "id": "openalex:W2917978880",
+  "score": "0.5375",
+  "year": "2019",
+  "title": "Climate Change From a Distance: An Analysis of Construal Level and Psychological Distance From Climate Change",
+  "abstract": "= 319), we tested whether construal level and psychological distance from climate change predicted pro-environmental intentions and policy support, and whether manipulating distance and construal increased pro-environmental behaviors such as donations. Results showed that psychological closeness to climate change predicted more engagement in pro-environmental behaviors, while construal level produced inconsistent results, and manipulations of bot",
+  "journal": "Frontiers in Psychology",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 420,
+  "id": "openalex:W2527643253",
+  "score": "0.5375",
+  "year": "2016",
+  "title": "Sport gain-framed messages, possible selves, and their effects on adults’ interest, intentions, and decision to register in sport",
+  "abstract": "This longitudinal randomised study compared gain-framed messages to a comparison condition for effects on intentions to do sport, requests for newsletters describing adult sport opportunities, and sport registration in middle-aged adults. An a posteriori objective was to determine whether greater effects resulted from a possible self-protocol paired with each condition, compared to gain-framed and comparison conditions alone. Analysis of covarian",
+  "journal": "International Journal of Sport and Exercise Psycho",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 421,
+  "id": "openalex:W2292916446",
+  "score": "0.5375",
+  "year": "2016",
+  "title": "Multiple neural signatures of social proof and deviance during the observation of other people's preferences",
+  "abstract": "Detecting one's agreement with or deviation from other people, a key principle of social cognition, relies on neurocognitive mechanisms involved in reward processing, mismatch detection, and attentional orienting. Previous studies have focused on explicit depictions of the (in)congruency of individual and group judgments. Here, we report data from a novel experimental paradigm in which participants first rated a set of images and were later simpl",
+  "journal": "Psychophysiology",
+  "techs": "social-proof"
+ },
+ {
+  "i": 422,
+  "id": "openalex:W2534584582",
+  "score": "0.5375",
+  "year": "2016",
+  "title": "Reducing the Stigma of Depression Among Asian Students",
+  "abstract": "In North America, Asians reliably report higher levels of stigma toward people with depression than do Europeans. Possible methods of reducing this discrepancy have rarely been explored. Asian undergraduate students ( n = 132) were presented with one of four antistigma videos with two actresses: one portraying a student with depression and the other a professor. The videos used the concept of social proof, presenting either positive or negative d",
+  "journal": "Journal of Cross-Cultural Psychology",
+  "techs": "social-proof"
+ },
+ {
+  "i": 423,
+  "id": "openalex:W2112263222",
+  "score": "0.5375",
+  "year": "2013",
+  "title": "When fit matters more: The effect of regulatory fit on adaptation to change",
+  "abstract": "Regulatory fit theory predicts that motivation and performance are enhanced when individuals pursue goals framed in a way that fits their regulatory orientation (promotion vs. prevention focus). Our aim was to test the predictions of the theory when individuals deal with change. We expected and found in three studies that regulatory fit is beneficial only when a prevention focus is involved. In Study 1, an experiment among students, prevention- b",
+  "journal": "European Journal of Work and Organizational Psycho",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 424,
+  "id": "openalex:W2496520395",
+  "score": "0.5375",
+  "year": "2013",
+  "title": "Health on impulse: When low self-control promotes healthy food choices.",
+  "abstract": "OBJECTIVE: Food choices are often made mindlessly, when individuals are not able or willing to exert self-control. Under low self-control, individuals have difficulties to resist palatable but unhealthy food products. In contrast to previous research aiming to foster healthy choices by promoting high self-control, this study exploits situations of low self-control, by strategically using the tendency under these conditions to rely on heuristics (",
+  "journal": "Health Psychology",
+  "techs": "social-proof"
+ },
+ {
+  "i": 425,
+  "id": "openalex:W2009820538",
+  "score": "0.5375",
+  "year": "2012",
+  "title": "Engineering Trust: Reciprocity in the Production of Reputation Information",
+  "abstract": "Reciprocity in feedback giving distorts the production and content of reputation information in a market, hampering trust and trade efficiency. Guided by feedback patterns observed on eBay and other platforms, we run laboratory experiments to investigate how reciprocity can be managed by changes in the way feedback information flows through the system, leading to more accurate reputation information, more trust, and more efficient trade. We discu",
+  "journal": "Management Science",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 426,
+  "id": "openalex:W2106449393",
+  "score": "0.5375",
+  "year": "2012",
+  "title": "Regulatory fit improves putting in top golfers.",
+  "abstract": "Based on regulatory focus theory, it has recently been shown that a regulatory fit enhances performance for nontop athletes in football and basketball. In the present research, we extend this research to top athletes and a task involving minimal muscular effort—putting in golf. We measured the chronic focus of 30 of the best German golfers (average handicap [HCP] 0.76) and experimentally manipulated the focus of a putting task staged on an outdoo",
+  "journal": "Sport Exercise and Performance Psychology",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 427,
+  "id": "openalex:W2003249607",
+  "score": "0.5375",
+  "year": "2012",
+  "title": "Self-Discrepancy and Regulatory Fit in Avatar-Based Exergames",
+  "abstract": "Drawing from Higgins's self-discrepancy theory and regulatory focus theory, this study examined the use of activated selves and regulatory foci in health games. Utilizing the Wii's avatar-creating and exergaming features, a 2 (activated self: actual self versus ideal self) x 2 (regulatory focus: promotion versus prevention) x 2 (efficacy appeals: self-efficacy versus response-efficacy) between-subjects experiment tested the interactions of activa",
+  "journal": "Psychological Reports",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 428,
+  "id": "openalex:W1593578030",
+  "score": "0.5375",
+  "year": "2011",
+  "title": "The Nature of the First Small Request as a Decisive Factor in the Effectiveness of the Foot‐in‐the‐Door Technique",
+  "abstract": "In the literature on the foot‐in‐the‐door technique it is usually assumed that the first of the two sequentially posed requests should not be extremely easy (trivial). An uncomplicated request would not activate self‐perception mechanisms which, as it is commonly understood, lie behind the effectiveness of the technique. This article proposes that when the initial request is exceptional or odd, then even if it is easy and is fulfilled by nearly e",
+  "journal": "Applied Psychology",
+  "techs": "fitd"
+ },
+ {
+  "i": 429,
+  "id": "openalex:W2371572286",
+  "score": "0.5375",
+  "year": "2011",
+  "title": "The Coincidence between the Regulatory Fit Effects Based on Chronic Regulatory Focus and Situational Regulatory Focus",
+  "abstract": "Regulatory fit theory proposes that the fit between regulatory focus and information frame will strengthen the individual's evaluation on the information, as well as the affect and motivation. However, the regulatory focus involves two different types: situational focus and chronic focus, the former is induced by environmental factors, while the latter reflects stable personality. Thus, an interesting question is, whether the regulatory fits base",
+  "journal": "Acta Psychologica Sinica",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 430,
+  "id": "openalex:W2172295817",
+  "score": "0.5375",
+  "year": "2007",
+  "title": "The Value of Reciprocity",
+  "abstract": "The value of reciprocity in social exchange potentially comprises both instrumental value (the value of the actual benefits received from exchange) and communicative or symbolic value (the expressive and uncertainty reduction value conveyed by features of the act of reciprocity itself). While all forms of exchange provide instrumental value, we propose that the voluntary and uncertain nature of recurring reciprocal exchanges, in which actors indi",
+  "journal": "Social Psychology Quarterly",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 431,
+  "id": "openalex:W2013785133",
+  "score": "0.5375",
+  "year": "2005",
+  "title": "Improving Attitudes Toward Prostate Examinations by Loss-Framed Appeals",
+  "abstract": "One of the main causes of late diagnoses in prostate cancer is the aversive attitude toward prostate examinations. In this study, we analyze the efficacy of an informative pamphlet in changing that attitude. A randomized sample of north Italian men was given different versions of an informative pamphlet, obtained by systematically manipulating the message framing and emotional vividness. After reading the pamphlet, each participant completed an a",
+  "journal": "Journal of Applied Social Psychology",
+  "techs": "loss-framing"
+ },
+ {
+  "i": 432,
+  "id": "openalex:W2321908942",
+  "score": "0.5375",
+  "year": "2000",
+  "title": "The Group as the Container of Generalized Reciprocity",
+  "abstract": "The results of an experiment with 91 Japanese participants confirmed the hypothesis that players of a Prisoner's Dilemma game would cooperate more with an in-group member than with an out-group member in the simultaneous game but not in the sequential game. The game used in the experiment was constructed such that each player gave his or her partner a portion of his or her own endowment of 300 yen. The group membership was created on the basis of",
+  "journal": "Social Psychology Quarterly",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 433,
+  "id": "openalex:W1991015565",
+  "score": "0.5375",
+  "year": "2000",
+  "title": "Machines and Mindlessness: Social Responses to Computers",
+  "abstract": "Following Langer (1992), this article reviews a series of experimental studies that demonstrate that individuals mindlessly apply social rules and expectations to computers. The first set of studies illustrates how individuals overuse human social categories, applying gender stereotypes to computers and ethnically identifying with computer agents. The second set demonstrates thatpeople exhibit overlearned social behaviors such as politeness and r",
+  "journal": "Journal of Social Issues",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 434,
+  "id": "doi:10.1037//0022-3514.76.2.192",
+  "score": "0.5200",
+  "year": "1999",
+  "title": "A disrupt-then-reframe technique of social influence.",
+  "abstract": "",
+  "journal": "Journal of Personality and Social Psychology",
+  "techs": "disrupt-then-reframe"
+ },
+ {
+  "i": 435,
+  "id": "openalex:W7155391352",
+  "score": "0.5125",
+  "year": "2026",
+  "title": "How Political Journalists Found—and Lost—a Home on Twitter",
+  "abstract": "Introduction In 2008, working as a communications assistant for a Canadian Member of Parliament, I persuaded her to let me create her Twitter account. She was among the first politicians in Canada to have an account, but Twitter as a space for political communication grew quickly. Journalists, politicians, activists, and politically engaged citizens gathered in a shared, fast-moving stream. Twitter felt direct and unusually flat: elected official",
+  "journal": "M/C Journal",
+  "techs": "authority"
+ },
+ {
+  "i": 436,
+  "id": "arxiv:2508.05344v1",
+  "score": "0.5125",
+  "year": "2025",
+  "title": "NomicLaw: Emergent Trust and Strategic Argumentation in LLMs During Collaborative Law-Making",
+  "abstract": "Recent advancements in large language models (LLMs) have extended their capabilities from basic text processing to complex reasoning tasks, including legal interpretation, argumentation, and strategic interaction. However, empirical understanding of LLM behavior in open-ended, multi-agent settings especially those involving deliberation over legal and ethical dilemmas remains limited. We introduce NomicLaw, a structured multi-agent simulation whe",
+  "journal": "arXiv",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 437,
+  "id": "doi:10.1002/nvsm.70005",
+  "score": "0.5125",
+  "year": "2025",
+  "title": "Is Concrete Framing More Effective in Enticing Donations? The Impacts of Donation Requests and Identified Beneficiary on the Effectiveness of Concrete Framing",
+  "abstract": "ABSTRACT\n                  Previous research has shown that concrete‐framed fundraising goals are more effective at eliciting donations. This study extends these findings by exploring the boundaries of the concrete framing effect. Across three experiments, our results indicate that concrete framing positively influences donations by enhancing message elaboration, which in turn increases empathy and, consequently, willingness to donate. However, t",
+  "journal": "Journal of Philanthropy",
+  "techs": "concrete-construal"
+ },
+ {
+  "i": 438,
+  "id": "doi:10.1108/ijchm-09-2024-1415",
+  "score": "0.5125",
+  "year": "2025",
+  "title": "Gain or loss? Unveiling the power of framing in chatbot identity disclosure",
+  "abstract": "Purpose\n                  This study aims to explore how the use of different message framing strategies (gain framing and loss framing) when disclosing identities by chatbots affects customers’ willingness to use chatbots in the travel and hospitality industry.\n               \n               \n                  Design/methodology/approach\n                  Through one qualitative study and three experiments, this research investigates the effects",
+  "journal": "International Journal of Contemporary Hospitality ",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 439,
+  "id": "openalex:W4414093410",
+  "score": "0.5125",
+  "year": "2025",
+  "title": "Hyper-Personalization in Marketing Campaigns: Is It Going Too Far?",
+  "abstract": "This study critically examines the rise of hyper-personalization in marketing, an advanced form of digital targeting powered by artificial intelligence, machine learning, and real-time behavioral data. While hyper-personalization improves customer engagement and drives measurable business outcomes, it raises significant ethical, psychological, and cultural concerns. Using secondary research drawn from academic literature, industry reports, and ca",
+  "journal": "International Journal For Multidisciplinary Resear",
+  "techs": "authority"
+ },
+ {
+  "i": 440,
+  "id": "openalex:W4410773135",
+  "score": "0.5125",
+  "year": "2025",
+  "title": "Suspicious minds: Psychological techniques correlated with online phishing attacks",
+  "abstract": "Phishing remains a pervasive threat to information security, leveraging human psychology to manipulate individuals into disclosing sensitive information or performing actions against their best interests. This study presents a comprehensive taxonomy and analysis of psychological techniques utilized in social engineering, introducing novel metrics such as Absolute Compliance Increase Rate (ACR), Relative Compliance Increase Rate (RCR), and Compreh",
+  "journal": "Computers in Human Behavior Reports",
+  "techs": "commitment-consistency"
+ },
+ {
+  "i": 441,
+  "id": "openalex:W4414006090",
+  "score": "0.5125",
+  "year": "2025",
+  "title": "Enhancing Parental Compliance in School Fee Payment through Psychological Framing: A Pilot Evaluation of the Bakwana Compliance Sheet (BCS)",
+  "abstract": "Background: School fee non-compliance poses significant challenges for private primary schools, particularly in low- and middle-income settings. The Bakwana Compliance Sheet (BCS) was developed as a behavioral tool incorporating principles of commitment/consistency, reciprocity, framing and choice architecture to encourage timely payments.Objective: This pilot study evaluated the feasibility, clarity, and preliminary behavioral impact of the BCS ",
+  "journal": "",
+  "techs": "commitment-consistency"
+ },
+ {
+  "i": 442,
+  "id": "osf:96mun",
+  "score": "0.5125",
+  "year": "2025",
+  "title": "Social Proof in Coach Selection",
+  "abstract": "This experimental study investigates whether deceptive designs (also known as dark patterns) influence users’ choices in an online coach booking environment, and whether individual thinking styles interact with these effects. Deceptive designs are techniques intended to influence users’ decisions in ways that benefit the platform provider, often to the detriment of the user. They exploit heuristics and cognitive biases through elements such as so",
+  "journal": "OSF Registrations",
+  "techs": "social-proof"
+ },
+ {
+  "i": 443,
+  "id": "nct:NCT06126107",
+  "score": "0.5125",
+  "year": "2024",
+  "title": "Gain and Loss Framed Text Messaging to Reduce Drinking Among Older Adults",
+  "abstract": "The goal of this study is to evaluate effectiveness of scalable, tailored text- messaging programs for alcohol use among older adults. This study focuses on gain and loss framing of behavior change goals (i.e., the positives of change and the negatives of remaining with the status quo), critical components of behavioral science and health behavioral interventions. Loss-framing is used to motivate individuals to avoid future problems by focusing o",
+  "journal": "ClinicalTrials.gov",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 444,
+  "id": "openalex:W4388931308",
+  "score": "0.5125",
+  "year": "2023",
+  "title": "Does social proof and herd behaviour drive food choices of consumers?",
+  "abstract": "Purpose People often look to the opinions and actions of others to guide their food choices, especially when they are uncertain or unfamiliar with a particular food. This influence can be positive or negative depending on the context and can have an impact on food consumption and health outcomes. Design/methodology/approach The paper analysed data from 500 young adult consumers in China and employed a multi-study design to examine various aspects",
+  "journal": "British Food Journal",
+  "techs": "social-proof"
+ },
+ {
+  "i": 445,
+  "id": "doi:10.1093/ijpor/edab027",
+  "score": "0.5125",
+  "year": "2021",
+  "title": "The Effect of Gain-versus-Loss Framing of Economic and Health Prospects of Different COVID-19 Interventions: An Experiment Integrating Equivalence and Emphasis Framing",
+  "abstract": "AbstractA survey experiment was conducted that exposed Dutch citizens to different scenarios that either emphasized the gains or the losses regarding the number of victims or the economic damage caused by SARS-CoV-2. Replicating prospect theory in an ecologically valid crisis context, we found that gain frames promoted risk-aversive preferences, whereas loss frames increased support for risk-seeking alternatives. We further demonstrate the effect",
+  "journal": "International Journal of Public Opinion Research",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 446,
+  "id": "openalex:W3197923890",
+  "score": "0.5125",
+  "year": "2021",
+  "title": "Persuasive Effects of Message Framing and Narrative Format on Promoting COVID-19 Vaccination: A Study on Chinese College Students",
+  "abstract": "During a public health crisis, the provision and dissemination of health-related information are important for the relevant authorities to keep the public informed. By using different types of message framing, the authorities can effectively guide and persuade people to adopt health-related behaviors (such as vaccination). In this study, a web-based experiment using a 2 × 2 (message framing: gain framing versus loss framing) × (message presentati",
+  "journal": "International Journal of Environmental Research an",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 447,
+  "id": "openalex:W3186118344",
+  "score": "0.5125",
+  "year": "2021",
+  "title": "Effects of Message Framing on Cancer Prevention and Detection Behaviors, Intentions, and Attitudes: Systematic Review and Meta-analysis",
+  "abstract": "BACKGROUND: With the increasing health care burden of cancer, public health organizations are increasingly emphasizing the importance of calling people to engage in long-term prevention and periodical detection. How to best deliver behavioral recommendations and health outcomes in messaging is an important issue. OBJECTIVE: This study aims to disaggregate the effects of gain-framed and loss-framed messages on cancer prevention and detection behav",
+  "journal": "Journal of Medical Internet Research",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 448,
+  "id": "openalex:W3204242369",
+  "score": "0.5125",
+  "year": "2021",
+  "title": "Promoting COVID-19 Vaccination: The Interplay of Message Framing, Psychological Uncertainty, and Public Agency as a Message Source",
+  "abstract": "The study examines how framing, psychological uncertainty, and agency type influence campaign effectiveness in promoting coronavirus disease 2019 (COVID-19) vaccines. A 2 (gain vs. loss frame) × 2 (high vs. low uncertainty) × 2 (national vs. local agency) between-subjects experiment was conducted among Houston residents ( N = 382). Findings revealed that a loss frame was more effective among participants primed with high uncertainty through a tho",
+  "journal": "Science Communication",
+  "techs": "loss-framing"
+ },
+ {
+  "i": 449,
+  "id": "openalex:W3211642163",
+  "score": "0.5125",
+  "year": "2020",
+  "title": "Where persuasion and culture meet : The cultural influence between Turkish and Dutch consumers in the effectiveness of persuasive techniques in e-commerce",
+  "abstract": "The rise of global e-commerce has led to an increase in e-commerce activities between Turkey and the Netherlands. Subsequently, online retailers from both countries are confronted with a new consumer culture. This study has the goal of investigating these cultural differences and how they may influence consumer responses towards persuasive techniques in e-commerce. This study was conducted with an online experiment (N=284) that attempted to simul",
+  "journal": "",
+  "techs": "authority"
+ },
+ {
+  "i": 450,
+  "id": "openalex:W3001409148",
+  "score": "0.5125",
+  "year": "2020",
+  "title": "Traveling to a Gendered Destination: A Goal-Framed Advertising Perspective",
+  "abstract": "This study aims to investigate how goal-framed advertising messages paired with destination gender can influence travel decisions. A 2 (goal-framed messages: gain vs. loss) × 2 (destination gender: masculine vs. feminine) between-subjects experiment is conducted with an online consumer panel. Analysis of variance results indicate that gain-framed messages (vs. loss-framed messages) offer a greater advantage in triggering travel intentions toward ",
+  "journal": "Journal of Hospitality & Tourism Research",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 451,
+  "id": "openalex:W2963073463",
+  "score": "0.5125",
+  "year": "2019",
+  "title": "Economic losses or environmental gains? Framing effects on public support for environmental management",
+  "abstract": "Environmental managers face major challenges related to project implementation and communicating the significance of those projects to the public. Effective communication can mitigate public opposition or increase support for specific projects and increase public and political support for environmental management more generally. In this study, we evaluate which types of benefits or losses environmental managers should communicate and how to frame",
+  "journal": "PLoS ONE",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 452,
+  "id": "openalex:W2913053797",
+  "score": "0.5125",
+  "year": "2019",
+  "title": "A Study of Consumers’ Intentions to Participate in Responsible Tourism Using Message Framing and Appeals",
+  "abstract": "Since responsible tourism (RT) emerged as a critical issue in the tourism literature in the early 2000s, the challenge has been how to encourage consumers to practice RT. In this context, the goal of this study is to examine effective ways to promote individuals’ RT behavior using message framing and appeals. The present study used campaign advertisements as a stimulus and employed a 2 × 2 factorial design ((message framing: gain framing vs. loss",
+  "journal": "Sustainability",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 453,
+  "id": "openalex:W2946780478",
+  "score": "0.5125",
+  "year": "2019",
+  "title": "Consumer willingness to pay for food safety interventions: The role of message framing and issue involvement",
+  "abstract": "",
+  "journal": "Food Policy",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 454,
+  "id": "openalex:W2788022547",
+  "score": "0.5125",
+  "year": "2018",
+  "title": "Think twice before using door-in-the-face tactics in repeated negotiation",
+  "abstract": "Purpose The purpose of this paper is to examine the detrimental effects of the door-in-the-face (DITF) tactic in repeated negotiation. A more complete understanding of its negative consequences is essential to make an informed decision about its use. Design/methodology/approach This paper is the product of two between-subjects scenario-based negotiation experiments involving university students in Hong Kong (Study 1) and professionals in the UK w",
+  "journal": "International Journal of Conflict Management",
+  "techs": "ditf"
+ },
+ {
+  "i": 455,
+  "id": "openalex:W2888820483",
+  "score": "0.5125",
+  "year": "2018",
+  "title": "Compliance in autism: Self-report in action",
+  "abstract": "Previous research indicates that autistic individuals are more likely to be bullied, and that they experience heightened anxiety and diminished self-esteem. These factors are known to predict heightened compliance, which is the tendency to agree with or carry out the requests and demands of others. This has a range of potentially serious consequences, particularly for an autistic person. This study utilised self-report (the Gudjonsson Compliance ",
+  "journal": "Autism",
+  "techs": "ditf"
+ },
+ {
+  "i": 456,
+  "id": "openalex:W2797271559",
+  "score": "0.5125",
+  "year": "2018",
+  "title": "‘You talking to me?’ The influence of peer communication on adolescents’ persuasion knowledge and attitude towards social advertisements",
+  "abstract": "This article examines how peer communication among adolescents (14–16 years) affects the evaluation of social advertising (i.e. targeted ad that adopts the social proof heuristic by using an individual’s social ties as endorsers for a brand) on social networking sites (SNSs). More precisely, the focus lies on how engaging in online peer chatting on these social platforms alters persuasion knowledge and attitude towards the ad. In order to test th",
+  "journal": "Behaviour and Information Technology",
+  "techs": "social-proof"
+ },
+ {
+  "i": 457,
+  "id": "openalex:W2806206813",
+  "score": "0.5125",
+  "year": "2018",
+  "title": "Offshore Pharmaceutical Trials: Evidence, Economics, and Ethics",
+  "abstract": "Backed by a group of wealthy investors and an American university, a US pharmaceutical company recently flouted United States Food and Drug Administration (FDA) safety protections by testing an experimental herpes vaccine offshore.1Taylor M. Offshore human testing of herpes vaccine stokes debate over U.S. safety rules. Kaiser Family Foundation.http://khn.org/news/offshore-rush-for-herpes-vaccine-roils-debate-over-u-s-safety-rules/Google Scholar M",
+  "journal": "Mayo Clinic Proceedings Innovations Quality & Outc",
+  "techs": "trial-close"
+ },
+ {
+  "i": 458,
+  "id": "openalex:W2725636709",
+  "score": "0.5125",
+  "year": "2017",
+  "title": "Związek pomiędzy wiekiem, preferencją spójności i skutecznością techniki wpływu społecznego „stopa w drzwiach”",
+  "abstract": "In the present paper we focus on the significance of individual differences in explaining the effectiveness of social influence, more specifically the sequential request techniques. We discuss the relationship between preference for consistency (PFC) and mechanisms of the compliance procedures based on commitment consistency rule (CC). We provide rationale for two important notions: (1) that PFC mediates the effectiveness of the foot-in-the-door ",
+  "journal": "Homo Politicus (Academy of Humanities and Economic",
+  "techs": "commitment-consistency"
+ },
+ {
+  "i": 459,
+  "id": "openalex:W2742083535",
+  "score": "0.5125",
+  "year": "2017",
+  "title": "How proof of previous donations influences compliance with a donation request: three field experiments",
+  "abstract": "",
+  "journal": "International Review on Public and Nonprofit Marke",
+  "techs": "social-proof"
+ },
+ {
+  "i": 460,
+  "id": "openalex:W2333813606",
+  "score": "0.5125",
+  "year": "2016",
+  "title": "VISUAL ART AND REGULATORY FIT MESSAGES ON CONSUMER EVALUATIONS",
+  "abstract": "ABSTRACT In this study, we demonstrate that the art infusion effect, in which the presence of visual art causes a positive impact on consumers' perceptions of products and advertising messages, might have a moderation effect on regulatory fit and non-fit messages. We investigate the impact of visual art on advertisement evaluations in regulatory (non-) fit conditions. Regulatory focus theory suggests that consumers rely on their motivational focu",
+  "journal": "Revista de Administração de Empresas",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 461,
+  "id": "openalex:W2522303437",
+  "score": "0.5125",
+  "year": "2015",
+  "title": "Effectiveness of Psychological Techniques in Increasing Deviant Sexual Fantasy Self-Disclosures",
+  "abstract": "The assessment of deviant sexual fantasy and interests is an important component in sex offender risk assessment and subsequent treatment planning. However, clinicians and researchers have long acknowledged that sex offenders often distort or underreport details related to their sex offenses, particularly details relating to offense-related deviant sexual fantasy and interests. Some of the common methods used to minimize underreporting of deviant",
+  "journal": "CUNY Academic Works (City University of New York)",
+  "techs": "ditf"
+ },
+ {
+  "i": 462,
+  "id": "openalex:W1917390965",
+  "score": "0.5125",
+  "year": "2015",
+  "title": "Framing charitable appeals: the effect of message framing and perceived susceptibility to the negative consequences of inaction on donation intention",
+  "abstract": "An experiment was conducted to explore how potential donors' perceptions of their own susceptibility to the negative consequences of not making a donation may moderate the relative persuasiveness of gain‐framed and loss‐framed fundraising messages (defined by messages that highlight corresponding gains or losses as the result of making or not making donations to a charitable organization). It found that as participants' perceptions of their own s",
+  "journal": "International Journal of Nonprofit and Voluntary S",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 463,
+  "id": "openalex:W2119481060",
+  "score": "0.5125",
+  "year": "2015",
+  "title": "Designing Viral Promotional Campaigns: How Scarcity and Social Proof Affect Online Referrals",
+  "abstract": "Online referrals have become an important mechanism in leveraging consumers’ social networks to spread firms’ promotional campaigns and thus attract new customers. However, despite a robust understanding of the benefits and drivers of consumer referrals, only minimal attention has been paid towards the potential of classical promotional tactics in influencing referral behavior. Therefore, this study examines scarcity and social proof, two promoti",
+  "journal": "RePEc: Research Papers in Economics",
+  "techs": "social-proof"
+ },
+ {
+  "i": 464,
+  "id": "openalex:W2223289735",
+  "score": "0.5125",
+  "year": "2015",
+  "title": "Malicious practice of fake reviews: Experimental insight into the potential of contextual indicators in assisting consumers to detect deceptive opinion spam",
+  "abstract": "Consumers often rely on experiences from other individuals shared online when making purchase decisions; however, the trustworthiness of consumers’ online opinions is jeopardized by fake reviews. Three experimental studies were conducted that included different potential detection support mechanisms to identify fake reviews. The results show that a self-protection prime and two of the three tested detection support mechanisms affect the source’s ",
+  "journal": "Recherche et Applications en Marketing (English Ed",
+  "techs": "social-proof"
+ },
+ {
+  "i": 465,
+  "id": "openalex:W1566060176",
+  "score": "0.5125",
+  "year": "2015",
+  "title": "Persuasive impact of online media: investigating the influence of visual persuasion",
+  "abstract": "In spite of the rising attention given to persuasive design, little is known about the effect of visual persuasion in the online context, specifically in the context of human-computer communication. This research describes an experiment designed to compare the effectiveness of persuasive visual design against a plain website designed with similar web design characteristics in terms of informativeness, usability and visual aesthetic. The design of",
+  "journal": "",
+  "techs": "social-proof"
+ },
+ {
+  "i": 466,
+  "id": "openalex:W2170851528",
+  "score": "0.5125",
+  "year": "2013",
+  "title": "Repeating “Yes” in a First Request and Compliance with a Later Request: the Four Walls Technique",
+  "abstract": "The commitment/consistency principle for compliance implies that people act in ways consistent with their previous behavior. Cialdini and Sagarin (2005) have stated that, according to this principle, asking individuals questions to which they would be expected to say “yes” could be associated with achieving greater compliance with a subsequent request. However, this procedure, referred to as the four walls technique, has never been tested experim",
+  "journal": "Social Behavior and Personality An International J",
+  "techs": "commitment-consistency"
+ },
+ {
+  "i": 467,
+  "id": "openalex:W2089334554",
+  "score": "0.5125",
+  "year": "2011",
+  "title": "Exploring the “That's-Not-All” Effect: A Test of Theoretical Explanations",
+  "abstract": "The “that's-not-all” (TNA) technique is a sequential request strategy in which an offer is improved before the message receiver responds. Although the TNA procedure has been the subject of several experiments, the theoretical mechanisms responsible for TNA effects are unclear. An experiment, utilizing a 3 (Request type: large TNA, moderate TNA, control) × 2 (Requester: prosocial, commercial organization) independent groups design, was conducted t",
+  "journal": "Southern Communication Journal",
+  "techs": "tna"
+ },
+ {
+  "i": 468,
+  "id": "openalex:W2137935948",
+  "score": "0.5125",
+  "year": "2010",
+  "title": "A systematic review of three approaches for constructing physical activity messages: What messages work and what improvements are needed?",
+  "abstract": "BACKGROUND: To motivate individuals to adhere to a regular physical activity regime, guidelines must be supplemented with persuasive messages that are disseminated widely. While substantial research has examined effective strategies for disseminating physical activity messages, there has been no systematic effort to examine optimal message content. This paper reviews studies that evaluate the effectiveness of three approaches for constructing phy",
+  "journal": "International Journal of Behavioral Nutrition and ",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 469,
+  "id": "openalex:W1562368000",
+  "score": "0.5125",
+  "year": "2010",
+  "title": "Rational choice in an uncertain world : the psychology of judgment and decision making",
+  "abstract": "Chapter 1 - Thinking and Deciding 1.1 Decision Making Is a Skill 1.2 Thinking: automatic and Controlled 1.3 The Computational Model of the Mind 1.4 Through the Darkest Psychoanalytical Theory and Behaviorism to Cognition 1.5 Quality of Choice: Rationality 1.6 The Invention of Modern Decision Theory Chapter 2 - What Is Decision Making? 2.1 Definition of a Decision 2.2 Picturing Decisions 2.3 Decision Quality, Revisited 2.4 Incomplete Thinking: A L",
+  "journal": "",
+  "techs": "loss-framing"
+ },
+ {
+  "i": 470,
+  "id": "openalex:W1555909818",
+  "score": "0.5125",
+  "year": "2007",
+  "title": "Applying Persuasion Principles Did Not Increase Questionnaire Response: A Randomised Controlled Trial of a Fridge Magnet Gift",
+  "abstract": "Maximising response is an important issue in epidemiological research. Reciprocation and commitment/consistency are psychological persuasion principles that have been used in many contexts to increase compliance with requests. We attempted to apply both these principles to increase compliance with a survey request by sending a fridge magnet reminder. The aim of this study was to determine whether the magnet improved response.",
+  "journal": "UWA Profiles and Research Repository (University o",
+  "techs": "commitment-consistency"
+ },
+ {
+  "i": 471,
+  "id": "openalex:W2005101888",
+  "score": "0.5125",
+  "year": "2007",
+  "title": "The Relative Persuasive Effect of Gain- versus Loss-Framed Messages: Exploring the Moderating Role of the Desirability of End-States",
+  "abstract": "A persuasive message can focus on either the advantages of compliance (i.e., gain-framed) or the disadvantages of non-compliance (i.e., loss-framed). Previous findings regarding the relative persuasive effect of gain- versus loss-framed messages have been largely inconsistent. This research suggests that there exist two distinct operationalizations of message framing, with one involving desirable end-states and the other involving undesirable end",
+  "journal": "Journalism & Mass Communication Quarterly",
+  "techs": "loss-framing"
+ },
+ {
+  "i": 472,
+  "id": "openalex:W2113928500",
+  "score": "0.5125",
+  "year": "2006",
+  "title": "“YOU'RE HELPFUL” VERSUS “THAT'S CLEAR”. SOCIAL VERSUS FUNCTIONAL LABEL IN THE FOOT-IN-THE-DOOR PARADIGM",
+  "abstract": "In this experiment, the effect of two kinds of labels in the foot-in-the-door paradigm were tested. The first one refers to what the individual is (social label); the second refers to the usefulness of the performed behavior (functional label). It appears that the social label increases compliance whereas the functional label decreases compliance. Taking into account the social versus the functional dimension, rather than the classical positive/n",
+  "journal": "Social Behavior and Personality An International J",
+  "techs": "fitd"
+ },
+ {
+  "i": 473,
+  "id": "openalex:W181163862",
+  "score": "0.5125",
+  "year": "2003",
+  "title": "Persuasion, pitch and presentation: The effects of information style on individual decision making",
+  "abstract": "The four experiments examined five issues relating to the use of information by decision makers. The first was time; second was descriptive words instead of university letter grades; third was the information source's credibility; fourth was persuasion technique; and fifth was type of appeal. Time available was variously combined with letter grades, evaluative words, and differentially credible information sources. The first two experiments showe",
+  "journal": "UA Campus Repository (The University of Arizona)",
+  "techs": "ditf"
+ },
+ {
+  "i": 474,
+  "id": "openalex:W2039244147",
+  "score": "0.5125",
+  "year": "1994",
+  "title": "A Multiperiod Model and Experimental Evidence of Independence and “Lowballing”*",
+  "abstract": "Abstract. Auditors, regulators, and academics are interested in the pricing practice of “lowballing” and its relationship to auditor independence. Several analytical models have examined these issues. However, these theories have gone untested primarily due to a lack of field data concerning important environmental variables. In this study, a multiperiod model of lowballing and independence is developed and tested in laboratory markets via the ex",
+  "journal": "Contemporary Accounting Research",
+  "techs": "lowball"
+ },
+ {
+  "i": 475,
+  "id": "doi:10.31234/osf.io/6ytq7_v2",
+  "score": "0.5125",
+  "year": "",
+  "title": "Mindset to Gain? Framing Effects, Need for Chaos, and the Limits of \"Burning It All Down\"",
+  "abstract": "Emerging scholarship suggests that willingness to engage in violent or other risky behavior relates to Need for Chaos--a trait-state combination reflecting disaffection with society and politics, independent of political identity and beliefs. While previous research links Need for Chaos to a stronger gain-seeking mentality, it remains unclear whether those higher in Need for Chaos respond differently to gain and loss frames. We use a framing expe",
+  "journal": "",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 476,
+  "id": "doi:10.3389/fpsyg.2021.568212",
+  "score": "0.4875",
+  "year": "2021",
+  "title": "Framing Messages to Deal With the COVID-19 Crisis: The Role of Loss/Gain Frames and Content",
+  "abstract": "The goal of this study was to test the role of message framing for effective communication of self-care behaviors in the context of the COVID-19 pandemic, contrasting health and economic-focused messages. We presented 319 participants with an unforced choice task where they had to select the message that they believed was more effective to increase intentions toward self-care behaviors, motivate self-care behaviors in others, increase perceived r",
+  "journal": "Frontiers in Psychology",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 477,
+  "id": "openalex:W2462828809",
+  "score": "0.4875",
+  "year": "2016",
+  "title": "A meta-analysis of the effectiveness of the low-ball compliance-gaining procedure",
+  "abstract": "",
+  "journal": "European Review of Applied Psychology",
+  "techs": "lowball"
+ },
+ {
+  "i": 478,
+  "id": "openalex:W2057777359",
+  "score": "0.4875",
+  "year": "2007",
+  "title": "Using message framing to promote acceptance of the human papillomavirus vaccine.",
+  "abstract": "OBJECTIVE: Use of message framing for encouraging vaccination, an increasingly common preventive health behavior, has received little empirical investigation. The authors examined the relative effectiveness of gain-versus loss-framed messages in promoting acceptance of a vaccine against human papillomavirus (HPV)-a virus responsible for virtually all cases of cervical cancer. DESIGN: Undergraduate women (N = 121) were randomly assigned to read a ",
+  "journal": "Health Psychology",
+  "techs": "gain-framing;loss-framing"
+ },
+ {
+  "i": 479,
+  "id": "openalex:W2049264736",
+  "score": "0.4875",
+  "year": "2007",
+  "title": "The role of message framing in promoting MMR vaccination: Evidence of a loss-frame advantage",
+  "abstract": "This study examined the effects of message framing on intentions to obtain the measles, mumps and rubella (MMR) vaccine for one's child and investigated whether Theory of Planned Behaviour (TPB) and perceived outcome efficacy variables mediate and/or moderate message framing effects. One hundred and forty women read either a loss-framed or gain-framed message and then completed measures assessing their intentions to obtain the MMR vaccine for the",
+  "journal": "Psychology Health & Medicine",
+  "techs": "gain-framing;loss-framing"
+ },
+ {
+  "i": 480,
+  "id": "openalex:W2116903854",
+  "score": "0.4875",
+  "year": "2003",
+  "title": "Need for Cognition Moderates Responses to Framed Smoking‐Cessation Messages<sup>1</sup>",
+  "abstract": "Smoking‐cessation messages usually emphasize the costs of continuing to smoke (loss‐framed). However, prospect theory suggests that messages that instead emphasize the benefits of quitting smoking (gain‐framed) could be more effective than loss‐framed messages because smoking cessation is likely viewed as a cancer‐prevention behavior with a certain rather than a risky outcome. In this study, smokers at public events read brochures containing brie",
+  "journal": "Journal of Applied Social Psychology",
+  "techs": "gain-framing;loss-framing"
+ },
+ {
+  "i": 481,
+  "id": "openalex:W2113712671",
+  "score": "0.4875",
+  "year": "2001",
+  "title": "Visual and Auditory Message Framing Effects on Tobacco Smoking<sup>1</sup>",
+  "abstract": "Persuasive health messages can be framed to emphasize the benefits of adopting a health behavior (gains) or the risks of not adopting it (losses). This study examined the effects of message framing on beliefs, attitudes, and behaviors relevant to cigarette smoking. In video presentations about tobacco smoking, visual images and auditory voiceover content were framed either as gains or losses, yielding 4 message conditions. Undergraduates ( N = 43",
+  "journal": "Journal of Applied Social Psychology",
+  "techs": "gain-framing;loss-framing"
+ },
+ {
+  "i": 482,
+  "id": "doi:10.2466/pr0.1977.41.3.924",
+  "score": "0.4875",
+  "year": "1977",
+  "title": "Inducing Compliance via Door-in-the-Face and Legitimization of Paltry Contributions",
+  "abstract": "",
+  "journal": "Psychological Reports",
+  "techs": "ditf"
+ },
+ {
+  "i": 483,
+  "id": "doi:10.1080/10410236.2026.2656475",
+  "score": "0.4875",
+  "year": "2026",
+  "title": "Promoting Continued Exercise with Visual Gain Framing: A Replicable Positive-Emotion Pathway and the Conditional Role of Self-Perceived Attractiveness",
+  "abstract": "",
+  "journal": "Health Communication",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 484,
+  "id": "doi:10.7222/marketing.2026.008",
+  "score": "0.4875",
+  "year": "2026",
+  "title": "Regulatory Fit and Regulatory Mode Fit in Marketing Research: マーケティング研究における制御適合，制御モード適合",
+  "abstract": "",
+  "journal": "Quarterly Journal of Marketing",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 485,
+  "id": "doi:10.20879/acr.2022.19.2.70",
+  "score": "0.4875",
+  "year": "2022",
+  "title": "The Effects of Gain-Loss Framing and Message Sidedness on GMO Acceptance: The Mediating Role of Psychological Reactance",
+  "abstract": "",
+  "journal": "Asian Communication Research",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 486,
+  "id": "doi:10.20879/acr.2022.19.2.37",
+  "score": "0.4875",
+  "year": "2022",
+  "title": "The Effects of Gain-Loss Framing and Message Sidedness on GMO Acceptance: The Mediating Role of Psychological Reactance",
+  "abstract": "",
+  "journal": "Asian Communication Research",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 487,
+  "id": "pmid:34110850",
+  "score": "0.4875",
+  "year": "2022",
+  "title": "Trapped by a first hypothesis: How rudeness leads to anchoring.",
+  "abstract": "",
+  "journal": "The Journal of applied psychology",
+  "techs": "extreme-anchor"
+ },
+ {
+  "i": 488,
+  "id": "pmid:34145607",
+  "score": "0.4875",
+  "year": "2022",
+  "title": "I'll scratch your back if you give me a compliment: Exploring psychological mechanisms underlying compliments' effects on compliance.",
+  "abstract": "",
+  "journal": "The British journal of social psychology",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 489,
+  "id": "openalex:W3131568389",
+  "score": "0.4875",
+  "year": "2020",
+  "title": "Communications with Customers in the Service Industry: A Case of Service Sales Manual Development",
+  "abstract": "Objectives: This study aims to introduce a development case of empirical service manuals utilized by service corporations and help service managers and leaders for their future effective management on moment of truth (MOT). Methods: In order to develop a duty-free service manual, the 2019 MOT monitoring evaluation, customer satisfaction survey, voice of customers, and a previous service manual developed in 2013 were analyzed. The requirements of ",
+  "journal": "Business Communication Research and Practice",
+  "techs": "feel-felt-found"
+ },
+ {
+  "i": 490,
+  "id": "openalex:W3136596437",
+  "score": "0.4875",
+  "year": "2020",
+  "title": "Harbingers of foul play: A field study of gain/loss frames and regulatory fit in the NFL",
+  "abstract": "Abstract Do people cheat more when they have something to gain, or when they have something to lose? The answer to this question isn’t straightforward, as research is mixed when it comes to understanding how unethical people will be when they might acquire something good versus avoid something bad. To wit, research has found that people cheat more in a loss (vs. gain) frame, yet research on regulatory focus has found that people cheat more in a p",
+  "journal": "Judgment and Decision Making",
+  "techs": "regulatory-fit"
+ },
+ {
+  "i": 491,
+  "id": "pmid:30526080",
+  "score": "0.4875",
+  "year": "2020",
+  "title": "The Interplay between Framing and Regulatory Focus in Processing Narratives about HPV Vaccination in Singapore.",
+  "abstract": "",
+  "journal": "Health communication",
+  "techs": "loss-framing"
+ },
+ {
+  "i": 492,
+  "id": "openalex:W3195167199",
+  "score": "0.4875",
+  "year": "2019",
+  "title": "The Four C's of Customer Service Promulgating the Efficacy of Small-Scale Cement Industries' Products",
+  "abstract": "Customer service remains the centric attention of every business organisation in the contemporary world. The businesses try and work very hard to impart the varied customer services to distinguish themselves from other business organisations. Every business holds a different position when talking about customer services they are providing as per the customers’ perspectives. The present study impresses as it pays attention to the different C’s ado",
+  "journal": "International Journal of Marketing and Business Co",
+  "techs": "commitment-consistency"
+ },
+ {
+  "i": 493,
+  "id": "openalex:W2911880351",
+  "score": "0.4875",
+  "year": "2019",
+  "title": "When a Personal HPV Story on a Blog Influences Perceived Social Norms: The Roles of Personal Experience, Framing, Perceived Similarity, and Social Media Metrics",
+  "abstract": "= 220) were recruited to read a blogger's story in either a gain-frame (the blogger received the HPV vaccine and, thus, prevented cancer) or a loss-frame (the blogger did not receive the vaccine and, thus, developed cancer) with either high or low social media metrics. Participants reported that they were more similar with the blogger in the gain-framed story than the one in the loss-framed story, especially among those who have received the HPV.",
+  "journal": "Health Communication",
+  "techs": "gain-framing"
+ },
+ {
+  "i": 494,
+  "id": "openalex:W2966946515",
+  "score": "0.4875",
+  "year": "2019",
+  "title": "Loss framing increases self-serving mistakes (but does not alter attention)",
+  "abstract": "",
+  "journal": "Journal of Experimental Social Psychology",
+  "techs": "loss-framing"
+ },
+ {
+  "i": 495,
+  "id": "openalex:W2967107037",
+  "score": "0.4875",
+  "year": "2019",
+  "title": "Cheating among children: Temptation, loss framing, and previous cheating",
+  "abstract": "Abstract Although early economic approaches to misbehavior merely compare the monetary utility of accessible options, self‐concept maintenance models introduce moral considerations to the equation. These assume that people trade off possible gains to be made from moral transgressions with associated decreases in self‐esteem. On the basis of the assumption that the development of moral values among children is weaker than in adults, we expected ch",
+  "journal": "Journal of Behavioral Decision Making",
+  "techs": "loss-framing"
+ },
+ {
+  "i": 496,
+  "id": "openalex:W2891953272",
+  "score": "0.4875",
+  "year": "2018",
+  "title": "The effects of scarcity on consumer decision journeys",
+  "abstract": "",
+  "journal": "Journal of the Academy of Marketing Science",
+  "techs": "scarcity"
+ },
+ {
+  "i": 497,
+  "id": "openalex:W2529428667",
+  "score": "0.4875",
+  "year": "2018",
+  "title": "A Self‐Regulatory Model of Resource Scarcity",
+  "abstract": "Academics have shown a growing interest in the effects of resource scarcity—a discrepancy between one's current resource levels and a higher, more desirable reference point. However, the existing literature lacks an overarching theory to explain the breadth of findings across different types of resources. To address this, we introduce a self‐regulatory model of resource scarcity. In it, we propose that consumers respond to resource scarcity throu",
+  "journal": "Journal of Consumer Psychology",
+  "techs": "scarcity"
+ },
+ {
+  "i": 498,
+  "id": "pmid:29265825",
+  "score": "0.4875",
+  "year": "2018",
+  "title": "Beyond reciprocity: A conservation of resources view on the effects of psychological contract violation on third parties.",
+  "abstract": "",
+  "journal": "The Journal of applied psychology",
+  "techs": "reciprocity"
+ },
+ {
+  "i": 499,
+  "id": "doi:10.1037/xge0000311.supp",
+  "score": "0.4875",
+  "year": "2017",
+  "title": "Supplemental Material for When Good Is Stickier Than Bad: Understanding Gain/Loss Asymmetries in Sequential Framing Effects",
+  "abstract": "",
+  "journal": "Journal of Experimental Psychology: General",
+  "techs": "gain-framing"
+ }
+]
