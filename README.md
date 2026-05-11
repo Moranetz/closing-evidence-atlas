@@ -102,13 +102,21 @@ Whether the dominant academic techniques produce real, replicable effects after 
 
 ## The best entry points
 
-If you are new to the repo:
+### For CROs, VPs of Sales, and commercial reviewers
 
-- [PROTOCOL.md](PROTOCOL.md) — the pre-registered systematic-review protocol. Methodologically binding before any data was touched.
+- **[manuscript/cro_summary.md](manuscript/cro_summary.md)** — 5-minute read framed for the conversation, not the paper. Headline finding · what the audit found · what it means for your team's training · honest caveats.
+
+### For methodological reviewers
+
+- **[manuscript/osf_registration.md](manuscript/osf_registration.md)** — OSF Standard Pre-Registration template, ready for paste-in submission.
+- [PROTOCOL.md](PROTOCOL.md) — the pre-registered systematic-review protocol (academic narrative). Methodologically binding before any data was touched.
 - [PROTOCOL_DEVIATIONS.md](PROTOCOL_DEVIATIONS.md) — every change to the protocol after Atlas-G0 sign-off, with empirical justification.
-- [taxonomy/techniques.md](taxonomy/techniques.md) — the 39-technique cataloged taxonomy.
-- [results/stage1_survivor_report.md](results/stage1_survivor_report.md) — the per-technique Stage-1 evidence-base summary. **Read this first to understand the headline finding.**
 - [analysis/statistical_plan.md](analysis/statistical_plan.md) — Bayesian random-effects model specification + multiverse design (Phase 3).
+
+### For everyone
+
+- [taxonomy/techniques.md](taxonomy/techniques.md) — the 39-technique cataloged taxonomy with practitioner sources.
+- [results/stage1_survivor_report.md](results/stage1_survivor_report.md) — the per-technique Stage-1 evidence-base summary. **Read this first to understand the headline finding.**
 - [search/strategy.md](search/strategy.md), [search/inclusion_criteria.md](search/inclusion_criteria.md), [search/extraction_form.md](search/extraction_form.md) — the binding methodological scaffold.
 - [PLAN.md](PLAN.md) — the project ultraplan with phase breakdown.
 
