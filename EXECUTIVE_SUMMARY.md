@@ -1,6 +1,6 @@
 # Executive Summary
 
-A pre-registered empirical audit of sales-closing techniques. Phase 1 (Stage-1 screening) complete. Phase 2 (extraction) at 19 records — **gain-framing (k=10) and loss-framing (k=8) now cleanly above the k≥5 Phase 3 meta-analysis threshold.** Phase 3 (Bayesian meta-analysis) pilot complete on importance-sampled posteriors; production R/brms run pending Marion-action on R/brms/cmdstanr install.
+A pre-registered empirical audit of sales-closing techniques. Phase 1 (Stage-1 screening) complete. Phase 2 (extraction) at 19 records — gain-framing (k=10 included, k=6 meta-eligible) and loss-framing (k=8 included, k=5 meta-eligible) now above the k≥5 Phase 3 threshold. **Phase 3 pilot rerun on 19 records produces first preprint-shippable posteriors:** gain-framing μ=0.501, 95% CrI [0.251, 0.733], P(μ>0)=0.999; loss-framing μ=0.343, 95% CrI [0.237, 0.448], P(μ>0)=1.000. Both clear the d=0.2 practical-significance threshold with >98% posterior probability. Production R/brms run pending Marion-action on R/brms/cmdstanr install.
 
 ## The premise
 

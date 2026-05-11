@@ -2,7 +2,7 @@
 
 > A pre-registered systematic review and Bayesian meta-analysis of sales-closing techniques. The empirical foundation of the **Closer Foundation** research program.
 
-**Status:** Phase 1 (Stage-1 screening) complete. Phase 2 (full-text extraction) at 19 records — **gain-framing now at k=10 and loss-framing at k=8**, both above the k≥5 Phase 3 meta-analysis threshold. Phase 3 pilot complete on importance-sampled posteriors; production R/brms run pending Marion-action. This README will be revised with verified Bayesian effect-size receipts after Atlas-G2.
+**Status:** Phase 1 (Stage-1 screening) complete. Phase 2 (full-text extraction) at 19 records — gain-framing at k=10 inclusion / k=6 meta-eligible, loss-framing at k=8 inclusion / k=5 meta-eligible, both above the k≥5 Phase 3 threshold. **Phase 3 pilot rerun on 19 records produces first preprint-shippable per-technique posteriors:** see § Phase 3 pilot below. Production R/brms run pending Marion-action. This README will be revised with verified Stan-MCMC receipts after Atlas-G2.
 
 ---
 
@@ -25,18 +25,23 @@ The pipeline decomposes the audit into named primitives:
 - **Meta-analysis.** Bayesian random-effects per technique (`brms` + Stan, weakly-informative priors). Publication-bias diagnostics (funnel plot, Egger's test, p-curve, three-parameter selection, PET-PEESE). Multiverse-specification robustness across 486 reasonable analytical decisions per technique.
 - **Survivor classification.** Five pre-registered criteria: ≥5 eligible studies, 95% CrI excluding zero, ≥80% multiverse-specifications excluding zero, practical-significance under PET-PEESE adjustment, independence from commercial-interest funding.
 
-## Phase 3 pilot — first Bayesian posterior estimates (very preliminary)
+## Phase 3 pilot — first Bayesian posterior estimates (rerun on 19-record extraction)
 
-A pure-stdlib pilot of the random-effects Bayesian pipeline (`scripts/pilot_meta_analysis.py`) ran on the original 9-record Phase 2 extraction. With approximate η² → d and F → d conversions and `k=2` per technique, the posteriors are wide but real:
+A pure-stdlib pilot of the random-effects Bayesian pipeline (`scripts/pilot_meta_analysis.py`) ran on the 19-record Phase 2 extraction. With approximate η² → d, F → d, t → r → d, and log-OR → d conversions (Cox-Hasselblad / Chinn 2000), the posteriors are:
 
-| Technique | k | μ median | 95% CrI | P(μ > 0) | P(μ > 0.2) |
-| --- | ---: | ---: | --- | ---: | ---: |
-| `extreme-anchor` | 2 | 0.439 | [0.043, 0.723] | 0.98 | 0.92 |
-| `gain-framing` | 2 | 0.539 | [−0.200, 1.053] | 0.93 | 0.84 |
+| Technique | k (meta) | μ median | 95% CrI | τ | P(μ > 0) | P(μ > 0.2) |
+| --- | ---: | ---: | --- | ---: | ---: | ---: |
+| `gain-framing` | 6 | **0.501** | [0.251, 0.733] | 0.357 | 0.999 | 0.989 |
+| `loss-framing` | 5 | **0.343** | [0.237, 0.448] | 0.060 | 1.000 | 0.992 |
+| `extreme-anchor` | 2 | 0.439 | [0.043, 0.723] | 0.272 | 0.982 | 0.917 |
 
-**Phase 2 has since scaled to 19 records via the MDPI + APA-OA expansion.** Per-technique k counts are now: gain-framing 10, loss-framing 8, extreme-anchor 3, concrete-construal 3, social-proof 3. The next-iteration Phase 3 pilot will rerun with the expanded data; both framing techniques now have enough records to support per-technique posteriors that can be reported alongside the Stage-1 finding without the k=2 caveat.
+Both framing techniques have credible intervals that cleanly exclude zero AND exceed the d=0.2 practical-significance threshold with very high probability. The first preprint-shippable per-technique posteriors from the Atlas pipeline.
 
-These are pilot-stage demonstrations of the full pipeline running end-to-end on real extracted data. The R/brms scripts in `analysis/` produce protocol-conformant Stan-MCMC inference when R + brms + cmdstanr is installed and Phase 2 has scaled to 30-100 records per technique.
+**Why "k (meta)" differs from inclusion-count.** The technique-taxonomy-id column lists gain-framing across 10 extracted records and loss-framing across 8, but only 6 and 5 (respectively) have effect-size metrics the importance-sampler can convert to approximate Cohen's d. The remainder are skipped — abstract-only OA records, narrative-synthesis review entries, descriptive-statistics rows without inference, and one percent-change metric from a commercial field deployment with no statistical inference attached.
+
+The original 9-record pilot returned gain-framing μ=0.539, 95% CrI [−0.200, 1.053], P(μ>0)=0.93 at k=2 — wide and weakly identifying zero-exclusion. The 19-record rerun tightens that to μ=0.501, 95% CrI [0.251, 0.733], P(μ>0)=0.999 at k=6. The Bayesian update is exactly the expected shape — more data, tighter posterior, same direction, point estimate stable across the update.
+
+These are still pilot-stage demonstrations using importance sampling and rough effect-size conversions. The R/brms scripts in `analysis/` produce protocol-conformant Stan-MCMC inference using `metafor::escalc` for canonical effect-size conversions, weakly-informative Cauchy priors on τ, and 4-chain × 4000-iteration NUTS sampling. Production preprint analysis runs after R + brms + cmdstanr install.
 
 ## The current empirical landscape (Stage-1)
 

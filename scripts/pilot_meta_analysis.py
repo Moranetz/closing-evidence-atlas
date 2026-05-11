@@ -78,9 +78,12 @@ def approximate_d(r: dict) -> tuple[float | None, float | None]:
     Conversion formulas (rough; full Phase 3 uses metafor::escalc):
       - η² (partial) → d ≈ 2*sqrt(η²/(1-η²))                 [Cohen 1988]
       - F(1, df_within) → η²_p = F / (F + df_within) → d
+      - F-df1-df2 metric label (df encoded in metric) → η²_p → d
+      - t-statistic + df → r → d  [Rosenthal 1991]
       - β-standardized + t-statistic + df → r → Fisher z → d
       - Unstandardized β (VAS scale) → too domain-specific, skip
       - Raw mean difference + SD → d = (M1 - M2) / SD_pooled
+      - Adjusted-OR + CI → log-OR with SE from CI, then d = log-OR × sqrt(3)/π
       - Anchoring index → not standardizable; skip
     """
     metric = (r.get("effect_size_metric") or "").lower()
@@ -110,21 +113,71 @@ def approximate_d(r: dict) -> tuple[float | None, float | None]:
         se = math.sqrt(4.0 / n + (d * d) / (2.0 * n))
         return d, se
 
-    if "f-statistic" in metric:
-        # Parse the largest F value
+    # F-statistic — handle two metric-label conventions:
+    #   "f-statistic..." with F(df1,df2)=val in value field, OR
+    #   "f-N-M" where the df-within is encoded directly in the metric label
+    f_metric_match = re.match(r"f-?(\d+)-?(\d+)", metric)
+    if "f-statistic" in metric or f_metric_match:
+        # Try to extract F value from the value field (with or without F() syntax)
         f_matches = re.findall(r"F\s*\([^)]*\)\s*=\s*([\d.]+)", val)
         if not f_matches:
             f_matches = re.findall(r"=\s*([\d.]+)", val)
-        if not f_matches:
+        if not f_matches and v is not None:
+            f = v
+        elif f_matches:
+            f = float(f_matches[0])
+        else:
             return None, None
-        f = float(f_matches[0])
-        # Assume df_within ≈ n - groups (rough; ideally extract df from string)
-        df_within = max(n - 2, 1)
+        # df_within: from the metric label if encoded ("f-1-235"), else
+        # fall back to (n - groups). Default to df_within = max(n-2, 1).
+        if f_metric_match:
+            df_within = max(int(f_metric_match.group(2)), 1)
+        else:
+            df_within = max(n - 2, 1)
         eta2_p = f / (f + df_within)
-        if eta2_p >= 1.0:
+        if eta2_p >= 1.0 or eta2_p <= 0:
             return None, None
         d = 2.0 * math.sqrt(eta2_p / (1.0 - eta2_p))
+        # Cap implausibly large d at 5.0 — beyond that we're certainly seeing
+        # reporting artifact, not a real effect size.
+        if d > 5.0:
+            return None, None
         se = math.sqrt(4.0 / n + (d * d) / (2.0 * n))
+        return d, se
+
+    if "t-statistic" in metric:
+        # Two-sample t: convert via r = t / sqrt(t^2 + df), then d = 2r/sqrt(1-r²)
+        if v is None:
+            return None, None
+        t = abs(v)
+        df = max(n - 2, 1)
+        r_val = t / math.sqrt(t * t + df)
+        if abs(r_val) >= 1.0:
+            return None, None
+        d = 2.0 * r_val / math.sqrt(1.0 - r_val * r_val)
+        if d > 5.0:
+            return None, None
+        se = math.sqrt(4.0 / n + (d * d) / (2.0 * n))
+        return d, se
+
+    if "odds-ratio" in metric or "log-odds-ratio" in metric:
+        # OR + 95% CI bounds → log-OR with SE from CI; then d ≈ log-OR × sqrt(3)/π
+        if v is None or v <= 0:
+            return None, None
+        ci_lower_raw = (r.get("effect_size_ci_lower") or "").strip()
+        ci_upper_raw = (r.get("effect_size_ci_upper") or "").strip()
+        try:
+            ci_lower = float(ci_lower_raw)
+            ci_upper = float(ci_upper_raw)
+        except ValueError:
+            return None, None
+        if ci_lower <= 0 or ci_upper <= 0:
+            return None, None
+        log_or = math.log(v)
+        se_log_or = (math.log(ci_upper) - math.log(ci_lower)) / (2.0 * 1.96)
+        # Cox-Hasselblad (1989) / Chinn (2000) conversion
+        d = log_or * math.sqrt(3.0) / math.pi
+        se = se_log_or * math.sqrt(3.0) / math.pi
         return d, se
 
     if "standardized-beta" in metric or "beta" in metric and "unstand" not in metric:
