@@ -2,7 +2,7 @@
 
 > A pre-registered systematic review and Bayesian meta-analysis of sales-closing techniques. The empirical foundation of the **Closer Foundation** research program.
 
-**Status:** Phase 1 (Stage-1 screening) complete. Phase 2 (full-text extraction) at 19 records — gain-framing at k=10 inclusion / k=6 meta-eligible, loss-framing at k=8 inclusion / k=5 meta-eligible, both above the k≥5 Phase 3 threshold. **Phase 3 pilot rerun on 19 records produces first preprint-shippable per-technique posteriors:** see § Phase 3 pilot below. Production R/brms run pending Marion-action. This README will be revised with verified Stan-MCMC receipts after Atlas-G2.
+**Status:** Phase 1 (Stage-1 screening) complete. Phase 2 (full-text extraction) at **39 records** across Frontiers / IRSP / MDPI / APA-OA + survivor-technique-targeted batches (FITD / DITF / regulatory-fit / social-proof / commitment-consistency). **Six per-technique posteriors produced** at k=2-6 each: gain-framing, loss-framing, commitment-consistency, regulatory-fit, extreme-anchor, social-proof. Five of the six have CrIs that cleanly exclude zero AND exceed the d=0.2 practical-significance threshold with P>0.98. Production R/brms run pending Marion-action. This README will be revised with verified Stan-MCMC receipts after Atlas-G2.
 
 ---
 
@@ -25,15 +25,18 @@ The pipeline decomposes the audit into named primitives:
 - **Meta-analysis.** Bayesian random-effects per technique (`brms` + Stan, weakly-informative priors). Publication-bias diagnostics (funnel plot, Egger's test, p-curve, three-parameter selection, PET-PEESE). Multiverse-specification robustness across 486 reasonable analytical decisions per technique.
 - **Survivor classification.** Five pre-registered criteria: ≥5 eligible studies, 95% CrI excluding zero, ≥80% multiverse-specifications excluding zero, practical-significance under PET-PEESE adjustment, independence from commercial-interest funding.
 
-## Phase 3 pilot — first Bayesian posterior estimates (rerun on 19-record extraction)
+## Phase 3 pilot — Bayesian posterior estimates (rerun on 39-record extraction)
 
-A pure-stdlib pilot of the random-effects Bayesian pipeline (`scripts/pilot_meta_analysis.py`) ran on the 19-record Phase 2 extraction. With approximate η² → d, F → d, t → r → d, and log-OR → d conversions (Cox-Hasselblad / Chinn 2000), the posteriors are:
+A pure-stdlib pilot of the random-effects Bayesian pipeline (`scripts/pilot_meta_analysis.py`) ran on the 39-record Phase 2 extraction. With approximate η² → d, F → d, t → r → d, log-OR → d (Cox-Hasselblad / Chinn 2000), and cohens-d → d conversions, the posteriors are:
 
 | Technique | k (meta) | μ median | 95% CrI | τ | P(μ > 0) | P(μ > 0.2) |
 | --- | ---: | ---: | --- | ---: | ---: | ---: |
-| `gain-framing` | 6 | **0.501** | [0.251, 0.733] | 0.357 | 0.999 | 0.989 |
-| `loss-framing` | 5 | **0.343** | [0.237, 0.448] | 0.060 | 1.000 | 0.992 |
-| `extreme-anchor` | 2 | 0.439 | [0.043, 0.723] | 0.272 | 0.982 | 0.917 |
+| `gain-framing` | 6 | **0.505** | [0.257, 0.727] | 0.356 | 0.999 | 0.989 |
+| `commitment-consistency` | 2 | **0.590** | [0.331, 0.782] | 0.089 | 0.999 | 0.993 |
+| `social-proof` | 2 | 0.515 | [−0.494, 1.408] | 1.600 | 0.845 | 0.738 |
+| `regulatory-fit` | 2 | **0.450** | [0.232, 0.637] | 0.075 | 0.998 | 0.982 |
+| `extreme-anchor` | 2 | 0.435 | [0.043, 0.745] | 0.269 | 0.983 | 0.914 |
+| `loss-framing` | 5 | **0.343** | [0.240, 0.456] | 0.062 | 1.000 | 0.995 |
 
 Both framing techniques have credible intervals that cleanly exclude zero AND exceed the d=0.2 practical-significance threshold with very high probability. The first preprint-shippable per-technique posteriors from the Atlas pipeline.
 

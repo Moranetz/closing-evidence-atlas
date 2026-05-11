@@ -160,6 +160,15 @@ def approximate_d(r: dict) -> tuple[float | None, float | None]:
         se = math.sqrt(4.0 / n + (d * d) / (2.0 * n))
         return d, se
 
+    if "cohens-d" in metric or "cohen-d" in metric or metric == "d":
+        if v is None:
+            return None, None
+        d = v
+        if abs(d) > 5.0:
+            return None, None
+        se = math.sqrt(4.0 / n + (d * d) / (2.0 * n))
+        return d, se
+
     if "odds-ratio" in metric or "log-odds-ratio" in metric:
         # OR + 95% CI bounds → log-OR with SE from CI; then d ≈ log-OR × sqrt(3)/π
         if v is None or v <= 0:

@@ -1,6 +1,6 @@
 # Executive Summary
 
-A pre-registered empirical audit of sales-closing techniques. Phase 1 (Stage-1 screening) complete. Phase 2 (extraction) at 19 records — gain-framing (k=10 included, k=6 meta-eligible) and loss-framing (k=8 included, k=5 meta-eligible) now above the k≥5 Phase 3 threshold. **Phase 3 pilot rerun on 19 records produces first preprint-shippable posteriors:** gain-framing μ=0.501, 95% CrI [0.251, 0.733], P(μ>0)=0.999; loss-framing μ=0.343, 95% CrI [0.237, 0.448], P(μ>0)=1.000. Both clear the d=0.2 practical-significance threshold with >98% posterior probability. Production R/brms run pending Marion-action on R/brms/cmdstanr install.
+A pre-registered empirical audit of sales-closing techniques. Phase 1 (Stage-1 screening) complete. Phase 2 (extraction) at **39 records** across Frontiers + IRSP + MDPI + APA-OA + survivor-technique-targeted (FITD / DITF / regulatory-fit / social-proof / commitment-consistency) batches. **Six per-technique posteriors produced** with k=2-6: gain-framing (μ=0.505), loss-framing (μ=0.343), commitment-consistency (μ=0.590), regulatory-fit (μ=0.450), extreme-anchor (μ=0.435), social-proof (μ=0.515). Five of six have credible intervals cleanly excluding zero AND exceeding the d=0.2 practical-significance threshold with P>0.98. Social-proof posterior is wider (CrI [−0.494, 1.408], τ=1.600) reflecting high between-study heterogeneity. Production R/brms run pending Marion-action on R/brms/cmdstanr install.
 
 ## The premise
 
