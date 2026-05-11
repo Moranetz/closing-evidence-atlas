@@ -1,6 +1,6 @@
 # Executive Summary
 
-A pre-registered empirical audit of sales-closing techniques. Phase 1 (Stage-1 screening) complete; Phase 2 (extraction) and Phase 3 (Bayesian meta-analysis) pending.
+A pre-registered empirical audit of sales-closing techniques. Phase 1 (Stage-1 screening) complete. Phase 2 (extraction) at 19 records — **gain-framing (k=10) and loss-framing (k=8) now cleanly above the k≥5 Phase 3 meta-analysis threshold.** Phase 3 (Bayesian meta-analysis) pilot complete on importance-sampled posteriors; production R/brms run pending Marion-action on R/brms/cmdstanr install.
 
 ## The premise
 
@@ -43,7 +43,7 @@ A practitioner who reads the academic literature on closing will encounter a dif
 
 ## What Phase 2 and Phase 3 will produce
 
-- Phase 2 — extract effect size, sample size, design, technique-taxonomy mapping, and risk-of-bias rating for each Stage-2-passing study. Expected ~115–230 final included studies after Stage-2 attrition.
+- Phase 2 — extract effect size, sample size, design, technique-taxonomy mapping, and risk-of-bias rating for each Stage-2-passing study. **Status: 19 records extracted (Frontiers + IRSP + MDPI + APA-OA subsets).** Per-technique k counts: gain-framing 10, loss-framing 8, extreme-anchor 3, concrete-construal 3, social-proof 3, regulatory-fit 1, plus 6 techniques at k=1 from one multi-technique extraction (atlas-011). Expected ~115–230 final included studies after Stage-2 attrition.
 - Phase 3 — per-technique Bayesian random-effects meta-analysis with weakly-informative priors, multiverse-specification robustness across 486 reasonable analytical decisions, publication-bias diagnostics (funnel plot, Egger, p-curve, three-parameter selection model, PET-PEESE).
 - Phase 4 — survivor classification across five pre-registered criteria. The output is a credibility-weighted-survivor list with effect-size estimates, posterior intervals, and explicit flagging of selection-fragile techniques.
 

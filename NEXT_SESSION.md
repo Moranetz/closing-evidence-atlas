@@ -2,7 +2,35 @@
 
 > What the next session of work on `closing-evidence-atlas` should pick up. Cross-session continuity rule from `~/.claude/projects/-Users-marion/memory/closer_foundation_program.md`.
 
-**Last session ended:** 2026-05-10 — Phase 1.1, 1.2, 1.3, and 1.6 (partial) complete; Phase 1.4 (screening) is next.
+**Repo is now public:** https://github.com/Moranetz/closing-evidence-atlas (made public 2026-05-10).
+
+## Most-recent session (2026-05-10, evening) — Phase 2 expansion
+
+**Goal:** Scale Phase 2 extraction from 9 → ~20 records on the MDPI + APA-OA subset (Option 1 of the post-Frontiers-OA-exhaustion menu). **Completed.**
+
+**Result.** 10 additional rows added (`atlas-010` through `atlas-019`):
+- **8 primary-study extractions** (atlas-010 to atlas-015, atlas-018, atlas-019)
+- **1 discovered systematic review** (atlas-017 Covey 2014 — kept with `study_design=systematic-review` flag rather than excluded, for honest cataloging)
+- **1 unable-to-access** (atlas-016 eScholarship was in maintenance mode at fetch time — properly marked unable-to-access per the honesty rule, do NOT silently retry without flagging)
+- **3 candidates pre-flagged as schema-mismatch (systematic reviews / meta-analyses)** and NOT extracted: `10.3390/ijerph9062121` (Covey-adjacent sun-protection meta-analysis), `10.3390/su12229609` (Cause-Related-Marketing systematic review), `10.1037/bul0000005` (Trope two-meta-analyses on construal). These need a separate review-extraction protocol if Marion wants them in the dataset.
+
+**Post-batch per-technique k counts (records eligible for Phase 3 meta-analysis):**
+- `gain-framing`: **k=10** ✅ above k≥5 threshold
+- `loss-framing`: **k=8** ✅ above k≥5 threshold
+- `extreme-anchor`: k=3
+- `concrete-construal`: k=3
+- `social-proof`: k=3
+- `regulatory-fit`: k=1
+- 6 Cialdini techniques at k=1 each from atlas-011 multi-technique extraction
+
+**Methodological notes for the next session:**
+- atlas-011 (Remountakis 2023 hotel-upselling) is flagged `rob_overall=high` because authors are affiliated with the commercial platform whose technology is the intervention — selective-reporting and conflict-of-interest risks are real. Consider whether to include in Phase 3 primary analysis or sensitivity analysis only.
+- atlas-010 (Yu et al. 2025 green advertising) reports F(1,235)=1927.860 — implausibly large given the small effect typical in framing research. Either the manipulation is unusually strong (concrete-vs-abstract message stimuli are dramatically different), the F-statistic is misreported in the paper, or there is publication bias / demand-characteristic inflation. Flag for skeptical review.
+- atlas-014 (Toll 2007 smoking-cessation RCT) is the cleanest primary-study extraction in the new batch — high methodological quality, NIH-funded, ITT analysis reported. Use as the calibration anchor for future RoB judgments in the framing literature.
+
+---
+
+## Previous session ended: 2026-05-10 (morning) — Phase 1.1, 1.2, 1.3, 1.6 (partial) complete; Phase 1.4 (screening) is next.
 
 **Last session goal:** Phase 1.1 (search execution) + 1.2 (dedup) + 1.3 (calibration setup) — **completed**.
 

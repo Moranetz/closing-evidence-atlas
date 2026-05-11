@@ -2,7 +2,7 @@
 
 > A pre-registered systematic review and Bayesian meta-analysis of sales-closing techniques. The empirical foundation of the **Closer Foundation** research program.
 
-**Status:** Phase 1 (Stage-1 screening) complete. Phase 2 (full-text extraction) and Phase 3 (meta-analysis) pending. This README will be revised with verified Bayesian effect-size receipts after Atlas-G2.
+**Status:** Phase 1 (Stage-1 screening) complete. Phase 2 (full-text extraction) at 19 records — **gain-framing now at k=10 and loss-framing at k=8**, both above the k≥5 Phase 3 meta-analysis threshold. Phase 3 pilot complete on importance-sampled posteriors; production R/brms run pending Marion-action. This README will be revised with verified Bayesian effect-size receipts after Atlas-G2.
 
 ---
 
@@ -27,12 +27,14 @@ The pipeline decomposes the audit into named primitives:
 
 ## Phase 3 pilot — first Bayesian posterior estimates (very preliminary)
 
-A pure-stdlib pilot of the random-effects Bayesian pipeline (`scripts/pilot_meta_analysis.py`) ran on the 9-record Phase 2 extraction. With approximate η² → d and F → d conversions and `k=2` per technique, the posteriors are wide but real:
+A pure-stdlib pilot of the random-effects Bayesian pipeline (`scripts/pilot_meta_analysis.py`) ran on the original 9-record Phase 2 extraction. With approximate η² → d and F → d conversions and `k=2` per technique, the posteriors are wide but real:
 
 | Technique | k | μ median | 95% CrI | P(μ > 0) | P(μ > 0.2) |
 | --- | ---: | ---: | --- | ---: | ---: |
 | `extreme-anchor` | 2 | 0.439 | [0.043, 0.723] | 0.98 | 0.92 |
 | `gain-framing` | 2 | 0.539 | [−0.200, 1.053] | 0.93 | 0.84 |
+
+**Phase 2 has since scaled to 19 records via the MDPI + APA-OA expansion.** Per-technique k counts are now: gain-framing 10, loss-framing 8, extreme-anchor 3, concrete-construal 3, social-proof 3. The next-iteration Phase 3 pilot will rerun with the expanded data; both framing techniques now have enough records to support per-technique posteriors that can be reported alongside the Stage-1 finding without the k=2 caveat.
 
 These are pilot-stage demonstrations of the full pipeline running end-to-end on real extracted data. The R/brms scripts in `analysis/` produce protocol-conformant Stan-MCMC inference when R + brms + cmdstanr is installed and Phase 2 has scaled to 30-100 records per technique.
 
