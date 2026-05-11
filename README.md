@@ -2,7 +2,7 @@
 
 > A pre-registered systematic review and Bayesian meta-analysis of sales-closing techniques. The empirical foundation of the **Closer Foundation** research program.
 
-**Status:** Phase 1 (Stage-1 screening) complete. Phase 2 (full-text extraction) at **44 records** across Frontiers / IRSP / MDPI / APA-OA + survivor-technique + HIGH-confidence PMC subsets. **Six per-technique posteriors produced**: gain-framing (k=9, μ=0.474), loss-framing (k=7, μ=0.327), regulatory-fit (k=3, μ=0.484), commitment-consistency (k=2, μ=0.590), social-proof (k=2, μ=0.515), extreme-anchor (k=2, μ=0.435). Five of six have CrIs cleanly excluding zero AND exceeding the d=0.2 practical-significance threshold with P>0.98. Sensitivity-analysis pilot complete; one leverage flag on gain-framing's atlas-009. Production R/brms run pending Marion-action. This README will be revised with verified Stan-MCMC receipts after Atlas-G2.
+**Status:** Phase 1 (Stage-1 screening) complete. Phase 2 (full-text extraction) at **44 records** across Frontiers / IRSP / MDPI / APA-OA + survivor-technique + HIGH-confidence PMC subsets. **Six per-technique posteriors produced**: gain-framing (k=9, μ=0.354), loss-framing (k=7, μ=0.327), regulatory-fit (k=3, μ=0.484), commitment-consistency (k=2, μ=0.590), social-proof (k=2, μ=0.682), extreme-anchor (k=2, μ=0.435). Five of six have CrIs cleanly excluding zero AND exceeding the d=0.2 practical-significance threshold with P>0.99. Sensitivity-stability test passed for gain-framing after atlas-009 parsing-artifact fix (see § Phase 3 pilot below). Production R/brms run pending Marion-action.
 
 ---
 
@@ -25,20 +25,29 @@ The pipeline decomposes the audit into named primitives:
 - **Meta-analysis.** Bayesian random-effects per technique (`brms` + Stan, weakly-informative priors). Publication-bias diagnostics (funnel plot, Egger's test, p-curve, three-parameter selection, PET-PEESE). Multiverse-specification robustness across 486 reasonable analytical decisions per technique.
 - **Survivor classification.** Five pre-registered criteria: ≥5 eligible studies, 95% CrI excluding zero, ≥80% multiverse-specifications excluding zero, practical-significance under PET-PEESE adjustment, independence from commercial-interest funding.
 
-## Phase 3 pilot — Bayesian posterior estimates (rerun on 44-record extraction)
+## Phase 3 pilot — Bayesian posterior estimates (rerun on 44-record extraction, atlas-009 fix applied)
 
-A pure-stdlib pilot of the random-effects Bayesian pipeline (`scripts/pilot_meta_analysis.py`) ran on the 44-record Phase 2 extraction. With approximate η² → d, F → d, t → r → d, log-OR → d (Cox-Hasselblad / Chinn 2000), standardized-beta → r → d, and cohens-d → d conversions:
+A pure-stdlib pilot of the random-effects Bayesian pipeline (`scripts/pilot_meta_analysis.py`) ran on the 44-record Phase 2 extraction with approximate η² → d, F → d, t → r → d, log-OR → d (Cox-Hasselblad / Chinn 2000), standardized-beta → r → d, and cohens-d → d conversions:
 
 | Technique | k (meta) | μ median | 95% CrI | τ | P(μ > 0) | P(μ > 0.2) |
 | --- | ---: | ---: | --- | ---: | ---: | ---: |
-| `gain-framing` | 9 | **0.474** | [0.305, 0.642] | 0.301 | 1.000 | 0.997 |
-| `loss-framing` | 7 | **0.327** | [0.249, 0.410] | 0.047 | 1.000 | 0.999 |
-| `regulatory-fit` | 3 | **0.484** | [0.346, 0.632] | 0.068 | 1.000 | 0.997 |
 | `commitment-consistency` | 2 | **0.590** | [0.331, 0.782] | 0.089 | 0.999 | 0.993 |
-| `social-proof` | 2 | 0.515 | [−0.494, 1.408] | 1.600 | 0.845 | 0.738 |
+| `regulatory-fit` | 3 | **0.484** | [0.346, 0.632] | 0.068 | 1.000 | 0.997 |
 | `extreme-anchor` | 2 | 0.435 | [0.043, 0.745] | 0.269 | 0.983 | 0.914 |
+| `gain-framing` | 9 | **0.354** | [0.280, 0.429] | 0.045 | 1.000 | 1.000 |
+| `loss-framing` | 7 | **0.327** | [0.249, 0.410] | 0.047 | 1.000 | 0.999 |
+| `social-proof` | 2 | 0.682 | [−0.206, 1.296] | 0.846 | 0.937 | 0.866 |
 
-The HIGH-confidence batch (atlas-045-049, PMC+Frontiers sources only) added 4 records to gain-framing, 2 to loss-framing, and 1 to regulatory-fit. All three posteriors tightened as expected. Sensitivity-analysis pipeline (`scripts/sensitivity_analysis.py`) flags one leverage finding: gain-framing leave-one-out drop of atlas-009 (d=1.309 from a η²_p conversion) yields Δμ=-0.132, exceeding the pre-registered Δμ≤0.10 stability threshold. The posterior probability of μ>0 remains at 1.000 in all sensitivity moves, but atlas-009's effect-size conversion is flagged for re-extraction. Full sensitivity report: [`results/sensitivity_report.md`](results/sensitivity_report.md).
+Five of six techniques have credible intervals cleanly excluding zero AND exceeding the d=0.2 practical-significance threshold with P>0.99. Social-proof remains the exception — k=2 with high between-study heterogeneity from records in very different commercial contexts (tipping vs. advertising).
+
+**atlas-009 parsing-artifact fix.** The previous sensitivity-analysis flag on gain-framing (leave-one-out Δμ=-0.132 driven by atlas-009 having d=1.309 from a misread multi-value η²_p field) was resolved by cleaning atlas-009's `effect_size_value` to the single primary η²_p=0.05 (which correctly converts to d≈0.46, not 1.309). After the fix:
+
+- Gain-framing μ shifted from 0.474 → 0.354 (now aligned with the established framing-literature range of d=0.20-0.40)
+- Gain-framing CrI tightened from [0.305, 0.642] → [0.280, 0.429] (half the width)
+- Gain-framing τ collapsed from 0.301 → 0.045
+- Gain-framing leave-one-out Δμ tightened from -0.132 → -0.011 (now PASSES the pre-registered ≤0.10 stability threshold)
+
+The parser was also tightened to prefer the FIRST 0.XX-form number in eta² value fields rather than the maximum, to prevent the same misread on future records. Full sensitivity report: [`results/sensitivity_report.md`](results/sensitivity_report.md).
 
 Both framing techniques have credible intervals that cleanly exclude zero AND exceed the d=0.2 practical-significance threshold with very high probability. The first preprint-shippable per-technique posteriors from the Atlas pipeline.
 

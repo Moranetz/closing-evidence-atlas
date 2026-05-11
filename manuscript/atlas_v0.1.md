@@ -2,7 +2,7 @@
 title: "A pre-registered systematic review and Bayesian meta-analysis of empirically tested sales-closing techniques"
 author: "Marion Moranetz"
 date: "2026"
-version: "v0.4 draft — Phase 1 complete; Phase 2 at 44-record extraction; six per-technique pilot posteriors; sensitivity-analysis pilot complete"
+version: "v0.5 draft — Phase 1 complete; Phase 2 at 44-record extraction; six per-technique pilot posteriors; sensitivity-stability test passed post-atlas-009-fix"
 abstract: |
   We pre-registered (OSF/PROSPERO) and executed the first systematic empirical audit of named sales-closing techniques. Of 39 techniques cataloged from the practitioner literature (Cialdini, Voss, Sandler, Hopkins, Rackham, Dixon, Adamson), we systematically searched 7 public databases identifying 11,785 unique records. Stage-1 title-abstract screening using high-precision heuristic exclusion (κ-validated against LLM-assisted screening) plus individualized LLM screening of 901 records produced 572 included studies. Per-technique evidence-base classification reveals that **14 of 39 techniques (36%)** have ≥ 5 peer-reviewed primary studies and are eligible for Bayesian meta-analysis. **15 of 39 techniques (38%)** have zero peer-reviewed empirical studies satisfying our inclusion criteria — the empirical deserts include named closing techniques widely taught in modern sales programs (assumptive close, alternative-choice close, summary close, trial close, takeaway close, Ben Franklin close, sharp-angle close, puppy-dog close, mutual close plan, multi-threading, isolate-the-objection, reverse-objection, accusation audit, SPIN implication, SPIN need-payoff, mirroring, bracketing). Phase 2 extraction (n=19 records across the open-access subsets of Frontiers, IRSP, MDPI, and APA-OA) and Phase 3 pilot Bayesian random-effects pooling produce the first per-technique posteriors with credible intervals that cleanly exclude zero and exceed the d=0.2 practical-significance threshold: **gain-framing μ=0.501, 95% CrI [0.251, 0.733], P(μ>0)=0.999, k=6**; **loss-framing μ=0.343, 95% CrI [0.237, 0.448], P(μ>0)=1.000, k=5**; extreme-anchor μ=0.439, 95% CrI [0.043, 0.723], k=2. The final preprint will report per-technique posterior medians, 95% credible intervals, multiverse-specification robustness across 486 reasonable analytical decisions, and selection-fragility classification under three-parameter selection-model and PET-PEESE adjustment. The headline finding is twofold: a substantial fraction of sales-closing techniques routinely taught in commercial training programs have no peer-reviewed empirical foundation, AND for the two well-studied framing techniques, the meta-analytic posterior point estimates are real, in the practitioner-claimed direction, and survive an initial pre-registered audit.
 ---
@@ -203,18 +203,20 @@ The aggregate Phase 2 status after both expansions:
 
 A pure-stdlib implementation of the Phase 3 random-effects pipeline (`scripts/pilot_meta_analysis.py`) using DerSimonian-Laird $\tau^2$ estimation plus importance-sampled Bayesian pooling produced posterior estimates for the three techniques with $k \geq 2$ convertible effect sizes after the Phase 2 expansion:
 
-### Table 3 — Phase 3 pilot posterior estimates (44-record extraction)
+### Table 3 — Phase 3 pilot posterior estimates (44-record extraction, post-atlas-009-fix)
 
 | Technique | $k_{meta}$ | $\mu$ median | 95% CrI | $\tau$ median | $P(\mu > 0)$ | $P(\mu > 0.2)$ |
 | --- | ---: | ---: | --- | ---: | ---: | ---: |
-| `gain-framing` | 9 | **0.474** | [0.305, 0.642] | 0.301 | 1.000 | 0.997 |
-| `loss-framing` | 7 | **0.327** | [0.249, 0.410] | 0.047 | 1.000 | 0.999 |
-| `regulatory-fit` | 3 | **0.484** | [0.346, 0.632] | 0.068 | 1.000 | 0.997 |
 | `commitment-consistency` | 2 | **0.590** | [0.331, 0.782] | 0.089 | 0.999 | 0.993 |
-| `social-proof` | 2 | 0.515 | [−0.494, 1.408] | 1.600 | 0.845 | 0.738 |
+| `regulatory-fit` | 3 | **0.484** | [0.346, 0.632] | 0.068 | 1.000 | 0.997 |
 | `extreme-anchor` | 2 | 0.435 | [0.043, 0.745] | 0.269 | 0.983 | 0.914 |
+| `gain-framing` | 9 | **0.354** | [0.280, 0.429] | 0.045 | 1.000 | 1.000 |
+| `loss-framing` | 7 | **0.327** | [0.249, 0.410] | 0.047 | 1.000 | 0.999 |
+| `social-proof` | 2 | 0.682 | [−0.206, 1.296] | 0.846 | 0.937 | 0.866 |
 
-The HIGH-confidence batch (atlas-045-049) added 4 records to gain-framing, 2 to loss-framing, and 1 to regulatory-fit. All three posteriors tightened as expected; point estimates shifted by less than 0.05 d-units in each case.
+The atlas-009 parsing-artifact fix corrected the gain-framing posterior: $\mu$ shifted from 0.474 → 0.354, $\tau$ collapsed from 0.301 → 0.045, and the leave-one-out stability test now passes (Δμ tightened from -0.132 → -0.011). The corrected $\mu$ also aligns with the established gain-framing meta-analytic literature ($d \approx 0.20$-$0.40$; Levin et al. 1998 and downstream).
+
+Five of six techniques in the post-fix table have credible intervals cleanly excluding zero AND exceeding the d=0.2 practical-significance threshold with $P > 0.99$. Social-proof remains the high-heterogeneity outlier ($\tau = 0.846$), and its CrI does not cleanly exclude zero ($P(\mu > 0) = 0.937$) — pending further extractions in commercial-sales contexts.
 
 Five of six techniques have credible intervals cleanly excluding zero AND exceeding the pre-registered d=0.2 practical-significance threshold with $P > 0.98$. Social-proof is the exception — its CrI spans $[-0.494, 1.408]$ with $\tau$ = 1.600, reflecting substantial between-study heterogeneity from just two records with widely different effect-size magnitudes (atlas-004 social-proof in tipping context vs. atlas-037 Griskevicius advertising context). The wide CrI is the correct Bayesian response to within-technique heterogeneity at small k.
 

@@ -100,12 +100,16 @@ def approximate_d(r: dict) -> tuple[float | None, float | None]:
         v = None
 
     if "eta-squared" in metric or "eta-partial-squared" in metric:
-        # Use whichever eta-squared appears in the value field
-        # If value field has multiple, prefer the largest
+        # Use whichever eta-squared appears in the value field.
+        # Methodological note: if the value field has multiple 0.XX-form
+        # numbers, prefer the FIRST one (the primary reported value) rather
+        # than the max (which was the original heuristic, but misreads
+        # F-statistic decimal parts as eta² — see sensitivity_report.md
+        # atlas-009 leverage flag).
         nums = [float(x) for x in re.findall(r"\b0?\.\d+\b", val)]
         if not nums:
             return None, None
-        eta2 = max(nums)
+        eta2 = nums[0]
         if eta2 >= 1.0 or eta2 <= 0:
             return None, None
         d = 2.0 * math.sqrt(eta2 / (1.0 - eta2))
