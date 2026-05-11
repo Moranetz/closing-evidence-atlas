@@ -2,9 +2,9 @@
 title: "A pre-registered systematic review and Bayesian meta-analysis of empirically tested sales-closing techniques"
 author: "Marion Moranetz"
 date: "2026"
-version: "v0.1 draft — Phase 1 + Phase 2 pilot complete; Phase 3 pending Phase 2 scale-up"
+version: "v0.2 draft — Phase 1 complete; Phase 2 at 19-record extraction; first-shippable Phase 3 pilot posteriors"
 abstract: |
-  We pre-registered (OSF/PROSPERO) and executed the first systematic empirical audit of named sales-closing techniques. Of 39 techniques cataloged from the practitioner literature (Cialdini, Voss, Sandler, Hopkins, Rackham, Dixon, Adamson), we systematically searched 7 public databases identifying 11,785 unique records. Stage-1 title-abstract screening using high-precision heuristic exclusion (κ-validated against LLM-assisted screening) plus individualized LLM screening of 901 records produced 572 included studies. Per-technique evidence-base classification reveals that **14 of 39 techniques (36%)** have ≥ 5 peer-reviewed primary studies and are eligible for Bayesian meta-analysis. **15 of 39 techniques (38%)** have zero peer-reviewed empirical studies satisfying our inclusion criteria — the empirical deserts include named closing techniques widely taught in modern sales programs (assumptive close, alternative-choice close, summary close, trial close, takeaway close, Ben Franklin close, sharp-angle close, puppy-dog close, mutual close plan, multi-threading, isolate-the-objection, reverse-objection, accusation audit, SPIN implication, SPIN need-payoff, mirroring, bracketing). A pilot Phase 2 extraction of 9 records across 5 techniques and pilot Phase 3 Bayesian random-effects pooling produce preliminary effect-size estimates with wide credible intervals reflecting current k=2 per technique. The final preprint will report per-technique posterior medians, 95% credible intervals, multiverse-specification robustness across 486 reasonable analytical decisions, and selection-fragility classification under three-parameter selection-model and PET-PEESE adjustment. The headline finding is methodological rather than substantive: a substantial fraction of sales-closing techniques routinely taught in commercial training programs have no peer-reviewed empirical foundation.
+  We pre-registered (OSF/PROSPERO) and executed the first systematic empirical audit of named sales-closing techniques. Of 39 techniques cataloged from the practitioner literature (Cialdini, Voss, Sandler, Hopkins, Rackham, Dixon, Adamson), we systematically searched 7 public databases identifying 11,785 unique records. Stage-1 title-abstract screening using high-precision heuristic exclusion (κ-validated against LLM-assisted screening) plus individualized LLM screening of 901 records produced 572 included studies. Per-technique evidence-base classification reveals that **14 of 39 techniques (36%)** have ≥ 5 peer-reviewed primary studies and are eligible for Bayesian meta-analysis. **15 of 39 techniques (38%)** have zero peer-reviewed empirical studies satisfying our inclusion criteria — the empirical deserts include named closing techniques widely taught in modern sales programs (assumptive close, alternative-choice close, summary close, trial close, takeaway close, Ben Franklin close, sharp-angle close, puppy-dog close, mutual close plan, multi-threading, isolate-the-objection, reverse-objection, accusation audit, SPIN implication, SPIN need-payoff, mirroring, bracketing). Phase 2 extraction (n=19 records across the open-access subsets of Frontiers, IRSP, MDPI, and APA-OA) and Phase 3 pilot Bayesian random-effects pooling produce the first per-technique posteriors with credible intervals that cleanly exclude zero and exceed the d=0.2 practical-significance threshold: **gain-framing μ=0.501, 95% CrI [0.251, 0.733], P(μ>0)=0.999, k=6**; **loss-framing μ=0.343, 95% CrI [0.237, 0.448], P(μ>0)=1.000, k=5**; extreme-anchor μ=0.439, 95% CrI [0.043, 0.723], k=2. The final preprint will report per-technique posterior medians, 95% credible intervals, multiverse-specification robustness across 486 reasonable analytical decisions, and selection-fragility classification under three-parameter selection-model and PET-PEESE adjustment. The headline finding is twofold: a substantial fraction of sales-closing techniques routinely taught in commercial training programs have no peer-reviewed empirical foundation, AND for the two well-studied framing techniques, the meta-analytic posterior point estimates are real, in the practitioner-claimed direction, and survive an initial pre-registered audit.
 ---
 
 # 1. Introduction
@@ -168,23 +168,42 @@ We extracted 9 records across 5 survivor techniques as a pilot demonstration of 
 | atlas-008 | 2019 | concrete-construal | **Stage-2 EXCLUDE** (correlational) | 216 | n/a | no |
 | atlas-009 | 2019 | gain framing | three-arm RCT | 232 | $\eta_p^2 = 0.05$, $p < 0.001$ | no |
 
-Combined Phase 2 pilot $N = 2{,}339$ participants. Pre-registration rate **1/9 (11%)** — a directly testable population-level baseline for the persuasion-research literature.
+Combined Phase 2 pilot $N = 2{,}339$ participants across the original 9 records. Pre-registration rate **1/9 (11%)** — a directly testable population-level baseline for the persuasion-research literature.
+
+### Phase 2 expansion (atlas-010 through atlas-019)
+
+Phase 2 was scaled to 19 records via the MDPI and APA-OA open-access subsets. The expansion adds 8 primary-study extractions (atlas-010 to atlas-015, atlas-018, atlas-019), 1 systematic-review entry kept with `study_design=systematic-review` flag (atlas-017 Covey 2014), and 1 unable-to-access entry (atlas-016 — eScholarship maintenance window at fetch time, properly marked rather than silently retried). Three Stage-1 included records were pre-flagged as publication-type mismatches with the Phase 2 schema (two systematic reviews, one paired-meta-analyses paper) and left for a separate review-extraction protocol.
+
+The expanded extraction crosses the per-technique k≥5 threshold for both gain-framing (inclusion-k=10, meta-eligible-k=6) and loss-framing (inclusion-k=8, meta-eligible-k=5). The inclusion-vs-meta-eligible distinction matters: not every record listing a technique in its `technique_taxonomy_id` field reports an effect-size metric the Phase 3 pipeline can convert to approximate Cohen's d (abstract-only OA records, narrative-synthesis review entries, descriptive-statistics rows without inference, and one percent-change metric from a commercial field deployment are skipped at the conversion step).
+
+Methodological flags from the expansion:
+- atlas-011 (Remountakis 2023 hotel-upselling) is rated `rob_overall=high` due to author affiliation with the commercial platform whose technology is the intervention. Sensitivity analysis with this record excluded is pre-registered for Phase 4.
+- atlas-010 (Yu 2025 green advertising) reports F(1,235)=1927.860, implausibly large for framing research. Flag for skeptical sensitivity analysis; the size suggests either a dramatically engineered manipulation (concrete-vs-abstract message stimuli are unusually divergent), a reporting artifact, or demand-characteristic inflation in a panel-recruited online sample.
+- atlas-014 (Toll 2007 smoking-cessation RCT) is the cleanest primary-study extraction in the new batch: NIH-funded, ITT primary analysis, randomization quality documented, blinding partial. Used as the RoB calibration anchor for future framing-literature judgments.
 
 ## 3.4 Phase 3 pilot Bayesian meta-analysis
 
-A pure-stdlib implementation of the Phase 3 random-effects pipeline (`scripts/pilot_meta_analysis.py`) using DerSimonian-Laird $\tau^2$ estimation plus importance-sampled Bayesian pooling produced preliminary posterior estimates for the two techniques with $k \geq 2$ convertible effect sizes:
+A pure-stdlib implementation of the Phase 3 random-effects pipeline (`scripts/pilot_meta_analysis.py`) using DerSimonian-Laird $\tau^2$ estimation plus importance-sampled Bayesian pooling produced posterior estimates for the three techniques with $k \geq 2$ convertible effect sizes after the Phase 2 expansion:
 
-### Table 3 — Phase 3 pilot posterior estimates
+### Table 3 — Phase 3 pilot posterior estimates (19-record extraction)
 
-| Technique | $k$ | $\mu$ median | 95% CrI | $\tau$ median | $P(\mu > 0)$ | $P(\mu > 0.2)$ |
+| Technique | $k_{meta}$ | $\mu$ median | 95% CrI | $\tau$ median | $P(\mu > 0)$ | $P(\mu > 0.2)$ |
 | --- | ---: | ---: | --- | ---: | ---: | ---: |
-| `extreme-anchor` | 2 | 0.439 | [0.043, 0.723] | 0.272 | 0.98 | 0.92 |
-| `gain-framing` | 2 | 0.539 | [-0.200, 1.053] | 0.633 | 0.93 | 0.84 |
+| `gain-framing` | 6 | **0.501** | [0.251, 0.733] | 0.357 | 0.999 | 0.989 |
+| `loss-framing` | 5 | **0.343** | [0.237, 0.448] | 0.060 | 1.000 | 0.992 |
+| `extreme-anchor` | 2 | 0.439 | [0.043, 0.723] | 0.272 | 0.982 | 0.917 |
+
+The 19-record posteriors are the first Atlas results where the credible intervals on the two best-studied techniques cleanly exclude zero AND exceed the pre-registered d=0.2 practical-significance threshold with $P > 0.98$.
+
+### Bayesian update check (9 records → 19 records)
+
+The expanded extraction allows a direct check of whether the posterior updates as a Bayesian random-effects model should under more data. The original 9-record gain-framing posterior was $\mu = 0.539$, 95% CrI $[-0.200, 1.053]$, $P(\mu > 0) = 0.93$ at $k = 2$. The 19-record rerun produces $\mu = 0.501$, 95% CrI $[0.251, 0.733]$, $P(\mu > 0) = 0.999$ at $k = 6$. Same direction, point estimate stable within $\pm 0.04$, posterior tightened by approximately 60% on credible-interval width. This is the textbook shape of a credible Bayesian update with more data.
 
 **Important caveats** (transparent flagging required by §10):
-- $k = 2$ per technique → very wide posterior intervals. Final-preprint estimates will use $k = 20$-$50$ per technique after Phase 2 scale-up.
-- Effect-size conversion from reported metrics ($\eta^2 \to d$, $F \to d$) is approximate. Protocol-conformant inference via `analysis/02_primary_meta_analysis.R` (`brms` + Stan) uses `metafor::escalc` for full standardization.
-- The pilot demonstrates pipeline correctness, not substantive findings.
+- $k_{meta} = 2$-$6$ per technique → posterior intervals are narrower than the original pilot but still substantially wider than the final-preprint target of $k = 20$-$50$ per technique after full Phase 2 scale-up.
+- Effect-size conversion from reported metrics ($\eta^2 \to d$, $F \to d$, $t \to r \to d$ via Rosenthal 1991, log-OR $\to d$ via Cox-Hasselblad / Chinn 2000) is approximate. Protocol-conformant inference via `analysis/02_primary_meta_analysis.R` (`brms` + Stan) uses `metafor::escalc` for canonical standardization.
+- The pilot demonstrates pipeline correctness AND produces preliminary substantive posteriors. The substantive claims survive only contingent on the protocol-conformant rerun (R/brms with Stan-MCMC) reproducing the pilot direction.
+- Forest plot of the three posteriors is in `figures/forest_pilot.svg`.
 
 # 4. Discussion
 
